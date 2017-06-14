@@ -1,9 +1,9 @@
-#DK60TP
+# DK60TP
 Mechanical keyboard based on HHKB layout with Trackpoint and some other features.
 
 :warning: Still in development :warning:
 
-##Features
+## Features
 - Poker case compatible (if you don't use IBM Trackpoint)
 - IBM Trackpoint
 - Many layouts
@@ -13,17 +13,17 @@ Mechanical keyboard based on HHKB layout with Trackpoint and some other features
 
 ![Layout](./Previews/DK60TP.png "Layout")
 
-##Previews
+## Previews
 
 ![PCB](./Previews/BACK.png "PCB")
 
 ![PCB](./Previews/FRONT.png "PCB Front")
 
-##Firmware
+## Firmware
 
 DK60TP still in development and does not have actually associate firmware, but will be supported by QMK firmware.
 
-##Used softwares
+## Used softwares
 I've only used Open Source software to make all parts of this project.
 
 List of used softwares:
@@ -33,10 +33,10 @@ List of used softwares:
 * Freecad
 * ...
 
-##Third party
+## Third party
 Libraries and Footprint are provided by Hasu, /u/techieee, mohitg11 and me.
 
-##External links
+## External links
 
 * PCB guide: https://github.com/ruiqimao/keyboard-pcb-guide
 * Hasu's lib: https://github.com/tmk/kicad_lib_tmk
