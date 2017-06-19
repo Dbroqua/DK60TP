@@ -383,11 +383,11 @@ Text GLabel 4650 1450 2    60   Input ~ 0
 Col1
 Text GLabel 4650 1350 2    60   Input ~ 0
 Col2
-Text GLabel 4650 2650 2    60   Input ~ 0
+Text GLabel 4650 2750 2    60   Input ~ 0
 Col6
 Text GLabel 2500 1850 0    60   Input ~ 0
 Col7
-Text GLabel 4650 2750 2    60   Input ~ 0
+Text GLabel 4650 2650 2    60   Input ~ 0
 Col8
 Text GLabel 4650 2450 2    60   Input ~ 0
 Col9
