@@ -426,7 +426,7 @@
       (net 123 /TRACKPOINT/Col3))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 118 "Net-(DM34-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3296,7 +3296,7 @@
       (net 93 Col0))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 3 "Net-(D1-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3349,7 +3349,7 @@
       (net 93 Col0))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 4 "Net-(D2-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3402,7 +3402,7 @@
       (net 93 Col0))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 6 "Net-(D4-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3455,7 +3455,7 @@
       (net 93 Col0))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 7 "Net-(D5-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3508,7 +3508,7 @@
       (net 93 Col0))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 7 "Net-(D5-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3561,7 +3561,7 @@
       (net 94 Col1))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 8 "Net-(D6-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3614,7 +3614,7 @@
       (net 94 Col1))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 9 "Net-(D7-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3667,7 +3667,7 @@
       (net 94 Col1))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 10 "Net-(D8-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3720,7 +3720,7 @@
       (net 94 Col1))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 11 "Net-(D9-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3773,7 +3773,7 @@
       (net 94 Col1))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 12 "Net-(D10-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3826,7 +3826,7 @@
       (net 94 Col1))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 12 "Net-(D10-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3879,7 +3879,7 @@
       (net 95 Col2))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 13 "Net-(D11-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3932,7 +3932,7 @@
       (net 95 Col2))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 14 "Net-(D12-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -3985,7 +3985,7 @@
       (net 95 Col2))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 15 "Net-(D13-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4038,7 +4038,7 @@
       (net 95 Col2))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 16 "Net-(D14-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4091,7 +4091,7 @@
       (net 95 Col2))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 17 "Net-(D15-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4144,7 +4144,7 @@
       (net 95 Col2))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 17 "Net-(D15-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4197,7 +4197,7 @@
       (net 86 Col3))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 18 "Net-(D16-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4250,7 +4250,7 @@
       (net 86 Col3))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 19 "Net-(D17-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4303,7 +4303,7 @@
       (net 86 Col3))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 20 "Net-(D18-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4356,7 +4356,7 @@
       (net 86 Col3))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 21 "Net-(D19-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4409,7 +4409,7 @@
       (net 87 Col4))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 22 "Net-(D21-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4462,7 +4462,7 @@
       (net 87 Col4))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 23 "Net-(D22-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4515,7 +4515,7 @@
       (net 87 Col4))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 24 "Net-(D23-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4568,7 +4568,7 @@
       (net 87 Col4))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 25 "Net-(D24-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4621,7 +4621,7 @@
       (net 88 Col5))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 26 "Net-(D26-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4674,7 +4674,7 @@
       (net 88 Col5))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 27 "Net-(D27-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4727,7 +4727,7 @@
       (net 88 Col5))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 28 "Net-(D28-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4780,7 +4780,7 @@
       (net 88 Col5))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 29 "Net-(D29-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4833,7 +4833,7 @@
       (net 98 Col6))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 30 "Net-(D31-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4886,7 +4886,7 @@
       (net 98 Col6))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 31 "Net-(D32-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4939,7 +4939,7 @@
       (net 98 Col6))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 32 "Net-(D33-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -4992,7 +4992,7 @@
       (net 98 Col6))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 33 "Net-(D34-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5045,7 +5045,7 @@
       (net 99 Col7))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 35 "Net-(D36-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5098,7 +5098,7 @@
       (net 99 Col7))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 36 "Net-(D37-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5151,7 +5151,7 @@
       (net 99 Col7))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 37 "Net-(D38-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5204,7 +5204,7 @@
       (net 99 Col7))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 38 "Net-(D39-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5257,7 +5257,7 @@
       (net 105 "Net-(K50-Pad1)"))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 104 "Net-(K50-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5310,7 +5310,7 @@
       (net 100 Col8))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 40 "Net-(D41-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5363,7 +5363,7 @@
       (net 100 Col8))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 41 "Net-(D42-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5416,7 +5416,7 @@
       (net 100 Col8))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 42 "Net-(D43-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5469,7 +5469,7 @@
       (net 101 Col9))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 43 "Net-(D44-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5522,7 +5522,7 @@
       (net 101 Col9))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 44 "Net-(D45-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5575,7 +5575,7 @@
       (net 101 Col9))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 45 "Net-(D46-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5628,7 +5628,7 @@
       (net 101 Col9))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 46 "Net-(D47-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5681,7 +5681,7 @@
       (net 101 Col9))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 47 "Net-(D48-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5734,7 +5734,7 @@
       (net 102 ColA))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 48 "Net-(D49-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5787,7 +5787,7 @@
       (net 102 ColA))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 49 "Net-(D50-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5840,7 +5840,7 @@
       (net 102 ColA))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 50 "Net-(D51-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5893,7 +5893,7 @@
       (net 102 ColA))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 51 "Net-(D52-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5946,7 +5946,7 @@
       (net 102 ColA))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 52 "Net-(D53-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -5999,7 +5999,7 @@
       (net 102 ColA))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 52 "Net-(D53-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6052,7 +6052,7 @@
       (net 103 ColB))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 53 "Net-(D54-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6105,7 +6105,7 @@
       (net 103 ColB))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 54 "Net-(D55-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6158,7 +6158,7 @@
       (net 103 ColB))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 55 "Net-(D56-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6211,7 +6211,7 @@
       (net 103 ColB))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 56 "Net-(D57-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6264,7 +6264,7 @@
       (net 103 ColB))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 57 "Net-(D58-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6317,7 +6317,7 @@
       (net 103 ColB))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 57 "Net-(D58-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6370,7 +6370,7 @@
       (net 103 ColB))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 57 "Net-(D58-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6423,7 +6423,7 @@
       (net 97 ColC))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 58 "Net-(D59-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6476,7 +6476,7 @@
       (net 97 ColC))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 59 "Net-(D60-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6529,7 +6529,7 @@
       (net 97 ColC))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 68 "Net-(D61-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6582,7 +6582,7 @@
       (net 97 ColC))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 70 "Net-(D63-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6635,7 +6635,7 @@
       (net 97 ColC))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 70 "Net-(D63-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6688,7 +6688,7 @@
       (net 96 ColD))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 72 "Net-(D64-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6741,7 +6741,7 @@
       (net 96 ColD))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 73 "Net-(D65-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6794,7 +6794,7 @@
       (net 96 ColD))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 75 "Net-(D67-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6847,7 +6847,7 @@
       (net 93 Col0))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 5 "Net-(D3-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6948,7 +6948,7 @@
       (net 93 Col0))
     (pad 2 thru_hole circle (at 2.54 -5.81 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 6 "Net-(D4-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -6993,7 +6993,7 @@
       (net 98 Col6))
     (pad 2 thru_hole circle (at 2.54 -5.81 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 34 "Net-(D35-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -7046,7 +7046,7 @@
       (net 98 Col6))
     (pad 2 thru_hole circle (at 2.54 -5.81 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 34 "Net-(D35-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -7091,7 +7091,7 @@
       (net 34 "Net-(D35-Pad2)"))
     (pad 2 thru_hole circle (at 2.54 -5.81 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 98 Col6))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -7143,7 +7143,7 @@
       (net 97 ColC))
     (pad 2 thru_hole circle (at 2.54 -5.81 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 69 "Net-(D62-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -7196,7 +7196,7 @@
       (net 96 ColD))
     (pad 2 thru_hole circle (at 2.54 -5.81 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 72 "Net-(D64-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -7249,7 +7249,7 @@
       (net 96 ColD))
     (pad 2 thru_hole circle (at 2.54 -5.81 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 74 "Net-(D66-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -7302,7 +7302,7 @@
       (net 96 ColD))
     (pad 2 thru_hole circle (at 2.54 -5.81 266.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 74 "Net-(D66-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -7355,7 +7355,7 @@
       (net 97 ColC))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 69 "Net-(D62-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -7408,7 +7408,7 @@
       (net 96 ColD))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 74 "Net-(D66-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -7461,7 +7461,7 @@
       (net 75 "Net-(D67-Pad2)"))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 96 ColD))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -7514,7 +7514,7 @@
       (net 69 "Net-(D62-Pad2)"))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 97 ColC))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -8660,7 +8660,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8685,7 +8685,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8710,7 +8710,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8735,7 +8735,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8760,7 +8760,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8785,7 +8785,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8810,7 +8810,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8835,7 +8835,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8860,7 +8860,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 90) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8885,7 +8885,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8910,7 +8910,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8935,7 +8935,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8960,7 +8960,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8985,7 +8985,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9010,7 +9010,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9035,7 +9035,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9060,7 +9060,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9085,7 +9085,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9110,7 +9110,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9135,7 +9135,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9160,7 +9160,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9185,7 +9185,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9210,7 +9210,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9235,7 +9235,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9260,7 +9260,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9285,7 +9285,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9310,7 +9310,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9335,7 +9335,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9360,7 +9360,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9385,7 +9385,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9410,7 +9410,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9435,7 +9435,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9460,7 +9460,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9485,7 +9485,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9510,7 +9510,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9535,7 +9535,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9560,7 +9560,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9585,7 +9585,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9610,7 +9610,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9635,7 +9635,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9660,7 +9660,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9685,7 +9685,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9710,7 +9710,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9735,7 +9735,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9760,7 +9760,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9785,7 +9785,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9810,7 +9810,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9835,7 +9835,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9860,7 +9860,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9885,7 +9885,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9910,7 +9910,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9935,7 +9935,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9960,7 +9960,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9985,7 +9985,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10010,7 +10010,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10035,7 +10035,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10060,7 +10060,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10085,7 +10085,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10110,7 +10110,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10135,7 +10135,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10160,7 +10160,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10185,7 +10185,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10210,7 +10210,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10235,7 +10235,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10260,7 +10260,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10285,7 +10285,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10310,7 +10310,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10335,7 +10335,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10360,7 +10360,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10385,7 +10385,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10410,7 +10410,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10435,7 +10435,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10460,7 +10460,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10485,7 +10485,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10510,7 +10510,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10535,7 +10535,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10560,7 +10560,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10585,7 +10585,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10610,7 +10610,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10635,7 +10635,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10660,7 +10660,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10685,7 +10685,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10710,7 +10710,7 @@
       (net 82 LED_CATH))
     (pad 2 thru_hole circle (at 1.27 0 180) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS)
       (net 80 LED_AN))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10832,7 +10832,7 @@
       (net 123 /TRACKPOINT/Col3))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 118 "Net-(DM34-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -10885,7 +10885,7 @@
       (net 124 /TRACKPOINT/Col4))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 119 "Net-(DM44-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -10938,7 +10938,7 @@
       (net 125 /TRACKPOINT/Col5))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 120 "Net-(DM54-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -10991,7 +10991,7 @@
       (net 125 /TRACKPOINT/Col5))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 120 "Net-(DM54-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -11102,7 +11102,7 @@
       (net 96 ColD))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 76 "Net-(D68-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))
@@ -11155,7 +11155,7 @@
       (net 96 ColD))
     (pad 2 thru_hole circle (at 2.54 -5.08 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS)
       (net 76 "Net-(D68-Pad2)"))
-    (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+    (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
       (at (xyz 0 0 -0.02))
       (scale (xyz 0.4 0.4 0.4))
       (rotate (xyz 0 180 0))

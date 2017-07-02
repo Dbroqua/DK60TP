@@ -12,7 +12,7 @@
   )
   (pad 1 thru_hole rect (at -1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 1.27 0) (size 1.9 1.9) (drill 1.1176) (layers *.Cu *.Mask F.SilkS))
-  (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
+  (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/LED-3MM.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

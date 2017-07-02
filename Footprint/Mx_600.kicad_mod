@@ -32,7 +32,7 @@
   (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.7018 1.7018) (drill 1.7018) (layers *.Cu))
   (pad 1 thru_hole circle (at -3.81 -2.54 330.95) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 2.54 -5.81 356.1) (size 2.5 2.5) (drill 1.5) (layers *.Cu *.Mask F.SilkS))
-  (model ../../../../../home/dbroqua/Webstorm/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
+  (model ../../../../../home/dbroqua/Projects/dbroqua/DK60TP/Footprint/3D/Mx_Alps_100.wrl
     (at (xyz 0 0 -0.02))
     (scale (xyz 0.4 0.4 0.4))
     (rotate (xyz 0 180 0))
