@@ -35,9 +35,9 @@ Capslock led can be tuned to :
 To do this you need to play with the 3 pins connector placed near the reset button.
 
 #### Pinout
-* 1 : +Vled
-* 2 : Integrated led
-* 3 : GND
+* 1: +Vled (square pin)
+* 2: Integrated led
+* 3: GND
 
 #### Example
 
@@ -55,6 +55,11 @@ Remove the jumper or place it between pin 2 and 3.
 To add more leds (use WS2812B with capacitor) simply use `RGB` connector on the mainboard.
 
 :warning: Do not connect `RGB` connector if you use the second PCB (those with mouse buttons).
+
+#### Pinout
+* 1: Vcc (square pin)
+* 2: GND
+* 3: Din
 
 ## Firmware
 
