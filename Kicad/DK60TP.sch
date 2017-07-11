@@ -753,7 +753,7 @@ Wire Wire Line
 Wire Wire Line
 	7650 4400 7650 4300
 Wire Wire Line
-	7200 4450 7200 4400
+	7200 4200 7200 4450
 Connection ~ 7200 4400
 Wire Notes Line
 	6550 4750 7850 4750

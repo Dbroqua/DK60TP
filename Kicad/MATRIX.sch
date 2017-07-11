@@ -2215,4 +2215,8 @@ Wire Wire Line
 	9750 850  9750 1150
 Wire Notes Line
 	500  500  10950 500 
+Wire Wire Line
+	6850 600  6850 850 
+Wire Wire Line
+	6250 850  6250 1150
 $EndSCHEMATC
