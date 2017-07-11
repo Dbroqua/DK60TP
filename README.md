@@ -45,7 +45,7 @@ To do this you need to play with the 3 pins connector placed near the reset butt
 Place a jumper between pin 1 and 2.
 
 ##### External led
-Connect your led and resistor between pin 1 and 3.
+Connect your led between pin 1 and 3.
 
 ##### Disable led
 Remove the jumper or place it between pin 2 and 3.
