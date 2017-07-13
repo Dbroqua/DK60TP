@@ -21,9 +21,23 @@ Mechanical keyboard with backlit, rgb underglow and Trackpoint support.
 
 ![PCB](./Previews/FRONT.png "PCB Front")
 
-## Customisation
+## Features
 
-DK60TP allows some customisations like RGB underglow and caps lock led.
+DK60TP allows some customisations like RGB underglow, caps lock led or mouse emulation by using trackpoint.
+
+For all pinout above, `pin 1` is represented by the square hole.
+
+### Trackpoint
+
+To use trackpoint you need to connect the `MOUSE PCB` with the `MAIN PCB`. Trackpoint need to be connected to the `MOUSE PCB`.
+
+#### Pinout
+
+1. Vcc
+2. GND
+3. D2 (data)
+4. reset
+5. D5 (clock)
 
 ### Capslock led
 
@@ -35,6 +49,7 @@ Capslock led can be tuned to :
 To do this you need to play with the 3 pins connector placed near the reset button.
 
 #### Pinout
+
 * 1: +Vled (square pin)
 * 2: Integrated led
 * 3: GND
@@ -57,6 +72,7 @@ To add more leds (use WS2812B with capacitor) simply use `RGB` connector on the 
 :warning: Do not connect `RGB` connector if you use the second PCB (those with mouse buttons).
 
 #### Pinout
+
 * 1: Vcc (square pin)
 * 2: GND
 * 3: Din
@@ -85,5 +101,6 @@ Libraries and footprints are provided by Hasu, /u/techieee, mohitg11 and me.
 * [Hasu's footprint](https://github.com/tmk/keyboard_parts.pretty)
 * [/u/techieee's footprint](https://github.com/egladman/keebs.pretty)
 * [mohitg11's footprints and libraries](https://github.com/mohitg11/TS65AVR)
+* [Trackpoing pinout on alonswartz github](https://github.com/alonswartz/trackpoint)
 * [Plate generator](http://builder.swillkb.com/)
 * [QMK Firmware](https://github.com/qmk/qmk_firmware)
