@@ -110,5 +110,5 @@ Libraries and footprints are provided by Hasu, /u/techieee, mohitg11 and me.
 * Usergrid (for MX placement): 0.09375 inches
 * Usergrid (for Led placement): 0.1968504 inches
 * Gap between Grid origin and edge cut: 
-   - X: 0.53
-   - Y: 0.50 mm
+   - X: 0.53
+   - Y: 0.50 mm
