@@ -104,3 +104,11 @@ Libraries and footprints are provided by Hasu, /u/techieee, mohitg11 and me.
 * [Trackpoing pinout on alonswartz github](https://github.com/alonswartz/trackpoint)
 * [Plate generator](http://builder.swillkb.com/)
 * [QMK Firmware](https://github.com/qmk/qmk_firmware)
+
+## Kicad tips
+
+* Usergrid (for MX placement): 0.09375 inches
+* Usergrid (for Led placement): 0.1968504 inches
+* Gap between Grid origin and edge cut: 
+   - X: 0.53
+   - Y: 0.50 mm
