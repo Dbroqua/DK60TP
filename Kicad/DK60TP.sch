@@ -238,8 +238,8 @@ L ATMEGA32U4 U0
 U 1 1 591F6C9B
 P 3550 1900
 F 0 "U0" H 3550 650 60  0001 C CNN
-F 1 "ATMEGA32U4" H 3550 3150 60  0001 C CNN
-F 2 "Housings_QFP:TQFP-44_10x10mm_Pitch0.8mm" H 3550 1900 60  0001 C CNN
+F 1 "ATMEGA32U4-MU" H 3550 3150 60  0001 C CNN
+F 2 "Housings_DFN_QFN:QFN-44-1EP_7x7mm_Pitch0.5mm" H 3550 1900 60  0001 C CNN
 F 3 "" H 3550 1900 60  0000 C CNN
 	1    3550 1900
 	1    0    0    -1  
@@ -369,7 +369,7 @@ F8 "GND" I R 6800 1800 60
 F9 "VCC" I R 6800 1900 60 
 F10 "RGB" I R 6800 2000 60 
 $EndSheet
-Text GLabel 2500 1650 0    60   Input ~ 0
+Text GLabel 2500 1550 0    60   Input ~ 0
 Col5
 Text GLabel 4650 2250 2    60   Input ~ 0
 Col4
@@ -383,7 +383,7 @@ Text GLabel 4650 1450 2    60   Input ~ 0
 Col1
 Text GLabel 4650 1350 2    60   Input ~ 0
 Col2
-Text GLabel 4650 2750 2    60   Input ~ 0
+Text GLabel 2500 1750 0    60   Input ~ 0
 Col6
 Text GLabel 2500 1850 0    60   Input ~ 0
 Col7
@@ -397,7 +397,7 @@ Text GLabel 2500 2650 0    60   Input ~ 0
 ColB
 Text GLabel 2500 2550 0    60   Input ~ 0
 ColC
-Text GLabel 2500 1550 0    60   Input ~ 0
+Text GLabel 4650 2750 2    60   Input ~ 0
 ColD
 Text GLabel 4650 1550 2    60   Input ~ 0
 Row0
@@ -405,7 +405,7 @@ Text GLabel 4650 2150 2    60   Input ~ 0
 Row1
 Text GLabel 4650 2350 2    60   Input ~ 0
 Row2
-Text GLabel 2500 1750 0    60   Input ~ 0
+Text GLabel 2500 1650 0    60   Input ~ 0
 Row3
 $Comp
 L GND #PWR011
@@ -526,39 +526,6 @@ F 1 "MISC" H 900 3800 60  0000 C CNN
 F 2 "Footprint:BreakHoles" H 900 3950 60  0001 C CNN
 F 3 "" H 900 3950 60  0000 C CNN
 	1    900  3950
-	1    0    0    -1  
-$EndComp
-$Comp
-L MISC M3
-U 1 1 593CCFFA
-P 1250 3950
-F 0 "M3" H 1250 4100 60  0000 C CNN
-F 1 "MISC" H 1250 3800 60  0000 C CNN
-F 2 "Footprint:BreakHoles" H 1250 3950 60  0001 C CNN
-F 3 "" H 1250 3950 60  0000 C CNN
-	1    1250 3950
-	1    0    0    -1  
-$EndComp
-$Comp
-L MISC M2
-U 1 1 593CD07A
-P 900 4400
-F 0 "M2" H 900 4550 60  0000 C CNN
-F 1 "MISC" H 900 4250 60  0000 C CNN
-F 2 "Footprint:BreakHoles" H 900 4400 60  0001 C CNN
-F 3 "" H 900 4400 60  0000 C CNN
-	1    900  4400
-	1    0    0    -1  
-$EndComp
-$Comp
-L MISC M4
-U 1 1 593CD101
-P 1250 4400
-F 0 "M4" H 1250 4550 60  0000 C CNN
-F 1 "MISC" H 1250 4250 60  0000 C CNN
-F 2 "Footprint:BreakHoles" H 1250 4400 60  0001 C CNN
-F 3 "" H 1250 4400 60  0000 C CNN
-	1    1250 4400
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -771,4 +738,15 @@ Text Label 6800 2650 0    60   ~ 0
 RGB_TP
 Text Label 5600 4250 0    60   ~ 0
 RGB_TP
+$Comp
+L MISC M2
+U 1 1 59F15D36
+P 1300 3950
+F 0 "M2" H 1300 4100 60  0000 C CNN
+F 1 "MISC" H 1300 3800 60  0000 C CNN
+F 2 "Footprint:BreakHoles" H 1300 3950 60  0001 C CNN
+F 3 "" H 1300 3950 60  0000 C CNN
+	1    1300 3950
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

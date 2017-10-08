@@ -99,7 +99,7 @@ U 1 1 594A7AA3
 P 2400 2050
 F 0 "J3" H 2350 2250 60  0000 C CNN
 F 1 "CAPS_LOCK" H 2350 1850 60  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Angled_1x03" H 2400 2050 60  0001 C CNN
+F 2 "Pin_Headers:Pin_Header_Angled_1x03_Pitch2.54mm" H 2400 2050 60  0001 C CNN
 F 3 "" H 2400 2050 60  0000 C CNN
 	1    2400 2050
 	0    -1   -1   0   
