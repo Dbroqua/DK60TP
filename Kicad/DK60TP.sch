@@ -1,36 +1,5 @@
 EESchema Schematic File Version 2
 LIBS:power
-LIBS:device
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-LIBS:keyboard_parts
-LIBS:mkl27z256vfm4
-LIBS:TS65
 LIBS:DK60TP-cache
 EELAYER 25 0
 EELAYER END
@@ -234,7 +203,7 @@ F 3 "" H 5150 2600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L ATMEGA32U4 U0
+L ATMEGA32U4-MU U0
 U 1 1 591F6C9B
 P 3550 1900
 F 0 "U0" H 3550 650 60  0001 C CNN
