@@ -702,7 +702,7 @@ F 1 "K3D" H 10050 4100 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 10050 4200 60  0001 C CNN
 F 3 "" H 10050 4200 60  0000 C CNN
 	1    10050 4200
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW KC32
