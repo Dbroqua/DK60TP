@@ -255,7 +255,7 @@ F 1 "22" V 1600 1150 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 1530 1150 50  0001 C CNN
 F 3 "" H 1600 1150 50  0001 C CNN
 	1    1600 1150
-	0    -1   -1   0   
+	0    1    1    0   
 $EndComp
 $Comp
 L C_Small C8
