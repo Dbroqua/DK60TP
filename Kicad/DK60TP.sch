@@ -481,7 +481,7 @@ U 1 1 593CCEE2
 P 900 4300
 F 0 "M1" H 900 4450 60  0000 C CNN
 F 1 "MISC" H 900 4150 60  0000 C CNN
-F 2 "Footprint:BreakHoles" H 900 4300 60  0001 C CNN
+F 2 "Footprint:BreakHoles_small" H 900 4300 60  0001 C CNN
 F 3 "" H 900 4300 60  0000 C CNN
 	1    900  4300
 	1    0    0    -1  
@@ -700,7 +700,7 @@ U 1 1 59F15D36
 P 1300 4300
 F 0 "M2" H 1300 4450 60  0000 C CNN
 F 1 "MISC" H 1300 4150 60  0000 C CNN
-F 2 "Footprint:BreakHoles" H 1300 4300 60  0001 C CNN
+F 2 "Footprint:BreakHoles_small" H 1300 4300 60  0001 C CNN
 F 3 "" H 1300 4300 60  0000 C CNN
 	1    1300 4300
 	1    0    0    -1  
