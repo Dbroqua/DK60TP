@@ -317,7 +317,7 @@ S 5550 1550 1250 500
 U 5934BBCF
 F0 "TRACKPOINT" 60
 F1 "TRACKPOINT.sch" 60
-F2 "Col5" I L 5550 1600 60 
+F2 "Col8" I L 5550 1600 60 
 F3 "Col4" I L 5550 1700 60 
 F4 "Col3" I L 5550 1800 60 
 F5 "Row4" I L 5550 1900 60 
@@ -329,25 +329,25 @@ F10 "RGB" I R 6800 2000 60
 $EndSheet
 Text GLabel 2500 1550 0    60   Input ~ 0
 Col5
-Text GLabel 4650 2250 2    60   Input ~ 0
+Text GLabel 4650 1550 2    60   Input ~ 0
 Col4
-Text GLabel 4650 1250 2    60   Input ~ 0
-Col3
-Text GLabel 4650 2050 2    60   Input ~ 0
-Row4
 Text GLabel 4650 1650 2    60   Input ~ 0
+Col3
+Text GLabel 4650 2650 2    60   Input ~ 0
+Row4
+Text GLabel 4650 2450 2    60   Input ~ 0
 Col0
-Text GLabel 4650 1450 2    60   Input ~ 0
+Text GLabel 4650 2350 2    60   Input ~ 0
 Col1
-Text GLabel 4650 1350 2    60   Input ~ 0
+Text GLabel 4650 2150 2    60   Input ~ 0
 Col2
 Text GLabel 2500 1750 0    60   Input ~ 0
 Col6
 Text GLabel 2500 1850 0    60   Input ~ 0
 Col7
-Text GLabel 4650 2650 2    60   Input ~ 0
+Text GLabel 4650 1350 2    60   Input ~ 0
 Col8
-Text GLabel 4650 2450 2    60   Input ~ 0
+Text GLabel 4650 1250 2    60   Input ~ 0
 Col9
 Text GLabel 2500 2850 0    60   Input ~ 0
 ColA
@@ -357,11 +357,11 @@ Text GLabel 2500 2550 0    60   Input ~ 0
 ColC
 Text GLabel 4650 2750 2    60   Input ~ 0
 ColD
-Text GLabel 4650 1550 2    60   Input ~ 0
+Text GLabel 4650 2050 2    60   Input ~ 0
 Row0
-Text GLabel 4650 2150 2    60   Input ~ 0
+Text GLabel 4650 1450 2    60   Input ~ 0
 Row1
-Text GLabel 4650 2350 2    60   Input ~ 0
+Text GLabel 4650 2250 2    60   Input ~ 0
 Row2
 Text GLabel 2500 1650 0    60   Input ~ 0
 Row3
@@ -453,7 +453,7 @@ F 3 "" H 5350 3200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Text GLabel 5100 4400 0    60   Input ~ 0
-Col5
+Col8
 Text GLabel 5600 4300 2    60   Input ~ 0
 Col4
 Text GLabel 5100 4300 0    60   Input ~ 0
