@@ -256,7 +256,7 @@ Col8
 Text Label 7600 900  0    60   ~ 0
 Col8
 Text Label 8050 1250 0    60   ~ 0
-Col5
+Col8
 Wire Wire Line
 	8050 1150 8300 1150
 Text Label 1350 900  0    60   ~ 0

@@ -812,7 +812,7 @@ F 1 "K46" H 5150 6050 60  0001 C CNN
 F 2 "Footprint:Mx_700" H 5150 6150 60  0001 C CNN
 F 3 "" H 5150 6150 60  0000 C CNN
 	1    5150 6150
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K940
@@ -2146,7 +2146,7 @@ F 1 "K46" H 5150 5600 60  0001 C CNN
 F 2 "Footprint:Mx_100" H 5150 5700 60  0001 C CNN
 F 3 "" H 5150 5700 60  0000 C CNN
 	1    5150 5700
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4150 5550 4150 6400
