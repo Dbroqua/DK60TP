@@ -1,111 +1,15 @@
 EESchema Schematic File Version 2
-LIBS:74xgxx
-LIBS:74xx
-LIBS:ac-dc
-LIBS:actel
-LIBS:adc-dac
-LIBS:allegro
-LIBS:Altera
-LIBS:analog_devices
-LIBS:analog_switches
-LIBS:audio
-LIBS:battery_management
-LIBS:bbd
-LIBS:bosch
-LIBS:brooktre
-LIBS:cmos4000
-LIBS:cmos_ieee
-LIBS:conn
-LIBS:contrib
-LIBS:cypress
-LIBS:dc-dc
-LIBS:device
-LIBS:digital-audio
-LIBS:diode
-LIBS:display
-LIBS:dsp
-LIBS:elec-unifil
-LIBS:ESD_Protection
-LIBS:ftdi
-LIBS:gennum
-LIBS:graphic_symbols
-LIBS:hc11
-LIBS:infineon
-LIBS:intel
-LIBS:interface
-LIBS:intersil
-LIBS:ir
-LIBS:Lattice
-LIBS:leds
-LIBS:LEM
-LIBS:linear
-LIBS:logic_programmable
-LIBS:maxim
-LIBS:mechanical
-LIBS:memory
-LIBS:microchip
-LIBS:microchip_dspic33dsc
-LIBS:microchip_pic10mcu
-LIBS:microchip_pic12mcu
-LIBS:microchip_pic16mcu
-LIBS:microchip_pic18mcu
-LIBS:microchip_pic24mcu
-LIBS:microchip_pic32mcu
-LIBS:microcontrollers
-LIBS:modules
-LIBS:motor_drivers
-LIBS:motorola
-LIBS:motors
-LIBS:msp430
-LIBS:nordicsemi
-LIBS:nxp
-LIBS:nxp_armmcu
-LIBS:onsemi
-LIBS:opto
-LIBS:Oscillators
-LIBS:philips
-LIBS:power
-LIBS:powerint
-LIBS:Power_Management
-LIBS:pspice
-LIBS:references
-LIBS:regul
-LIBS:relays
-LIBS:rfcom
-LIBS:RFSolutions
-LIBS:sensors
-LIBS:silabs
-LIBS:siliconi
-LIBS:stm8
-LIBS:stm32
-LIBS:supertex
-LIBS:switches
-LIBS:texas
-LIBS:transf
-LIBS:transistors
-LIBS:triac_thyristor
-LIBS:ttl_ieee
-LIBS:valves
-LIBS:video
-LIBS:wiznet
-LIBS:Xicor
-LIBS:xilinx
-LIBS:zetex
-LIBS:Zilog
 LIBS:keyboard_parts
-LIBS:mkl27z256vfm4
-LIBS:Trackpad
-LIBS:TS65
 LIBS:DK60TP-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 7
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "DK60TP"
+Date "2017-10-14"
+Rev "B"
+Comp "DarKou.fr"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -118,7 +22,8 @@ P 1100 1600
 F 0 "C10" H 1110 1670 50  0000 L CNN
 F 1 "10uF" H 1110 1520 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1100 1600 50  0001 C CNN
-F 3 "" H 1100 1600 50  0000 C CNN
+F 3 "http://www.mouser.com/ds/2/447/Yageo_UPY-GP_NP0_16V-to-50V_9-358835.pdf" H 1100 1600 50  0001 C CNN
+F 4 "CC0805ZKY5V7BB106" H 1100 1600 60  0001 C CNN "manf#"
 	1    1100 1600
 	1    0    0    1   
 $EndComp
@@ -140,7 +45,8 @@ P 2450 1300
 F 0 "U1" H 2300 1500 60  0000 C CNN
 F 1 "PAM2804" H 2450 1100 60  0000 C CNN
 F 2 "Footprint:SOT-23-5" H 2450 1350 60  0001 C CNN
-F 3 "" H 2450 1350 60  0000 C CNN
+F 3 "http://www.mouser.com/ds/2/115/PAM2804-247271.pdf" H 2450 1350 60  0001 C CNN
+F 4 "PAM2804AAB010" H 2450 1300 60  0001 C CNN "manf#"
 	1    2450 1300
 	1    0    0    -1  
 $EndComp
@@ -159,10 +65,13 @@ $Comp
 L INDUCTOR L1
 U 1 1 5932EA3C
 P 3250 1200
+AR Path="/5932EA3C" Ref="L1"  Part="1" 
+AR Path="/5932D4E4/5932EA3C" Ref="L1"  Part="1" 
 F 0 "L1" V 3200 1200 40  0000 C CNN
 F 1 "4.7uH" V 3350 1200 40  0000 C CNN
 F 2 "Footprint:Inductor_Bourn_4mmx4mm" H 3250 1200 60  0001 C CNN
-F 3 "" H 3250 1200 60  0000 C CNN
+F 3 "http://www.mouser.com/ds/2/445/744766904-709959.pdf" H 3250 1200 60  0001 C CNN
+F 4 "744766904" V 3250 1200 60  0001 C CNN "manf#"
 	1    3250 1200
 	0    -1   -1   0   
 $EndComp
@@ -173,7 +82,8 @@ P 3900 1400
 F 0 "C11" H 3910 1470 50  0000 L CNN
 F 1 "10uF" H 3910 1320 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3900 1400 50  0001 C CNN
-F 3 "" H 3900 1400 50  0000 C CNN
+F 3 "http://www.mouser.com/ds/2/447/Yageo_UPY-GP_NP0_16V-to-50V_9-358835.pdf" H 3900 1400 50  0001 C CNN
+F 4 "CC0805ZKY5V7BB106" H 3900 1400 60  0001 C CNN "manf#"
 	1    3900 1400
 	1    0    0    1   
 $EndComp
@@ -197,7 +107,8 @@ P 3450 1400
 F 0 "R5" V 3530 1400 50  0000 C CNN
 F 1 "0.5" V 3450 1400 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 3380 1400 50  0001 C CNN
-F 3 "" H 3450 1400 50  0000 C CNN
+F 3 "http://www.mouser.com/ds/2/447/PYu-RL_Group_521_RoHS_L_2-1131815.pdf" H 3450 1400 50  0001 C CNN
+F 4 "RL0805FR-7W0R5L" V 3450 1400 60  0001 C CNN "manf#"
 	1    3450 1400
 	0    1    1    0   
 $EndComp

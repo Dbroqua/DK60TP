@@ -1,101 +1,5 @@
 EESchema Schematic File Version 2
-LIBS:74xgxx
-LIBS:74xx
-LIBS:ac-dc
-LIBS:actel
-LIBS:adc-dac
-LIBS:allegro
-LIBS:Altera
-LIBS:analog_devices
-LIBS:analog_switches
-LIBS:audio
-LIBS:battery_management
-LIBS:bbd
-LIBS:bosch
-LIBS:brooktre
-LIBS:cmos4000
-LIBS:cmos_ieee
-LIBS:conn
-LIBS:contrib
-LIBS:cypress
-LIBS:dc-dc
-LIBS:device
-LIBS:digital-audio
-LIBS:diode
-LIBS:display
-LIBS:dsp
-LIBS:elec-unifil
-LIBS:ESD_Protection
-LIBS:ftdi
-LIBS:gennum
-LIBS:graphic_symbols
-LIBS:hc11
-LIBS:infineon
-LIBS:intel
-LIBS:interface
-LIBS:intersil
-LIBS:ir
-LIBS:Lattice
-LIBS:leds
-LIBS:LEM
-LIBS:linear
-LIBS:logic_programmable
-LIBS:maxim
-LIBS:mechanical
-LIBS:memory
-LIBS:microchip
-LIBS:microchip_dspic33dsc
-LIBS:microchip_pic10mcu
-LIBS:microchip_pic12mcu
-LIBS:microchip_pic16mcu
-LIBS:microchip_pic18mcu
-LIBS:microchip_pic24mcu
-LIBS:microchip_pic32mcu
-LIBS:microcontrollers
-LIBS:modules
-LIBS:motor_drivers
-LIBS:motorola
-LIBS:motors
-LIBS:msp430
-LIBS:nordicsemi
-LIBS:nxp
-LIBS:nxp_armmcu
-LIBS:onsemi
-LIBS:opto
-LIBS:Oscillators
-LIBS:philips
-LIBS:power
-LIBS:powerint
-LIBS:Power_Management
-LIBS:pspice
-LIBS:references
-LIBS:regul
-LIBS:relays
-LIBS:rfcom
-LIBS:RFSolutions
-LIBS:sensors
-LIBS:silabs
-LIBS:siliconi
-LIBS:stm8
-LIBS:stm32
-LIBS:supertex
-LIBS:switches
-LIBS:texas
-LIBS:transf
-LIBS:transistors
-LIBS:triac_thyristor
-LIBS:ttl_ieee
-LIBS:valves
-LIBS:video
-LIBS:wiznet
-LIBS:Xicor
-LIBS:xilinx
-LIBS:zetex
-LIBS:Zilog
 LIBS:keyboard_parts
-LIBS:mkl27z256vfm4
-LIBS:Trackpad
-LIBS:TS65
 LIBS:DK60TP-cache
 EELAYER 25 0
 EELAYER END
@@ -103,8 +7,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 7
 Title "DK60TP"
-Date "2017-06-01"
-Rev "A"
+Date "2017-10-14"
+Rev "B"
 Comp "DarKou.fr"
 Comment1 ""
 Comment2 ""
@@ -118,7 +22,8 @@ P 6750 4550
 F 0 "C1" H 6760 4620 50  0000 L CNN
 F 1 "22p" H 6760 4470 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 6750 4550 50  0001 C CNN
-F 3 "" H 6750 4550 50  0001 C CNN
+F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 6750 4550 50  0001 C CNN
+F 4 "C0805C220J5GACTU" H 6750 4550 60  0001 C CNN "manf#"
 	1    6750 4550
 	1    0    0    -1  
 $EndComp
@@ -129,7 +34,8 @@ P 7650 4550
 F 0 "C2" H 7660 4620 50  0000 L CNN
 F 1 "22p" H 7660 4470 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 7650 4550 50  0001 C CNN
-F 3 "" H 7650 4550 50  0001 C CNN
+F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 7650 4550 50  0001 C CNN
+F 4 "C0805C220J5GACTU" H 7650 4550 60  0001 C CNN "manf#"
 	1    7650 4550
 	1    0    0    -1  
 $EndComp
@@ -162,7 +68,8 @@ P 1900 4400
 F 0 "C3" H 1910 4470 50  0000 L CNN
 F 1 "0.1u" H 1910 4320 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1900 4400 50  0001 C CNN
-F 3 "" H 1900 4400 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf" H 1900 4400 50  0001 C CNN
+F 4 "CC0805ZRY5V9BB104" H 1900 4400 60  0001 C CNN "manf#"
 	1    1900 4400
 	1    0    0    -1  
 $EndComp
@@ -173,7 +80,8 @@ P 2100 4400
 F 0 "C4" H 2110 4470 50  0000 L CNN
 F 1 "0.1u" H 2110 4320 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 2100 4400 50  0001 C CNN
-F 3 "" H 2100 4400 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf" H 2100 4400 50  0001 C CNN
+F 4 "CC0805ZRY5V9BB104" H 2100 4400 60  0001 C CNN "manf#"
 	1    2100 4400
 	1    0    0    -1  
 $EndComp
@@ -184,7 +92,8 @@ P 2700 4400
 F 0 "C7" H 2710 4470 50  0000 L CNN
 F 1 "4.7u" H 2710 4320 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 2700 4400 50  0001 C CNN
-F 3 "" H 2700 4400 50  0001 C CNN
+F 3 "http://psearch.en.murata.com/capacitor/product/GRM21BR61E475KA12%23.pdf" H 2700 4400 50  0001 C CNN
+F 4 "GRM21BR61E475KA12L" H 2700 4400 60  0001 C CNN "manf#"
 	1    2700 4400
 	1    0    0    -1  
 $EndComp
@@ -195,7 +104,8 @@ P 2300 4400
 F 0 "C5" H 2310 4470 50  0000 L CNN
 F 1 "0.1u" H 2310 4320 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 2300 4400 50  0001 C CNN
-F 3 "" H 2300 4400 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf" H 2300 4400 50  0001 C CNN
+F 4 "CC0805ZRY5V9BB104" H 2300 4400 60  0001 C CNN "manf#"
 	1    2300 4400
 	1    0    0    -1  
 $EndComp
@@ -206,7 +116,8 @@ P 2500 4400
 F 0 "C6" H 2510 4470 50  0000 L CNN
 F 1 "0.1u" H 2510 4320 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 2500 4400 50  0001 C CNN
-F 3 "" H 2500 4400 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf" H 2500 4400 50  0001 C CNN
+F 4 "CC0805ZRY5V9BB104" H 2500 4400 60  0001 C CNN "manf#"
 	1    2500 4400
 	1    0    0    -1  
 $EndComp
@@ -228,7 +139,8 @@ P 3650 4550
 F 0 "SW1" H 3800 4660 50  0000 C CNN
 F 1 "RESET" H 3650 4470 50  0000 C CNN
 F 2 "Buttons_Switches_SMD:SW_SPST_TL3342" H 3650 4550 60  0001 C CNN
-F 3 "" H 3650 4550 60  0000 C CNN
+F 3 "https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf" H 3650 4550 60  0001 C CNN
+F 4 "TL3342F160QG/TR" H 3650 4550 60  0001 C CNN "manf#"
 	1    3650 4550
 	1    0    0    -1  
 $EndComp
@@ -239,7 +151,8 @@ P 3500 4250
 F 0 "R1" V 3580 4250 50  0000 C CNN
 F 1 "10K" V 3500 4250 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 3430 4250 50  0001 C CNN
-F 3 "" H 3500 4250 50  0001 C CNN
+F 3 "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf" H 3500 4250 50  0001 C CNN
+F 4 "RMCF0805JT10K0" V 3500 4250 60  0001 C CNN "manf#"
 	1    3500 4250
 	0    -1   -1   0   
 $EndComp
@@ -272,7 +185,8 @@ P 5150 2300
 F 0 "R2" V 5230 2300 50  0000 C CNN
 F 1 "10K" V 5150 2300 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 5080 2300 50  0001 C CNN
-F 3 "" H 5150 2300 50  0001 C CNN
+F 3 "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf" H 5150 2300 50  0001 C CNN
+F 4 "RMCF0805JT10K0" V 5150 2300 60  0001 C CNN "manf#"
 	1    5150 2300
 	-1   0    0    1   
 $EndComp
@@ -294,7 +208,8 @@ P 3550 1900
 F 0 "U0" H 3550 650 60  0001 C CNN
 F 1 "ATMEGA32U4-MU" H 3550 3150 60  0001 C CNN
 F 2 "Housings_DFN_QFN:QFN-44-1EP_7x7mm_Pitch0.5mm" H 3550 1900 60  0001 C CNN
-F 3 "" H 3550 1900 60  0000 C CNN
+F 3 "http://www.atmel.com/Images/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 3550 1900 60  0001 C CNN
+F 4 "ATMEGA32U4-MU" H 3550 1900 60  0001 C CNN "manf#"
 	1    3550 1900
 	1    0    0    -1  
 $EndComp
@@ -305,7 +220,8 @@ P 1100 1100
 F 0 "J1" H 700 1050 60  0000 C CNN
 F 1 "USB_mini_micro_B" H 950 1350 60  0001 C CNN
 F 2 "Footprint:USB_miniB_hirose_5S8" H 1050 1100 60  0001 C CNN
-F 3 "" H 1050 1100 60  0000 C CNN
+F 3 "https://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UX60S.pdf" H 1050 1100 60  0001 C CNN
+F 4 "UX60SC-MB-5S8" H 1100 1100 60  0001 C CNN "manf#"
 	1    1100 1100
 	1    0    0    -1  
 $EndComp
@@ -327,7 +243,8 @@ P 1950 1050
 F 0 "R3" V 2030 1050 50  0000 C CNN
 F 1 "22" V 1950 1050 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 1880 1050 50  0001 C CNN
-F 3 "" H 1950 1050 50  0001 C CNN
+F 3 "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf" H 1950 1050 50  0001 C CNN
+F 4 "RMCF0805JT22R0" V 1950 1050 60  0001 C CNN "manf#"
 	1    1950 1050
 	0    1    1    0   
 $EndComp
@@ -338,7 +255,8 @@ P 1600 1150
 F 0 "R4" V 1680 1150 50  0000 L CNN
 F 1 "22" V 1600 1150 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 1530 1150 50  0001 C CNN
-F 3 "" H 1600 1150 50  0001 C CNN
+F 3 "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf" H 1600 1150 50  0001 C CNN
+F 4 "RMCF0805JT22R0" V 1600 1150 60  0001 C CNN "manf#"
 	1    1600 1150
 	0    1    1    0   
 $EndComp
@@ -349,7 +267,8 @@ P 1800 1350
 F 0 "C8" H 1810 1420 50  0000 L CNN
 F 1 "1u" H 1810 1270 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1800 1350 50  0001 C CNN
-F 3 "" H 1800 1350 50  0001 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf" H 1800 1350 50  0001 C CNN
+F 4 "CC0805KKX7R7BB105" H 1800 1350 60  0001 C CNN "manf#"
 	1    1800 1350
 	0    1    1    0   
 $EndComp
@@ -357,8 +276,6 @@ Text GLabel 2500 2950 0    60   Input ~ 0
 D5
 Text GLabel 2500 2750 0    60   Input ~ 0
 D2
-Text Notes 10550 7650 0    60   ~ 0
-B
 $Comp
 L GND #PWR08
 U 1 1 593106C4
@@ -533,7 +450,8 @@ P 5350 4400
 F 0 "P1" H 5350 4650 50  0000 C CNN
 F 1 "MOUSE_BOARD" H 5350 4100 50  0000 C CNN
 F 2 "Connectors_Molex:Molex_PicoBlade_53048-1010_10x1.25mm_Angled" H 5350 3200 50  0001 C CNN
-F 3 "" H 5350 3200 50  0000 C CNN
+F 3 "http://www.mouser.com/ds/2/276/0530481010_PCB_HEADERS-146506.pdf" H 5350 3200 50  0001 C CNN
+F 4 "53048-1010" H 5350 4400 60  0001 C CNN "manf#"
 	1    5350 4400
 	1    0    0    -1  
 $EndComp
@@ -797,7 +715,7 @@ Wire Wire Line
 	3800 3250 3800 3350
 Connection ~ 3800 3350
 $Comp
-L Crystal Y1
+L CRYSTAL Y1
 U 1 1 59E2052B
 P 7200 4350
 F 0 "Y1" H 7200 4500 50  0000 C CNN

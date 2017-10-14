@@ -1,111 +1,15 @@
 EESchema Schematic File Version 2
-LIBS:74xgxx
-LIBS:74xx
-LIBS:ac-dc
-LIBS:actel
-LIBS:adc-dac
-LIBS:allegro
-LIBS:Altera
-LIBS:analog_devices
-LIBS:analog_switches
-LIBS:audio
-LIBS:battery_management
-LIBS:bbd
-LIBS:bosch
-LIBS:brooktre
-LIBS:cmos4000
-LIBS:cmos_ieee
-LIBS:conn
-LIBS:contrib
-LIBS:cypress
-LIBS:dc-dc
-LIBS:device
-LIBS:digital-audio
-LIBS:diode
-LIBS:display
-LIBS:dsp
-LIBS:elec-unifil
-LIBS:ESD_Protection
-LIBS:ftdi
-LIBS:gennum
-LIBS:graphic_symbols
-LIBS:hc11
-LIBS:infineon
-LIBS:intel
-LIBS:interface
-LIBS:intersil
-LIBS:ir
-LIBS:Lattice
-LIBS:leds
-LIBS:LEM
-LIBS:linear
-LIBS:logic_programmable
-LIBS:maxim
-LIBS:mechanical
-LIBS:memory
-LIBS:microchip
-LIBS:microchip_dspic33dsc
-LIBS:microchip_pic10mcu
-LIBS:microchip_pic12mcu
-LIBS:microchip_pic16mcu
-LIBS:microchip_pic18mcu
-LIBS:microchip_pic24mcu
-LIBS:microchip_pic32mcu
-LIBS:microcontrollers
-LIBS:modules
-LIBS:motor_drivers
-LIBS:motorola
-LIBS:motors
-LIBS:msp430
-LIBS:nordicsemi
-LIBS:nxp
-LIBS:nxp_armmcu
-LIBS:onsemi
-LIBS:opto
-LIBS:Oscillators
-LIBS:philips
-LIBS:power
-LIBS:powerint
-LIBS:Power_Management
-LIBS:pspice
-LIBS:references
-LIBS:regul
-LIBS:relays
-LIBS:rfcom
-LIBS:RFSolutions
-LIBS:sensors
-LIBS:silabs
-LIBS:siliconi
-LIBS:stm8
-LIBS:stm32
-LIBS:supertex
-LIBS:switches
-LIBS:texas
-LIBS:transf
-LIBS:transistors
-LIBS:triac_thyristor
-LIBS:ttl_ieee
-LIBS:valves
-LIBS:video
-LIBS:wiznet
-LIBS:Xicor
-LIBS:xilinx
-LIBS:zetex
-LIBS:Zilog
 LIBS:keyboard_parts
-LIBS:mkl27z256vfm4
-LIBS:Trackpad
-LIBS:TS65
 LIBS:DK60TP-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 6 7
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "DK60TP"
+Date "2017-10-14"
+Rev "B"
+Comp "DarKou.fr"
 Comment1 ""
 Comment2 ""
 Comment3 ""
@@ -130,6 +34,7 @@ F 0 "RGB0" H 2550 1650 50  0000 L CNN
 F 1 "WS2812B" H 2500 1250 50  0001 L CNN
 F 2 "Footprint:WS2812B" H 2700 1450 50  0001 L CNN
 F 3 "" H 2700 1450 60  0000 C CNN
+F 4 "COM-13667" H 2700 1450 60  0001 C CNN "manf#"
 	1    2700 1450
 	1    0    0    -1  
 $EndComp
@@ -142,7 +47,8 @@ P 1950 1600
 F 0 "CRGB0" H 1960 1670 50  0001 L CNN
 F 1 "0.1u" H 1960 1520 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1950 1600 50  0001 C CNN
-F 3 "" H 1950 1600 50  0000 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf" H 1950 1600 50  0001 C CNN
+F 4 "CC0805ZRY5V9BB104" H 1950 1600 60  0001 C CNN "manf#"
 	1    1950 1600
 	1    0    0    -1  
 $EndComp
@@ -154,6 +60,7 @@ F 0 "RGB1" H 2550 2250 50  0000 L CNN
 F 1 "WS2812B" H 2500 1850 50  0001 L CNN
 F 2 "Footprint:WS2812B" H 2700 2050 50  0001 L CNN
 F 3 "" H 2700 2050 60  0000 C CNN
+F 4 "COM-13667" H 2700 2050 60  0001 C CNN "manf#"
 	1    2700 2050
 	1    0    0    -1  
 $EndComp
@@ -165,6 +72,7 @@ F 0 "RGB2" H 2550 2850 50  0000 L CNN
 F 1 "WS2812B" H 2500 2450 50  0001 L CNN
 F 2 "Footprint:WS2812B" H 2700 2650 50  0001 L CNN
 F 3 "" H 2700 2650 60  0000 C CNN
+F 4 "COM-13667" H 2700 2650 60  0001 C CNN "manf#"
 	1    2700 2650
 	1    0    0    -1  
 $EndComp
@@ -176,6 +84,7 @@ F 0 "RGB3" H 2550 3450 50  0000 L CNN
 F 1 "WS2812B" H 2500 3050 50  0001 L CNN
 F 2 "Footprint:WS2812B" H 2700 3250 50  0001 L CNN
 F 3 "" H 2700 3250 60  0000 C CNN
+F 4 "COM-13667" H 2700 3250 60  0001 C CNN "manf#"
 	1    2700 3250
 	1    0    0    -1  
 $EndComp
@@ -187,6 +96,7 @@ F 0 "RGB4" H 2550 4050 50  0000 L CNN
 F 1 "WS2812B" H 2500 3650 50  0001 L CNN
 F 2 "Footprint:WS2812B" H 2700 3850 50  0001 L CNN
 F 3 "" H 2700 3850 60  0000 C CNN
+F 4 "COM-13667" H 2700 3850 60  0001 C CNN "manf#"
 	1    2700 3850
 	1    0    0    -1  
 $EndComp
@@ -208,7 +118,8 @@ P 1950 2200
 F 0 "CRGB1" H 1960 2270 50  0001 L CNN
 F 1 "0.1u" H 1960 2120 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1950 2200 50  0001 C CNN
-F 3 "" H 1950 2200 50  0000 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf" H 1950 2200 50  0001 C CNN
+F 4 "CC0805ZRY5V9BB104" H 1950 2200 60  0001 C CNN "manf#"
 	1    1950 2200
 	1    0    0    -1  
 $EndComp
@@ -219,7 +130,8 @@ P 1950 2800
 F 0 "CRGB2" H 1960 2870 50  0001 L CNN
 F 1 "0.1u" H 1960 2720 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1950 2800 50  0001 C CNN
-F 3 "" H 1950 2800 50  0000 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf" H 1950 2800 50  0001 C CNN
+F 4 "CC0805ZRY5V9BB104" H 1950 2800 60  0001 C CNN "manf#"
 	1    1950 2800
 	1    0    0    -1  
 $EndComp
@@ -230,7 +142,8 @@ P 1950 3400
 F 0 "CRGB3" H 1960 3470 50  0001 L CNN
 F 1 "0.1u" H 1960 3320 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1950 3400 50  0001 C CNN
-F 3 "" H 1950 3400 50  0000 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf" H 1950 3400 50  0001 C CNN
+F 4 "CC0805ZRY5V9BB104" H 1950 3400 60  0001 C CNN "manf#"
 	1    1950 3400
 	1    0    0    -1  
 $EndComp
@@ -285,7 +198,8 @@ P 4450 2100
 F 0 "J2" H 4400 2300 60  0000 C CNN
 F 1 "RGB" H 4400 1900 60  0000 C CNN
 F 2 "Connectors_Molex:Molex_PicoBlade_53048-0310_03x1.25mm_Angled" H 4450 2100 60  0001 C CNN
-F 3 "" H 4450 2100 60  0000 C CNN
+F 3 "http://www.mouser.com/ds/2/276/0530480310_PCB_HEADERS-171011.pdf" H 4450 2100 60  0001 C CNN
+F 4 "53048-0310" H 4450 2100 60  0001 C CNN "manf#"
 	1    4450 2100
 	1    0    0    -1  
 $EndComp
@@ -418,7 +332,8 @@ P 1950 4000
 F 0 "CRGB4" H 1960 4070 50  0001 L CNN
 F 1 "0.1u" H 1960 3920 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1950 4000 50  0001 C CNN
-F 3 "" H 1950 4000 50  0000 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf" H 1950 4000 50  0001 C CNN
+F 4 "CC0805ZRY5V9BB104" H 1950 4000 60  0001 C CNN "manf#"
 	1    1950 4000
 	1    0    0    -1  
 $EndComp
@@ -450,6 +365,7 @@ F 0 "RGB5" H 2550 4650 50  0000 L CNN
 F 1 "WS2812B" H 2500 4250 50  0001 L CNN
 F 2 "Footprint:WS2812B" H 2700 4450 50  0001 L CNN
 F 3 "" H 2700 4450 60  0000 C CNN
+F 4 "COM-13667" H 2700 4450 60  0001 C CNN "manf#"
 	1    2700 4450
 	1    0    0    -1  
 $EndComp
@@ -481,6 +397,7 @@ F 0 "RGB6" H 2550 5250 50  0000 L CNN
 F 1 "WS2812B" H 2500 4850 50  0001 L CNN
 F 2 "Footprint:WS2812B" H 2700 5050 50  0001 L CNN
 F 3 "" H 2700 5050 60  0000 C CNN
+F 4 "COM-13667" H 2700 5050 60  0001 C CNN "manf#"
 	1    2700 5050
 	1    0    0    -1  
 $EndComp
@@ -506,6 +423,7 @@ F 0 "RGB7" H 2550 5850 50  0000 L CNN
 F 1 "WS2812B" H 2500 5450 50  0001 L CNN
 F 2 "Footprint:WS2812B" H 2700 5650 50  0001 L CNN
 F 3 "" H 2700 5650 60  0000 C CNN
+F 4 "COM-13667" H 2700 5650 60  0001 C CNN "manf#"
 	1    2700 5650
 	1    0    0    -1  
 $EndComp
@@ -532,7 +450,8 @@ P 1950 4600
 F 0 "CRGB5" H 1960 4670 50  0001 L CNN
 F 1 "0.1u" H 1960 4520 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1950 4600 50  0001 C CNN
-F 3 "" H 1950 4600 50  0000 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf" H 1950 4600 50  0001 C CNN
+F 4 "CC0805ZRY5V9BB104" H 1950 4600 60  0001 C CNN "manf#"
 	1    1950 4600
 	1    0    0    -1  
 $EndComp
@@ -546,7 +465,8 @@ P 1950 5200
 F 0 "CRGB6" H 1960 5270 50  0001 L CNN
 F 1 "0.1u" H 1960 5120 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1950 5200 50  0001 C CNN
-F 3 "" H 1950 5200 50  0000 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf" H 1950 5200 50  0001 C CNN
+F 4 "CC0805ZRY5V9BB104" H 1950 5200 60  0001 C CNN "manf#"
 	1    1950 5200
 	1    0    0    -1  
 $EndComp
@@ -560,7 +480,8 @@ P 1950 5800
 F 0 "CRGB7" H 1960 5870 50  0001 L CNN
 F 1 "0.1u" H 1960 5720 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 1950 5800 50  0001 C CNN
-F 3 "" H 1950 5800 50  0000 C CNN
+F 3 "http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf" H 1950 5800 50  0001 C CNN
+F 4 "CC0805ZRY5V9BB104" H 1950 5800 60  0001 C CNN "manf#"
 	1    1950 5800
 	1    0    0    -1  
 $EndComp
