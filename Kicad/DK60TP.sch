@@ -1,5 +1,101 @@
 EESchema Schematic File Version 2
+LIBS:74xgxx
+LIBS:74xx
+LIBS:ac-dc
+LIBS:actel
+LIBS:adc-dac
+LIBS:allegro
+LIBS:Altera
+LIBS:analog_devices
+LIBS:analog_switches
+LIBS:audio
+LIBS:battery_management
+LIBS:bbd
+LIBS:bosch
+LIBS:brooktre
+LIBS:cmos4000
+LIBS:cmos_ieee
+LIBS:conn
+LIBS:contrib
+LIBS:cypress
+LIBS:dc-dc
+LIBS:device
+LIBS:digital-audio
+LIBS:diode
+LIBS:display
+LIBS:dsp
+LIBS:elec-unifil
+LIBS:ESD_Protection
+LIBS:ftdi
+LIBS:gennum
+LIBS:graphic_symbols
+LIBS:hc11
+LIBS:infineon
+LIBS:intel
+LIBS:interface
+LIBS:intersil
+LIBS:ir
+LIBS:Lattice
+LIBS:leds
+LIBS:LEM
+LIBS:linear
+LIBS:logic_programmable
+LIBS:maxim
+LIBS:mechanical
+LIBS:memory
+LIBS:microchip
+LIBS:microchip_dspic33dsc
+LIBS:microchip_pic10mcu
+LIBS:microchip_pic12mcu
+LIBS:microchip_pic16mcu
+LIBS:microchip_pic18mcu
+LIBS:microchip_pic24mcu
+LIBS:microchip_pic32mcu
+LIBS:microcontrollers
+LIBS:modules
+LIBS:motor_drivers
+LIBS:motorola
+LIBS:motors
+LIBS:msp430
+LIBS:nordicsemi
+LIBS:nxp
+LIBS:nxp_armmcu
+LIBS:onsemi
+LIBS:opto
+LIBS:Oscillators
+LIBS:philips
 LIBS:power
+LIBS:powerint
+LIBS:Power_Management
+LIBS:pspice
+LIBS:references
+LIBS:regul
+LIBS:relays
+LIBS:rfcom
+LIBS:RFSolutions
+LIBS:sensors
+LIBS:silabs
+LIBS:siliconi
+LIBS:stm8
+LIBS:stm32
+LIBS:supertex
+LIBS:switches
+LIBS:texas
+LIBS:transf
+LIBS:transistors
+LIBS:triac_thyristor
+LIBS:ttl_ieee
+LIBS:valves
+LIBS:video
+LIBS:wiznet
+LIBS:Xicor
+LIBS:xilinx
+LIBS:zetex
+LIBS:Zilog
+LIBS:keyboard_parts
+LIBS:mkl27z256vfm4
+LIBS:Trackpad
+LIBS:TS65
 LIBS:DK60TP-cache
 EELAYER 25 0
 EELAYER END
@@ -15,17 +111,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L XTAL_GND X1
-U 1 1 5904AD34
-P 7200 4350
-F 0 "X1" H 7200 4500 60  0000 C CNN
-F 1 "XTAL_GND" H 7200 4200 60  0000 C CNN
-F 2 "Footprint:FA-238" H 7200 4350 60  0001 C CNN
-F 3 "" H 7200 4350 60  0000 C CNN
-	1    7200 4350
-	1    0    0    -1  
-$EndComp
 $Comp
 L C_Small C1
 U 1 1 5904ADE4
@@ -141,7 +226,7 @@ L SW_PUSH SW1
 U 1 1 5904C086
 P 3650 4550
 F 0 "SW1" H 3800 4660 50  0000 C CNN
-F 1 "SW_PUSH" H 3650 4470 50  0000 C CNN
+F 1 "RESET" H 3650 4470 50  0000 C CNN
 F 2 "Buttons_Switches_SMD:SW_SPST_TL3342" H 3650 4550 60  0001 C CNN
 F 3 "" H 3650 4550 60  0000 C CNN
 	1    3650 4550
@@ -615,10 +700,10 @@ Wire Notes Line
 Wire Notes Line
 	600  550  600  3600
 Wire Wire Line
-	7500 4350 7650 4350
+	7350 4350 7650 4350
 Connection ~ 7650 4350
 Wire Wire Line
-	6900 4350 6750 4350
+	6750 4350 7050 4350
 Connection ~ 6750 4350
 Wire Wire Line
 	7650 4250 7650 4450
@@ -675,8 +760,6 @@ Wire Wire Line
 	6750 4750 6750 4650
 Wire Wire Line
 	7650 4750 7650 4650
-Wire Wire Line
-	7200 4550 7200 4800
 Connection ~ 7200 4750
 Wire Notes Line
 	6550 5100 7850 5100
@@ -713,4 +796,18 @@ Connection ~ 2800 3350
 Wire Wire Line
 	3800 3250 3800 3350
 Connection ~ 3800 3350
+$Comp
+L Crystal Y1
+U 1 1 59E2052B
+P 7200 4350
+F 0 "Y1" H 7200 4500 50  0000 C CNN
+F 1 "Crystal" H 7200 4200 50  0000 C CNN
+F 2 "Crystals:Crystal_SMD_0603-2pin_6.0x3.5mm" H 7200 4350 50  0001 C CNN
+F 3 "http://www.abracon.com/Resonators/abm7.pdf" H 7200 4350 50  0001 C CNN
+F 4 "ABM7-16.000MHZ-D2Y-T" H 7200 4350 60  0001 C CNN "manf#"
+	1    7200 4350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 4750 7200 4800
 $EndSCHEMATC
