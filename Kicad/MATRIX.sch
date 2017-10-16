@@ -1,6 +1,5 @@
 EESchema Schematic File Version 2
 LIBS:keyboard_parts
-LIBS:DK60TP-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -62,8 +61,8 @@ F 1 "K00" H 950 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 950 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 950 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 950 900 60  0001 C CNN "manf#"
-	1    950  900
-	1    0    0    -1
+	1    950  900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K100
@@ -74,8 +73,8 @@ F 1 "K01" H 1650 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 1650 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 1650 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
-	1    1650 900
-	1    0    0    -1
+	1    1650 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K200
@@ -86,8 +85,8 @@ F 1 "K02" H 2350 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 2350 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 2350 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
-	1    2350 900
-	1    0    0    -1
+	1    2350 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K300
@@ -98,8 +97,8 @@ F 1 "K03" H 3050 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 3050 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 3050 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
-	1    3050 900
-	1    0    0    -1
+	1    3050 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K400
@@ -110,8 +109,8 @@ F 1 "K04" H 3750 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 3750 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 3750 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
-	1    3750 900
-	1    0    0    -1
+	1    3750 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K500
@@ -122,8 +121,8 @@ F 1 "K05" H 4450 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 4450 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 4450 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
-	1    4450 900
-	1    0    0    -1
+	1    4450 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K600
@@ -134,8 +133,8 @@ F 1 "K06" H 5150 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 5150 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5150 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
-	1    5150 900
-	1    0    0    -1
+	1    5150 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K700
@@ -146,8 +145,8 @@ F 1 "K07" H 5850 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 5850 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5850 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
-	1    5850 900
-	1    0    0    -1
+	1    5850 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K800
@@ -158,8 +157,8 @@ F 1 "K08" H 6550 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 6550 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 6550 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
-	1    6550 900
-	1    0    0    -1
+	1    6550 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K900
@@ -170,8 +169,8 @@ F 1 "K09" H 7250 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 7250 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 7250 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
-	1    7250 900
-	1    0    0    -1
+	1    7250 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KA0
@@ -182,8 +181,8 @@ F 1 "K0A" H 7950 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 7950 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 7950 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
-	1    7950 900
-	1    0    0    -1
+	1    7950 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KB0
@@ -194,8 +193,8 @@ F 1 "K0B" H 8650 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 8650 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 8650 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
-	1    8650 900
-	1    0    0    -1
+	1    8650 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KC0
@@ -206,8 +205,8 @@ F 1 "K0C" H 9350 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 9350 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 9350 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
-	1    9350 900
-	1    0    0    -1
+	1    9350 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KD0
@@ -218,8 +217,8 @@ F 1 "K0D" H 10050 800 60  0000 C CNN
 F 2 "Footprint:Mx_100" H 10050 900 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 10050 900 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
-	1    10050 900
-	1    0    0    -1
+	1    10050 900 
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KD1
@@ -231,7 +230,7 @@ F 2 "Footprint:Mx_200" H 10050 1200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 10050 1200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    10050 1200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K10
@@ -243,7 +242,7 @@ F 2 "Footprint:Mx_150" H 950 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 950 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    950  2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K110
@@ -255,7 +254,7 @@ F 2 "Footprint:Mx_100" H 1650 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 1650 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    1650 2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K210
@@ -267,7 +266,7 @@ F 2 "Footprint:Mx_100" H 2350 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 2350 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    2350 2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K310
@@ -279,7 +278,7 @@ F 2 "Footprint:Mx_100" H 3050 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 3050 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    3050 2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K410
@@ -291,7 +290,7 @@ F 2 "Footprint:Mx_100" H 3750 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 3750 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    3750 2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K510
@@ -303,7 +302,7 @@ F 2 "Footprint:Mx_100" H 4450 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 4450 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    4450 2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K610
@@ -315,7 +314,7 @@ F 2 "Footprint:Mx_100" H 5150 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5150 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    5150 2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K710
@@ -327,7 +326,7 @@ F 2 "Footprint:Mx_100" H 5850 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5850 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    5850 2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K810
@@ -339,7 +338,7 @@ F 2 "Footprint:Mx_100" H 6550 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 6550 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    6550 2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K910
@@ -351,7 +350,7 @@ F 2 "Footprint:Mx_100" H 7250 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 7250 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    7250 2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KA10
@@ -363,7 +362,7 @@ F 2 "Footprint:Mx_100" H 7950 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 7950 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    7950 2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KB10
@@ -375,7 +374,7 @@ F 2 "Footprint:Mx_100" H 8650 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 8650 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    8650 2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KC10
@@ -387,7 +386,7 @@ F 2 "Footprint:Mx_100" H 9350 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 9350 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    9350 2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KD10
@@ -399,7 +398,7 @@ F 2 "Footprint:Mx_150" H 10050 2000 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 10050 2000 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    10050 2000
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K20
@@ -411,7 +410,7 @@ F 2 "Footprint:Mx_175" H 950 2800 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 950 2800 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    950  2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K120
@@ -423,7 +422,7 @@ F 2 "Footprint:Mx_100" H 1650 2800 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 1650 2800 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    1650 2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K220
@@ -435,7 +434,7 @@ F 2 "Footprint:Mx_100" H 2350 2800 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 2350 2800 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    2350 2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K320
@@ -447,7 +446,7 @@ F 2 "Footprint:Mx_100" H 3050 2800 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 3050 2800 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    3050 2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K420
@@ -459,7 +458,7 @@ F 2 "Footprint:Mx_100" H 3750 2800 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 3750 2800 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    3750 2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K520
@@ -471,7 +470,7 @@ F 2 "Footprint:Mx_100" H 4450 2800 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 4450 2800 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    4450 2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K620
@@ -483,7 +482,7 @@ F 2 "Footprint:Mx_100" H 5150 2800 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5150 2800 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    5150 2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K720
@@ -495,7 +494,7 @@ F 2 "Footprint:Mx_100" H 5850 2800 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5850 2800 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    5850 2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K820
@@ -507,7 +506,7 @@ F 2 "Footprint:Mx_100" H 6550 2800 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 6550 2800 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    6550 2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K920
@@ -519,7 +518,7 @@ F 2 "Footprint:Mx_100" H 7250 2800 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 7250 2800 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    7250 2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KA20
@@ -531,7 +530,7 @@ F 2 "Footprint:Mx_100" H 7950 2800 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 7950 2800 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    7950 2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KB20
@@ -543,7 +542,7 @@ F 2 "Footprint:Mx_100" H 8650 2800 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 8650 2800 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    8650 2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KC20
@@ -555,7 +554,7 @@ F 2 "Footprint:Mx_100" H 9350 2800 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 9350 2800 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    9350 2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KD21
@@ -568,7 +567,7 @@ F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 F 5 "ANSI ENTER" H 10050 3100 60  0001 C CNN "Comment"
 	1    10050 3100
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KD22
@@ -581,7 +580,7 @@ F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 F 5 "ISO Enter" H 10050 3400 60  0001 C CNN "Comment"
 	1    10050 3400
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K21
@@ -593,7 +592,7 @@ F 2 "Footprint:Mx_175_STEPPED" H 950 3100 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 950 3100 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    950  3100
-	1    0    0    -1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K30
@@ -605,7 +604,7 @@ F 2 "Footprint:Mx_225" H 950 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 950 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    950  4200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K130
@@ -617,7 +616,7 @@ F 2 "Footprint:Mx_100" H 1650 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 1650 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    1650 4200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K230
@@ -629,7 +628,7 @@ F 2 "Footprint:Mx_100" H 2350 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 2350 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    2350 4200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K330
@@ -641,7 +640,7 @@ F 2 "Footprint:Mx_100" H 3050 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 3050 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    3050 4200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K430
@@ -653,7 +652,7 @@ F 2 "Footprint:Mx_100" H 3750 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 3750 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    3750 4200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K530
@@ -665,7 +664,7 @@ F 2 "Footprint:Mx_100" H 4450 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 4450 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    4450 4200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K630
@@ -677,7 +676,7 @@ F 2 "Footprint:Mx_100" H 5150 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5150 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    5150 4200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K730
@@ -689,7 +688,7 @@ F 2 "Footprint:Mx_100" H 5850 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5850 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    5850 4200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K830
@@ -701,7 +700,7 @@ F 2 "Footprint:Mx_100" H 6550 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 6550 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    6550 4200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K930
@@ -713,7 +712,7 @@ F 2 "Footprint:Mx_100" H 7250 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 7250 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    7250 4200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KA30
@@ -725,7 +724,7 @@ F 2 "Footprint:Mx_100" H 7950 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 7950 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    7950 4200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KB30
@@ -737,7 +736,7 @@ F 2 "Footprint:Mx_100" H 8650 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 8650 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    8650 4200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KC30
@@ -749,7 +748,7 @@ F 2 "Footprint:Mx_275" H 9350 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 9350 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    9350 4200
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KD30
@@ -761,7 +760,7 @@ F 2 "Footprint:Mx_100" H 10050 4200 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 10050 4200 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    10050 4200
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW KC32
@@ -773,7 +772,7 @@ F 2 "Footprint:Mx_175" H 9350 4750 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 9350 4750 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    9350 4750
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K31
@@ -785,7 +784,7 @@ F 2 "Footprint:Mx_125" H 950 4450 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 950 4450 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    950  4450
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K40
@@ -797,7 +796,7 @@ F 2 "Footprint:Mx_125" H 950 5550 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 950 5550 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    950  5550
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K41
@@ -809,7 +808,7 @@ F 2 "Footprint:Mx_150" H 950 5850 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 950 5850 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    950  5850
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K140
@@ -821,7 +820,7 @@ F 2 "Footprint:Mx_125" H 1650 5550 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 1650 5550 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    1650 5550
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K141
@@ -833,7 +832,7 @@ F 2 "Footprint:Mx_100" H 1650 5850 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 1650 5850 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    1650 5850
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K240
@@ -845,7 +844,7 @@ F 2 "Footprint:Mx_125" H 2350 5550 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 2350 5550 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    2350 5550
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K640
@@ -857,7 +856,7 @@ F 2 "Footprint:Mx_600" H 5150 5550 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5150 5550 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    5150 5550
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K641
@@ -869,7 +868,7 @@ F 2 "Footprint:Mx_625" H 5150 5850 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5150 5850 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    5150 5850
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K642
@@ -881,7 +880,7 @@ F 2 "Footprint:Mx_700" H 5150 6150 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5150 6150 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    5150 6150
-	-1   0    0    1
+	-1   0    0    1   
 $EndComp
 $Comp
 L KEYSW K940
@@ -893,7 +892,7 @@ F 2 "Footprint:Mx_100" H 7250 5550 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 7250 5550 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    7250 5550
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KA40
@@ -905,7 +904,7 @@ F 2 "Footprint:Mx_125" H 7950 5550 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 7950 5550 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    7950 5550
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KB40
@@ -917,7 +916,7 @@ F 2 "Footprint:Mx_100" H 8650 5550 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 8650 5550 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    8650 5550
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KB41
@@ -929,7 +928,7 @@ F 2 "Footprint:Mx_125" H 8650 5850 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 8650 5850 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    8650 5850
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KB42
@@ -941,7 +940,7 @@ F 2 "Footprint:Mx_150" H 8650 6150 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 8650 6150 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    8650 6150
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KC40
@@ -953,7 +952,7 @@ F 2 "Footprint:Mx_100" H 9350 5550 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 9350 5550 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    9350 5550
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K4C1
@@ -965,7 +964,7 @@ F 2 "Footprint:Mx_125" H 9350 5850 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 9350 5850 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    9350 5850
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KD40
@@ -977,7 +976,7 @@ F 2 "Footprint:Mx_125" H 10050 5550 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 10050 5550 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    10050 5550
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KD41
@@ -989,7 +988,7 @@ F 2 "Footprint:Mx_150" H 10050 5850 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 10050 5850 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    10050 5850
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K241
@@ -1001,7 +1000,7 @@ F 2 "Footprint:Mx_150" H 2350 5850 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 2350 5850 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    2350 5850
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KD20
@@ -1014,7 +1013,7 @@ F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 F 5 "1.25 ENTER" H 10050 2800 60  0001 C CNN "Comment"
 	1    10050 2800
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KD31
@@ -1026,7 +1025,7 @@ F 2 "Footprint:Mx_175" H 10050 4450 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 10050 4450 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    10050 4450
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW KC31
@@ -1038,7 +1037,7 @@ F 2 "Footprint:Mx_100" H 9350 4450 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 9350 4450 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    9350 4450
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L D DKD0
@@ -1048,8 +1047,8 @@ F 0 "DKD0" H 10350 850 50  0001 C CNN
 F 1 "DKD0" H 10350 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 10350 750 50  0001 C CNN
 F 3 "" H 10350 750 50  0000 C CNN
-	1    10350 750
-	0    -1   -1   0
+	1    10350 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D KDC0
@@ -1059,8 +1058,8 @@ F 0 "KDC0" H 9650 850 50  0001 C CNN
 F 1 "D0C" H 9650 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 9650 750 50  0001 C CNN
 F 3 "" H 9650 750 50  0000 C CNN
-	1    9650 750
-	0    -1   -1   0
+	1    9650 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKB0
@@ -1070,8 +1069,8 @@ F 0 "DKB0" H 8950 850 50  0001 C CNN
 F 1 "D0B" H 8950 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 8950 750 50  0001 C CNN
 F 3 "" H 8950 750 50  0000 C CNN
-	1    8950 750
-	0    -1   -1   0
+	1    8950 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKA0
@@ -1081,8 +1080,8 @@ F 0 "DKA0" H 8250 850 50  0001 C CNN
 F 1 "D0A" H 8250 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 8250 750 50  0001 C CNN
 F 3 "" H 8250 750 50  0000 C CNN
-	1    8250 750
-	0    -1   -1   0
+	1    8250 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK90
@@ -1092,8 +1091,8 @@ F 0 "DK90" H 7550 850 50  0001 C CNN
 F 1 "D09" H 7550 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 7550 750 50  0001 C CNN
 F 3 "" H 7550 750 50  0000 C CNN
-	1    7550 750
-	0    -1   -1   0
+	1    7550 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK80
@@ -1103,8 +1102,8 @@ F 0 "DK80" H 6850 850 50  0001 C CNN
 F 1 "D08" H 6850 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 6850 750 50  0001 C CNN
 F 3 "" H 6850 750 50  0000 C CNN
-	1    6850 750
-	0    -1   -1   0
+	1    6850 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK70
@@ -1114,8 +1113,8 @@ F 0 "DK70" H 6150 850 50  0001 C CNN
 F 1 "D07" H 6150 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 6150 750 50  0001 C CNN
 F 3 "" H 6150 750 50  0000 C CNN
-	1    6150 750
-	0    -1   -1   0
+	1    6150 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK40
@@ -1125,8 +1124,8 @@ F 0 "DK40" H 4050 850 50  0001 C CNN
 F 1 "D04" H 4050 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 4050 750 50  0001 C CNN
 F 3 "" H 4050 750 50  0000 C CNN
-	1    4050 750
-	0    -1   -1   0
+	1    4050 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK30
@@ -1136,8 +1135,8 @@ F 0 "DK30" H 3350 850 50  0001 C CNN
 F 1 "D03" H 3350 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 3350 750 50  0001 C CNN
 F 3 "" H 3350 750 50  0000 C CNN
-	1    3350 750
-	0    -1   -1   0
+	1    3350 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK50
@@ -1147,8 +1146,8 @@ F 0 "DK50" H 4750 850 50  0001 C CNN
 F 1 "D05" H 4750 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 4750 750 50  0001 C CNN
 F 3 "" H 4750 750 50  0000 C CNN
-	1    4750 750
-	0    -1   -1   0
+	1    4750 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK6
@@ -1158,8 +1157,8 @@ F 0 "DK6" H 5450 850 50  0001 C CNN
 F 1 "D60" H 5450 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 5450 750 50  0001 C CNN
 F 3 "" H 5450 750 50  0000 C CNN
-	1    5450 750
-	0    -1   -1   0
+	1    5450 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK20
@@ -1169,8 +1168,8 @@ F 0 "DK20" H 2650 850 50  0001 C CNN
 F 1 "D02" H 2650 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 2650 750 50  0001 C CNN
 F 3 "" H 2650 750 50  0000 C CNN
-	1    2650 750
-	0    -1   -1   0
+	1    2650 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK10
@@ -1180,8 +1179,8 @@ F 0 "DK10" H 1950 850 50  0001 C CNN
 F 1 "D01" H 1950 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 1950 750 50  0001 C CNN
 F 3 "" H 1950 750 50  0000 C CNN
-	1    1950 750
-	0    -1   -1   0
+	1    1950 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK0
@@ -1191,8 +1190,8 @@ F 0 "DK0" H 1250 850 50  0001 C CNN
 F 1 "D00" H 1250 650 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 1250 750 50  0001 C CNN
 F 3 "" H 1250 750 50  0000 C CNN
-	1    1250 750
-	0    -1   -1   0
+	1    1250 750 
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKD1
@@ -1203,7 +1202,7 @@ F 1 "D1D" H 10350 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 10350 1850 50  0001 C CNN
 F 3 "" H 10350 1850 50  0000 C CNN
 	1    10350 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKC1
@@ -1214,7 +1213,7 @@ F 1 "D1C" H 9650 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 9650 1850 50  0001 C CNN
 F 3 "" H 9650 1850 50  0000 C CNN
 	1    9650 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKB1
@@ -1225,7 +1224,7 @@ F 1 "D1B" H 8950 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 8950 1850 50  0001 C CNN
 F 3 "" H 8950 1850 50  0000 C CNN
 	1    8950 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKA1
@@ -1236,7 +1235,7 @@ F 1 "DA1" H 8250 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 8250 1850 50  0001 C CNN
 F 3 "" H 8250 1850 50  0000 C CNN
 	1    8250 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK91
@@ -1247,7 +1246,7 @@ F 1 "D19" H 7550 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 7550 1850 50  0001 C CNN
 F 3 "" H 7550 1850 50  0000 C CNN
 	1    7550 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK81
@@ -1258,7 +1257,7 @@ F 1 "D18" H 6850 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 6850 1850 50  0001 C CNN
 F 3 "" H 6850 1850 50  0000 C CNN
 	1    6850 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK71
@@ -1269,7 +1268,7 @@ F 1 "D17" H 6150 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 6150 1850 50  0001 C CNN
 F 3 "" H 6150 1850 50  0000 C CNN
 	1    6150 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK41
@@ -1280,7 +1279,7 @@ F 1 "D14" H 4050 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 4050 1850 50  0001 C CNN
 F 3 "" H 4050 1850 50  0000 C CNN
 	1    4050 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK31
@@ -1291,7 +1290,7 @@ F 1 "D13" H 3350 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 3350 1850 50  0001 C CNN
 F 3 "" H 3350 1850 50  0000 C CNN
 	1    3350 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK51
@@ -1302,7 +1301,7 @@ F 1 "D15" H 4750 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 4750 1850 50  0001 C CNN
 F 3 "" H 4750 1850 50  0000 C CNN
 	1    4750 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK61
@@ -1313,7 +1312,7 @@ F 1 "D16" H 5450 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 5450 1850 50  0001 C CNN
 F 3 "" H 5450 1850 50  0000 C CNN
 	1    5450 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK21
@@ -1324,7 +1323,7 @@ F 1 "D12" H 2650 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 2650 1850 50  0001 C CNN
 F 3 "" H 2650 1850 50  0000 C CNN
 	1    2650 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK11
@@ -1335,7 +1334,7 @@ F 1 "D11" H 1950 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 1950 1850 50  0001 C CNN
 F 3 "" H 1950 1850 50  0000 C CNN
 	1    1950 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK1
@@ -1346,7 +1345,7 @@ F 1 "D10" H 1250 1750 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 1250 1850 50  0001 C CNN
 F 3 "" H 1250 1850 50  0000 C CNN
 	1    1250 1850
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKD2
@@ -1357,7 +1356,7 @@ F 1 "D2D" H 10350 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 10350 2650 50  0001 C CNN
 F 3 "" H 10350 2650 50  0000 C CNN
 	1    10350 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKC2
@@ -1368,7 +1367,7 @@ F 1 "D2C" H 9650 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 9650 2650 50  0001 C CNN
 F 3 "" H 9650 2650 50  0000 C CNN
 	1    9650 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKB2
@@ -1379,7 +1378,7 @@ F 1 "D2B" H 8950 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 8950 2650 50  0001 C CNN
 F 3 "" H 8950 2650 50  0000 C CNN
 	1    8950 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKA2
@@ -1390,7 +1389,7 @@ F 1 "D2A" H 8250 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 8250 2650 50  0001 C CNN
 F 3 "" H 8250 2650 50  0000 C CNN
 	1    8250 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK92
@@ -1401,7 +1400,7 @@ F 1 "D29" H 7550 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 7550 2650 50  0001 C CNN
 F 3 "" H 7550 2650 50  0000 C CNN
 	1    7550 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK82
@@ -1412,7 +1411,7 @@ F 1 "D28" H 6850 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 6850 2650 50  0001 C CNN
 F 3 "" H 6850 2650 50  0000 C CNN
 	1    6850 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK72
@@ -1423,7 +1422,7 @@ F 1 "D27" H 6150 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 6150 2650 50  0001 C CNN
 F 3 "" H 6150 2650 50  0000 C CNN
 	1    6150 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK42
@@ -1434,7 +1433,7 @@ F 1 "D24" H 4050 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 4050 2650 50  0001 C CNN
 F 3 "" H 4050 2650 50  0000 C CNN
 	1    4050 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK32
@@ -1445,7 +1444,7 @@ F 1 "D23" H 3350 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 3350 2650 50  0001 C CNN
 F 3 "" H 3350 2650 50  0000 C CNN
 	1    3350 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK52
@@ -1456,7 +1455,7 @@ F 1 "D25" H 4750 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 4750 2650 50  0001 C CNN
 F 3 "" H 4750 2650 50  0000 C CNN
 	1    4750 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK62
@@ -1467,7 +1466,7 @@ F 1 "D26" H 5450 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 5450 2650 50  0001 C CNN
 F 3 "" H 5450 2650 50  0000 C CNN
 	1    5450 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK22
@@ -1478,7 +1477,7 @@ F 1 "D22" H 2650 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 2650 2650 50  0001 C CNN
 F 3 "" H 2650 2650 50  0000 C CNN
 	1    2650 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK12
@@ -1489,7 +1488,7 @@ F 1 "D21" H 1950 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 1950 2650 50  0001 C CNN
 F 3 "" H 1950 2650 50  0000 C CNN
 	1    1950 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK2
@@ -1500,7 +1499,7 @@ F 1 "D20" H 1250 2550 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 1250 2650 50  0001 C CNN
 F 3 "" H 1250 2650 50  0000 C CNN
 	1    1250 2650
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKD3
@@ -1511,7 +1510,7 @@ F 1 "D3D" H 10350 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 10350 4050 50  0001 C CNN
 F 3 "" H 10350 4050 50  0000 C CNN
 	1    10350 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKC3
@@ -1522,7 +1521,7 @@ F 1 "D3C" H 9650 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 9650 4050 50  0001 C CNN
 F 3 "" H 9650 4050 50  0000 C CNN
 	1    9650 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKB3
@@ -1533,7 +1532,7 @@ F 1 "D3B" H 8950 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 8950 4050 50  0001 C CNN
 F 3 "" H 8950 4050 50  0000 C CNN
 	1    8950 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKA3
@@ -1544,7 +1543,7 @@ F 1 "D3A" H 8250 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 8250 4050 50  0001 C CNN
 F 3 "" H 8250 4050 50  0000 C CNN
 	1    8250 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK93
@@ -1555,7 +1554,7 @@ F 1 "D39" H 7550 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 7550 4050 50  0001 C CNN
 F 3 "" H 7550 4050 50  0000 C CNN
 	1    7550 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK83
@@ -1566,7 +1565,7 @@ F 1 "D38" H 6850 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 6850 4050 50  0001 C CNN
 F 3 "" H 6850 4050 50  0000 C CNN
 	1    6850 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK73
@@ -1577,7 +1576,7 @@ F 1 "D37" H 6150 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 6150 4050 50  0001 C CNN
 F 3 "" H 6150 4050 50  0000 C CNN
 	1    6150 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK43
@@ -1588,7 +1587,7 @@ F 1 "D34" H 4050 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 4050 4050 50  0001 C CNN
 F 3 "" H 4050 4050 50  0000 C CNN
 	1    4050 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK33
@@ -1599,7 +1598,7 @@ F 1 "D33" H 3350 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 3350 4050 50  0001 C CNN
 F 3 "" H 3350 4050 50  0000 C CNN
 	1    3350 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK53
@@ -1610,7 +1609,7 @@ F 1 "D35" H 4750 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 4750 4050 50  0001 C CNN
 F 3 "" H 4750 4050 50  0000 C CNN
 	1    4750 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK63
@@ -1621,7 +1620,7 @@ F 1 "D36" H 5450 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 5450 4050 50  0001 C CNN
 F 3 "" H 5450 4050 50  0000 C CNN
 	1    5450 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK23
@@ -1632,7 +1631,7 @@ F 1 "D32" H 2650 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 2650 4050 50  0001 C CNN
 F 3 "" H 2650 4050 50  0000 C CNN
 	1    2650 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK13
@@ -1643,7 +1642,7 @@ F 1 "D31" H 1950 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 1950 4050 50  0001 C CNN
 F 3 "" H 1950 4050 50  0000 C CNN
 	1    1950 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK3
@@ -1654,7 +1653,7 @@ F 1 "D30" H 1250 3950 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 1250 4050 50  0001 C CNN
 F 3 "" H 1250 4050 50  0000 C CNN
 	1    1250 4050
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK4
@@ -1665,7 +1664,7 @@ F 1 "D40" H 1250 5300 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 1250 5400 50  0001 C CNN
 F 3 "" H 1250 5400 50  0000 C CNN
 	1    1250 5400
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK14
@@ -1676,7 +1675,7 @@ F 1 "D41" H 1950 5300 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 1950 5400 50  0001 C CNN
 F 3 "" H 1950 5400 50  0000 C CNN
 	1    1950 5400
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK64
@@ -1687,7 +1686,7 @@ F 1 "D46" H 5450 5300 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 5450 5400 50  0001 C CNN
 F 3 "" H 5450 5400 50  0000 C CNN
 	1    5450 5400
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK94
@@ -1698,7 +1697,7 @@ F 1 "D49" H 7550 5300 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 7550 5400 50  0001 C CNN
 F 3 "" H 7550 5400 50  0000 C CNN
 	1    7550 5400
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKB4
@@ -1709,7 +1708,7 @@ F 1 "D4B" H 8950 5300 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 8950 5400 50  0001 C CNN
 F 3 "" H 8950 5400 50  0000 C CNN
 	1    8950 5400
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKA4
@@ -1720,7 +1719,7 @@ F 1 "D4A" H 8250 5300 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 8250 5400 50  0001 C CNN
 F 3 "" H 8250 5400 50  0000 C CNN
 	1    8250 5400
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKC4
@@ -1731,7 +1730,7 @@ F 1 "D4C" H 9650 5300 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 9650 5400 50  0001 C CNN
 F 3 "" H 9650 5400 50  0000 C CNN
 	1    9650 5400
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DKD4
@@ -1742,7 +1741,7 @@ F 1 "D4D" H 10350 5300 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 10350 5400 50  0001 C CNN
 F 3 "" H 10350 5400 50  0000 C CNN
 	1    10350 5400
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK24
@@ -1753,7 +1752,7 @@ F 1 "D42" H 2650 5300 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 2650 5400 50  0001 C CNN
 F 3 "" H 2650 5400 50  0000 C CNN
 	1    2650 5400
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 Wire Wire Line
 	650  1450 10600 1450
@@ -1961,9 +1960,9 @@ Wire Notes Line
 Wire Notes Line
 	10950 1550 500  1550
 Wire Notes Line
-	500  1550 500  500
+	500  1550 500  500 
 Wire Notes Line
-	500  500  10950 500
+	500  500  10950 500 
 Wire Wire Line
 	650  900  650  1450
 Wire Wire Line
@@ -2116,7 +2115,7 @@ F 2 "Footprint:Mx_150" H 7950 5850 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 7950 5850 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    7950 5850
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Connection ~ 1250 5550
 Connection ~ 1950 5550
@@ -2182,7 +2181,7 @@ F 2 "Footprint:Mx_275" H 4450 5550 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 4450 5550 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    4450 5550
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 $Comp
 L KEYSW K740
@@ -2194,7 +2193,7 @@ F 2 "Footprint:Mx_225" H 5850 5550 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5850 5550 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    5850 5550
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Text GLabel 4750 5250 0    60   Input ~ 0
 Col5
@@ -2209,7 +2208,7 @@ F 1 "D47" H 6150 5300 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 6150 5400 50  0001 C CNN
 F 3 "" H 6150 5400 50  0001 C CNN
 	1    6150 5400
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L D DK54
@@ -2220,7 +2219,7 @@ F 1 "D45" H 4750 5300 50  0001 C CNN
 F 2 "Footprint:D_SOD123" H 4750 5400 50  0001 C CNN
 F 3 "" H 4750 5400 50  0001 C CNN
 	1    4750 5400
-	0    -1   -1   0
+	0    -1   -1   0   
 $EndComp
 $Comp
 L KEYSW K643
@@ -2232,7 +2231,7 @@ F 2 "Footprint:Mx_100" H 5150 5700 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5150 5700 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    5150 5700
-	1    0    0    -1
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	4150 5550 4150 6400
