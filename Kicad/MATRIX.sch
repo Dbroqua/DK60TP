@@ -1,5 +1,6 @@
 EESchema Schematic File Version 2
 LIBS:keyboard_parts
+LIBS:DK60TP-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -2177,7 +2178,7 @@ U 1 1 59DE9804
 P 4450 5550
 F 0 "K540" H 4400 5550 60  0001 C CNN
 F 1 "K45" H 4450 5450 60  0000 C CNN
-F 2 "Footprint:Mx_275" H 4450 5550 60  0001 C CNN
+F 2 "Footprint:Mx_225" H 4450 5550 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 4450 5550 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    4450 5550
@@ -2189,7 +2190,7 @@ U 1 1 59DE980F
 P 5850 5550
 F 0 "K740" H 5800 5550 60  0001 C CNN
 F 1 "K47" H 5850 5450 60  0000 C CNN
-F 2 "Footprint:Mx_225" H 5850 5550 60  0001 C CNN
+F 2 "Footprint:Mx_275" H 5850 5550 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5850 5550 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    5850 5550
@@ -2231,7 +2232,7 @@ F 2 "Footprint:Mx_100" H 5150 5700 60  0001 C CNN
 F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 5150 5700 60  0001 C CNN
 F 4 "MX1A-C1NW" H 1650 900 60  0001 C CNN "manf#"
 	1    5150 5700
-	1    0    0    -1  
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	4150 5550 4150 6400

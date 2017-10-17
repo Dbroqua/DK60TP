@@ -1,5 +1,6 @@
 EESchema Schematic File Version 2
 LIBS:keyboard_parts
+LIBS:DK60TP-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -1266,7 +1267,7 @@ Wire Wire Line
 	1850 4550 1850 4600
 Connection ~ 1850 4600
 Wire Wire Line
-	1650 4900 6950 4900
+	1650 4900 7250 4900
 Connection ~ 1850 4900
 Connection ~ 2150 4900
 Connection ~ 2450 4900
@@ -1283,7 +1284,7 @@ Connection ~ 5450 4900
 Connection ~ 5750 4900
 Connection ~ 6050 4900
 Wire Wire Line
-	1650 5250 6950 5250
+	1650 5250 7250 5250
 Wire Wire Line
 	6350 5250 6350 5200
 Wire Wire Line
@@ -1477,4 +1478,19 @@ Wire Wire Line
 	4850 5850 4850 5900
 Connection ~ 4850 5900
 Connection ~ 4850 5550
+$Comp
+L LED BL643
+U 1 1 59E61F62
+P 7250 5050
+F 0 "BL643" H 7250 5150 50  0000 C CNN
+F 1 "LED" H 7250 4950 50  0001 C CNN
+F 2 "Footprint:LED_TH_BIVAR" H 7250 5050 50  0001 C CNN
+F 3 "" H 7250 5050 50  0000 C CNN
+	1    7250 5050
+	0    -1   -1   0   
+$EndComp
+Connection ~ 6950 4900
+Wire Wire Line
+	7250 5250 7250 5200
+Connection ~ 6950 5250
 $EndSCHEMATC
