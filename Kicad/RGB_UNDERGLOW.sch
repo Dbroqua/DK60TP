@@ -1,5 +1,5 @@
 EESchema Schematic File Version 2
-LIBS:keyboard_parts
+LIBS:kicad_parts
 LIBS:DK60TP-cache
 EELAYER 25 0
 EELAYER END

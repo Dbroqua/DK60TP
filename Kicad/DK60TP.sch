@@ -1,6 +1,5 @@
 EESchema Schematic File Version 2
-LIBS:keyboard_parts
-LIBS:DK60TP-cache
+LIBS:kicad_parts
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268

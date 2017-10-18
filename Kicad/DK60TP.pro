@@ -1,4 +1,4 @@
-update=Sat 14 Oct 2017 02:32:34 PM CEST
+update=Wed 18 Oct 2017 11:34:10 PM CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,6 +27,6 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=../Libraries
+LibDir=
 [eeschema/libraries]
-LibName1=keyboard_parts
+LibName1=/home/dbroqua/Projects/dbroqua/kicad_parts/kicad_parts
