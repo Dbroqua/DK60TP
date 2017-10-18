@@ -219,9 +219,9 @@ U 1 1 592043A2
 P 1100 1100
 F 0 "J1" H 700 1050 60  0000 C CNN
 F 1 "USB_mini_micro_B" H 950 1350 60  0001 C CNN
-F 2 "Footprint:USB_miniB_hirose_5S8" H 1050 1100 60  0001 C CNN
-F 3 "https://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UX60S.pdf" H 1050 1100 60  0001 C CNN
-F 4 "UX60SC-MB-5S8" H 1100 1100 60  0001 C CNN "manf#"
+F 2 "Footprint:Micro_USB_Hand" H 1050 1100 60  0001 C CNN
+F 3 "http://portal.fciconnect.com/Comergent//fci/drawing/10118194.pdf" H 1050 1100 60  0001 C CNN
+F 4 "609-4618-1-ND" H 1100 1100 60  0001 C CNN "manf#"
 	1    1100 1100
 	1    0    0    -1  
 $EndComp
