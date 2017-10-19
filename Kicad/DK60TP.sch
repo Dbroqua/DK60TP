@@ -150,8 +150,8 @@ P 3500 4250
 F 0 "R1" V 3580 4250 50  0000 C CNN
 F 1 "10K" V 3500 4250 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 3430 4250 50  0001 C CNN
-F 3 "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf" H 3500 4250 50  0001 C CNN
-F 4 "RMCF0805JT10K0" V 3500 4250 60  0001 C CNN "manf#"
+F 3 "http://www.mouser.com/ds/2/54/chpreztr-977002.pdf" H 3500 4250 50  0001 C CNN
+F 4 "CR0805-JW-103ELF" V 3500 4250 60  0001 C CNN "manf#"
 	1    3500 4250
 	0    -1   -1   0   
 $EndComp
@@ -184,8 +184,8 @@ P 5150 2300
 F 0 "R2" V 5230 2300 50  0000 C CNN
 F 1 "10K" V 5150 2300 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 5080 2300 50  0001 C CNN
-F 3 "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf" H 5150 2300 50  0001 C CNN
-F 4 "RMCF0805JT10K0" V 5150 2300 60  0001 C CNN "manf#"
+F 3 "http://www.mouser.com/ds/2/54/chpreztr-977002.pdf" H 5150 2300 50  0001 C CNN
+F 4 "CR0805-JW-103ELF" V 5150 2300 60  0001 C CNN "manf#"
 	1    5150 2300
 	-1   0    0    1   
 $EndComp
@@ -219,8 +219,8 @@ P 1100 1100
 F 0 "J1" H 700 1050 60  0000 C CNN
 F 1 "USB_mini_micro_B" H 950 1350 60  0001 C CNN
 F 2 "Footprint:Micro_USB_Hand" H 1050 1100 60  0001 C CNN
-F 3 "http://portal.fciconnect.com/Comergent//fci/drawing/10118194.pdf" H 1050 1100 60  0001 C CNN
-F 4 "609-4618-1-ND" H 1100 1100 60  0001 C CNN "manf#"
+F 3 "http://www.mouser.com/ds/2/276/1050170001_IO_CONNECTORS-230168.pdf" H 1050 1100 60  0001 C CNN
+F 4 "105017-0001" H 1100 1100 60  0001 C CNN "manf#"
 	1    1100 1100
 	1    0    0    -1  
 $EndComp
@@ -242,8 +242,8 @@ P 1950 1050
 F 0 "R3" V 2030 1050 50  0000 C CNN
 F 1 "22" V 1950 1050 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 1880 1050 50  0001 C CNN
-F 3 "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf" H 1950 1050 50  0001 C CNN
-F 4 "RMCF0805JT22R0" V 1950 1050 60  0001 C CNN "manf#"
+F 3 "http://www.mouser.com/ds/2/54/chpreztr-977002.pdf" H 1950 1050 50  0001 C CNN
+F 4 "CR0805-JW-220ELF" V 1950 1050 60  0001 C CNN "manf#"
 	1    1950 1050
 	0    1    1    0   
 $EndComp
@@ -254,8 +254,8 @@ P 1600 1150
 F 0 "R4" V 1680 1150 50  0000 L CNN
 F 1 "22" V 1600 1150 50  0000 C CNN
 F 2 "Resistors_SMD:R_0805_HandSoldering" V 1530 1150 50  0001 C CNN
-F 3 "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf" H 1600 1150 50  0001 C CNN
-F 4 "RMCF0805JT22R0" V 1600 1150 60  0001 C CNN "manf#"
+F 3 "http://www.mouser.com/ds/2/54/chpreztr-977002.pdf" H 1600 1150 50  0001 C CNN
+F 4 "CR0805-JW-220ELF" V 1600 1150 60  0001 C CNN "manf#"
 	1    1600 1150
 	0    1    1    0   
 $EndComp
