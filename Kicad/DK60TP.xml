@@ -1,0 +1,4345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/dbroqua/Projects/dbroqua/DK60TP/Kicad/DK60TP.sch</source>
+    <date>Thu 19 Oct 2017 11:50:54 PM CEST</date>
+    <tool>Eeschema 4.0.7+dfsg1-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>DK60TP</title>
+        <company>DarKou.fr</company>
+        <rev>B</rev>
+        <date>2017-10-14</date>
+        <source>DK60TP.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/BACKLIT/" tstamps="/5932D4E4/">
+      <title_block>
+        <title>DK60TP</title>
+        <company>DarKou.fr</company>
+        <rev>B</rev>
+        <date>2017-10-14</date>
+        <source>BACKLIT.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Function Leds/" tstamps="/593532A7/">
+      <title_block>
+        <title>DK60TP</title>
+        <company>DarKou.fr</company>
+        <rev>B</rev>
+        <date>2017-10-14</date>
+        <source>Function_leds.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/TRACKPOINT/" tstamps="/5934BBCF/">
+      <title_block>
+        <title>DK60TP</title>
+        <company>DarKou.fr</company>
+        <rev>B</rev>
+        <date>2017-10-14</date>
+        <source>TRACKPOINT.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/MATRIX/" tstamps="/5935238D/">
+      <title_block>
+        <title>DK60TP</title>
+        <company>DarKou.fr</company>
+        <rev>B</rev>
+        <date>2017-10-14</date>
+        <source>MATRIX.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/RGB Underglow/" tstamps="/593984AD/">
+      <title_block>
+        <title>DK60TP</title>
+        <company>DarKou.fr</company>
+        <rev>B</rev>
+        <date>2017-10-14</date>
+        <source>RGB_UNDERGLOW.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Mounting Holes/" tstamps="/5939867D/">
+      <title_block>
+        <title>DK60TP</title>
+        <company>DarKou.fr</company>
+        <rev>B</rev>
+        <date>2017-10-14</date>
+        <source>HOLES.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>22p</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">C0805C220J5GACTU</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5904ADE4</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>22p</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">C0805C220J5GACTU</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5904AE3B</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5904B5D0</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5904B653</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://psearch.en.murata.com/capacitor/product/GRM21BR61E475KA12%23.pdf</datasheet>
+      <fields>
+        <field name="manf#">GRM21BR61E475KA12L</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5904B6D2</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5904B779</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5904B7A5</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>RESET</value>
+      <footprint>Buttons_Switches_SMD:SW_SPST_TL3342</footprint>
+      <datasheet>https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf</datasheet>
+      <fields>
+        <field name="manf#">TL3342F160QG/TR</field>
+      </fields>
+      <libsource lib="kicad_parts" part="SW_PUSH"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5904C086</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <datasheet>http://www.mouser.com/ds/2/54/chpreztr-977002.pdf</datasheet>
+      <fields>
+        <field name="manf#">CR0805-JW-103ELF</field>
+      </fields>
+      <libsource lib="kicad_parts" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5904C11A</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <datasheet>http://www.mouser.com/ds/2/54/chpreztr-977002.pdf</datasheet>
+      <fields>
+        <field name="manf#">CR0805-JW-103ELF</field>
+      </fields>
+      <libsource lib="kicad_parts" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5904CC4E</tstamp>
+    </comp>
+    <comp ref="U0">
+      <value>ATMEGA32U4-MU</value>
+      <footprint>Housings_DFN_QFN:QFN-44-1EP_7x7mm_Pitch0.5mm</footprint>
+      <datasheet>http://www.atmel.com/Images/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</datasheet>
+      <fields>
+        <field name="manf#">ATMEGA32U4-MU</field>
+      </fields>
+      <libsource lib="kicad_parts" part="ATMEGA32U4-MU"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>591F6C9B</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>USB_mini_micro_B</value>
+      <footprint>Footprint:Micro_USB_Hand</footprint>
+      <datasheet>http://www.mouser.com/ds/2/276/1050170001_IO_CONNECTORS-230168.pdf</datasheet>
+      <fields>
+        <field name="manf#">105017-0001</field>
+      </fields>
+      <libsource lib="kicad_parts" part="USB_mini_micro_B"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>592043A2</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>22</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <datasheet>http://www.mouser.com/ds/2/54/chpreztr-977002.pdf</datasheet>
+      <fields>
+        <field name="manf#">CR0805-JW-220ELF</field>
+      </fields>
+      <libsource lib="kicad_parts" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59209AA9</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>22</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <datasheet>http://www.mouser.com/ds/2/54/chpreztr-977002.pdf</datasheet>
+      <fields>
+        <field name="manf#">CR0805-JW-220ELF</field>
+      </fields>
+      <libsource lib="kicad_parts" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5920A575</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_X7R_6.3V-to-50V_18.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805KKX7R7BB105</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5920B2C4</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>MOUSE_BOARD</value>
+      <footprint>Connectors_Molex:Molex_PicoBlade_53048-1010_10x1.25mm_Angled</footprint>
+      <datasheet>http://www.mouser.com/ds/2/276/0530481010_PCB_HEADERS-146506.pdf</datasheet>
+      <fields>
+        <field name="manf#">53048-1010</field>
+      </fields>
+      <libsource lib="kicad_parts" part="CONN_02X05"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>593CBA33</tstamp>
+    </comp>
+    <comp ref="M1">
+      <value>MISC</value>
+      <footprint>Footprint:BreakHoles_small</footprint>
+      <libsource lib="kicad_parts" part="MISC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>593CCEE2</tstamp>
+    </comp>
+    <comp ref="M2">
+      <value>MISC</value>
+      <footprint>Footprint:BreakHoles_small</footprint>
+      <libsource lib="kicad_parts" part="MISC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59F15D36</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal</value>
+      <footprint>Crystals:Crystal_SMD_0603-2pin_6.0x3.5mm</footprint>
+      <datasheet>http://www.abracon.com/Resonators/abm7.pdf</datasheet>
+      <fields>
+        <field name="manf#">ABM7-16.000MHZ-D2Y-T</field>
+      </fields>
+      <libsource lib="kicad_parts" part="CRYSTAL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59E2052B</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>10uF</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.mouser.com/ds/2/447/Yageo_UPY-GP_NP0_16V-to-50V_9-358835.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZKY5V7BB106</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5932DB16</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>PAM2804</value>
+      <footprint>Footprint:SOT-23-5</footprint>
+      <datasheet>http://www.mouser.com/ds/2/115/PAM2804-247271.pdf</datasheet>
+      <fields>
+        <field name="manf#">PAM2804AAB010</field>
+      </fields>
+      <libsource lib="kicad_parts" part="PAM2804"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5932E049</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>4.7uH</value>
+      <footprint>Footprint:Inductor_Bourn_4mmx4mm</footprint>
+      <datasheet>http://www.mouser.com/ds/2/445/744766904-709959.pdf</datasheet>
+      <fields>
+        <field name="manf#">744766904</field>
+      </fields>
+      <libsource lib="kicad_parts" part="INDUCTOR"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5932EA3C</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>10uF</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.mouser.com/ds/2/447/Yageo_UPY-GP_NP0_16V-to-50V_9-358835.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZKY5V7BB106</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5932EB0B</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>0.5</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <datasheet>http://www.mouser.com/ds/2/447/PYu-RL_Group_521_RoHS_L_2-1131815.pdf</datasheet>
+      <fields>
+        <field name="manf#">RL0805FR-7W0R5L</field>
+      </fields>
+      <libsource lib="kicad_parts" part="R"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5932EC1F</tstamp>
+    </comp>
+    <comp ref="BL0">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59330150</tstamp>
+    </comp>
+    <comp ref="BL200">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593302D5</tstamp>
+    </comp>
+    <comp ref="BL100">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59330300</tstamp>
+    </comp>
+    <comp ref="BL300">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59330344</tstamp>
+    </comp>
+    <comp ref="BL400">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59330547</tstamp>
+    </comp>
+    <comp ref="BL500">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59330589</tstamp>
+    </comp>
+    <comp ref="BL600">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593305CA</tstamp>
+    </comp>
+    <comp ref="BL700">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59330606</tstamp>
+    </comp>
+    <comp ref="BL800">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59330645</tstamp>
+    </comp>
+    <comp ref="BL900">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5933068B</tstamp>
+    </comp>
+    <comp ref="BLA0">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593306D0</tstamp>
+    </comp>
+    <comp ref="BLB0">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5933071C</tstamp>
+    </comp>
+    <comp ref="BLC0">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59330789</tstamp>
+    </comp>
+    <comp ref="BLD0">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593307DB</tstamp>
+    </comp>
+    <comp ref="BLD1">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5933082C</tstamp>
+    </comp>
+    <comp ref="BL940">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59330880</tstamp>
+    </comp>
+    <comp ref="BL10">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593315E8</tstamp>
+    </comp>
+    <comp ref="BL210">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593315EF</tstamp>
+    </comp>
+    <comp ref="BL110">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593315F5</tstamp>
+    </comp>
+    <comp ref="BL310">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593315FB</tstamp>
+    </comp>
+    <comp ref="BL410">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331601</tstamp>
+    </comp>
+    <comp ref="BL510">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331607</tstamp>
+    </comp>
+    <comp ref="BL610">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5933160D</tstamp>
+    </comp>
+    <comp ref="BL710">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331613</tstamp>
+    </comp>
+    <comp ref="BL810">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331619</tstamp>
+    </comp>
+    <comp ref="BL910">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5933161F</tstamp>
+    </comp>
+    <comp ref="BLA10">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331625</tstamp>
+    </comp>
+    <comp ref="BLB10">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5933162B</tstamp>
+    </comp>
+    <comp ref="BLC10">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331631</tstamp>
+    </comp>
+    <comp ref="BLD10">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331637</tstamp>
+    </comp>
+    <comp ref="BL21">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5933163D</tstamp>
+    </comp>
+    <comp ref="BL20">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C06</tstamp>
+    </comp>
+    <comp ref="BL220">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C0D</tstamp>
+    </comp>
+    <comp ref="BL120">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C13</tstamp>
+    </comp>
+    <comp ref="BL320">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C19</tstamp>
+    </comp>
+    <comp ref="BL420">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C1F</tstamp>
+    </comp>
+    <comp ref="BL520">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C25</tstamp>
+    </comp>
+    <comp ref="BL620">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C2B</tstamp>
+    </comp>
+    <comp ref="BL720">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C31</tstamp>
+    </comp>
+    <comp ref="BL820">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C37</tstamp>
+    </comp>
+    <comp ref="BL920">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C3D</tstamp>
+    </comp>
+    <comp ref="BLA20">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C43</tstamp>
+    </comp>
+    <comp ref="BLB20">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C49</tstamp>
+    </comp>
+    <comp ref="BLC20">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C4F</tstamp>
+    </comp>
+    <comp ref="BLD20">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C55</tstamp>
+    </comp>
+    <comp ref="BLD21">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59331C5B</tstamp>
+    </comp>
+    <comp ref="BL30">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593326D5</tstamp>
+    </comp>
+    <comp ref="BL230">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593326DC</tstamp>
+    </comp>
+    <comp ref="BL130">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593326E2</tstamp>
+    </comp>
+    <comp ref="BL330">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593326E8</tstamp>
+    </comp>
+    <comp ref="BL430">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593326EE</tstamp>
+    </comp>
+    <comp ref="BL530">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593326F4</tstamp>
+    </comp>
+    <comp ref="BL630">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>593326FA</tstamp>
+    </comp>
+    <comp ref="BL750">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332700</tstamp>
+    </comp>
+    <comp ref="BL830">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332706</tstamp>
+    </comp>
+    <comp ref="BL930">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5933270C</tstamp>
+    </comp>
+    <comp ref="BLA30">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332712</tstamp>
+    </comp>
+    <comp ref="BLB30">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332718</tstamp>
+    </comp>
+    <comp ref="BLC30">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5933271E</tstamp>
+    </comp>
+    <comp ref="BLC31">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332724</tstamp>
+    </comp>
+    <comp ref="BLC32">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5933272A</tstamp>
+    </comp>
+    <comp ref="BLD30">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332730</tstamp>
+    </comp>
+    <comp ref="BL40">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332BD6</tstamp>
+    </comp>
+    <comp ref="BL140">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332BDD</tstamp>
+    </comp>
+    <comp ref="BL41">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332BE3</tstamp>
+    </comp>
+    <comp ref="BL141">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332BE9</tstamp>
+    </comp>
+    <comp ref="BL240">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332BEF</tstamp>
+    </comp>
+    <comp ref="BL241">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332BF5</tstamp>
+    </comp>
+    <comp ref="BL640">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332BFB</tstamp>
+    </comp>
+    <comp ref="BL641">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332C01</tstamp>
+    </comp>
+    <comp ref="BL642">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332C07</tstamp>
+    </comp>
+    <comp ref="BLA40">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332C0D</tstamp>
+    </comp>
+    <comp ref="BLA41">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332C13</tstamp>
+    </comp>
+    <comp ref="BLB40">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332C19</tstamp>
+    </comp>
+    <comp ref="BLB41">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332C1F</tstamp>
+    </comp>
+    <comp ref="BLB42">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332C25</tstamp>
+    </comp>
+    <comp ref="BLC40">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332C2B</tstamp>
+    </comp>
+    <comp ref="BLC41">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332C31</tstamp>
+    </comp>
+    <comp ref="BLD40">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332EAD</tstamp>
+    </comp>
+    <comp ref="BLD31">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59332FC5</tstamp>
+    </comp>
+    <comp ref="BLD22">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5934AE6B</tstamp>
+    </comp>
+    <comp ref="BLD41">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5934C32E</tstamp>
+    </comp>
+    <comp ref="BL31">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>5934DE0E</tstamp>
+    </comp>
+    <comp ref="BL540">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59E13C04</tstamp>
+    </comp>
+    <comp ref="BL740">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59E1B57C</tstamp>
+    </comp>
+    <comp ref="BL643">
+      <value>LED</value>
+      <footprint>Footprint:LED_TH_BIVAR</footprint>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/BACKLIT/" tstamps="/5932D4E4/"/>
+      <tstamp>59E61F62</tstamp>
+    </comp>
+    <comp ref="LD1">
+      <value>CAPS_LED</value>
+      <footprint>LEDs:LED_PLCC_2835</footprint>
+      <datasheet>http://www.mouser.com/ds/2/311/LR%20T68F%20-%20TOPLED-318599.pdf</datasheet>
+      <fields>
+        <field name="manf#">LR T68F-U1AA-1-1-Z</field>
+      </fields>
+      <libsource lib="kicad_parts" part="LED"/>
+      <sheetpath names="/Function Leds/" tstamps="/593532A7/"/>
+      <tstamp>5907938D</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <datasheet>http://www.mouser.com/ds/2/54/chpreztr-977002.pdf</datasheet>
+      <fields>
+        <field name="manf#">CR0805-FX-4701ELF</field>
+      </fields>
+      <libsource lib="kicad_parts" part="R"/>
+      <sheetpath names="/Function Leds/" tstamps="/593532A7/"/>
+      <tstamp>59079393</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>CAPS_LOCK</value>
+      <footprint>Pin_Headers:Pin_Header_Angled_1x03_Pitch2.54mm</footprint>
+      <datasheet>http://www.mouser.com/ds/2/445/6130xx11021-538004.pdf</datasheet>
+      <fields>
+        <field name="manf#">61300311021</field>
+      </fields>
+      <libsource lib="kicad_parts" part="3PIN"/>
+      <sheetpath names="/Function Leds/" tstamps="/593532A7/"/>
+      <tstamp>594A7AA3</tstamp>
+    </comp>
+    <comp ref="K340">
+      <value>LMB</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>http://www.mouser.com/ds/2/71/mx_cat-526196.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C12F1</tstamp>
+    </comp>
+    <comp ref="K440">
+      <value>MMB</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>http://www.mouser.com/ds/2/71/mx_cat-526196.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C13CC</tstamp>
+    </comp>
+    <comp ref="K840">
+      <value>RMB</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>http://www.mouser.com/ds/2/71/mx_cat-526196.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C141B</tstamp>
+    </comp>
+    <comp ref="K341">
+      <value>LMB</value>
+      <footprint>Footprint:Mx_125</footprint>
+      <datasheet>http://www.mouser.com/ds/2/71/mx_cat-526196.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C146D</tstamp>
+    </comp>
+    <comp ref="K841">
+      <value>RMB</value>
+      <footprint>Footprint:Mx_125</footprint>
+      <datasheet>http://www.mouser.com/ds/2/71/mx_cat-526196.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C149E</tstamp>
+    </comp>
+    <comp ref="DK34">
+      <value>D43</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C18C0</tstamp>
+    </comp>
+    <comp ref="DK44">
+      <value>D44</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C199F</tstamp>
+    </comp>
+    <comp ref="DK84">
+      <value>D48</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C19F1</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>4.7K</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <datasheet>http://www.mouser.com/ds/2/54/chpreztr-977002.pdf</datasheet>
+      <fields>
+        <field name="manf#">CR0805-FX-4701ELF</field>
+      </fields>
+      <libsource lib="kicad_parts" part="R"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C48D0</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>4.7K</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <datasheet>http://www.mouser.com/ds/2/54/chpreztr-977002.pdf</datasheet>
+      <fields>
+        <field name="manf#">CR0805-FX-4701ELF</field>
+      </fields>
+      <libsource lib="kicad_parts" part="R"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C48CA</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>2.2u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.mouser.com/ds/2/447/Yageo_UPY-GP_NP0_16V-to-50V_9-358835.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC1206ZKY5V9BB225</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C48C4</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>100K</value>
+      <footprint>Resistors_SMD:R_0805_HandSoldering</footprint>
+      <datasheet>http://www.mouser.com/ds/2/447/Yageo_08112016_RC0805-968729.pdf</datasheet>
+      <fields>
+        <field name="manf#">RC0805FR-07100KL</field>
+      </fields>
+      <libsource lib="kicad_parts" part="R"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C48BE</tstamp>
+    </comp>
+    <comp ref="P3">
+      <value>TRACKPOINT</value>
+      <footprint>Connectors_Molex:Molex_PicoBlade_53048-0510_05x1.25mm_Angled</footprint>
+      <datasheet>http://www.mouser.com/ds/2/276/0530480510_PCB_HEADERS-170992.pdf</datasheet>
+      <fields>
+        <field name="manf#">53048-0510</field>
+      </fields>
+      <libsource lib="kicad_parts" part="CONN_01X05"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C4069</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>MAIN_BOARD</value>
+      <footprint>Connectors_Molex:Molex_PicoBlade_53048-1010_10x1.25mm_Angled</footprint>
+      <datasheet>http://www.mouser.com/ds/2/276/0530481010_PCB_HEADERS-146506.pdf</datasheet>
+      <fields>
+        <field name="manf#">53048-1010</field>
+      </fields>
+      <libsource lib="kicad_parts" part="CONN_02X05"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593C4FB5</tstamp>
+    </comp>
+    <comp ref="RGB8">
+      <value>WS2812B</value>
+      <footprint>Footprint:WS2812B</footprint>
+      <fields>
+        <field name="manf#">COM-13667</field>
+      </fields>
+      <libsource lib="kicad_parts" part="WS2812B"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593D8D65</tstamp>
+    </comp>
+    <comp ref="RGB9">
+      <value>WS2812B</value>
+      <footprint>Footprint:WS2812B</footprint>
+      <fields>
+        <field name="manf#">COM-13667</field>
+      </fields>
+      <libsource lib="kicad_parts" part="WS2812B"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593D8DC9</tstamp>
+    </comp>
+    <comp ref="RGB10">
+      <value>WS2812B</value>
+      <footprint>Footprint:WS2812B</footprint>
+      <fields>
+        <field name="manf#">COM-13667</field>
+      </fields>
+      <libsource lib="kicad_parts" part="WS2812B"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593D8E2F</tstamp>
+    </comp>
+    <comp ref="CRGB8">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593DAB4F</tstamp>
+    </comp>
+    <comp ref="CRGB9">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593DB8F3</tstamp>
+    </comp>
+    <comp ref="CRGB10">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C"/>
+      <sheetpath names="/TRACKPOINT/" tstamps="/5934BBCF/"/>
+      <tstamp>593DB954</tstamp>
+    </comp>
+    <comp ref="K0">
+      <value>K00</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593001BE</tstamp>
+    </comp>
+    <comp ref="K100">
+      <value>K01</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593008D3</tstamp>
+    </comp>
+    <comp ref="K200">
+      <value>K02</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59300923</tstamp>
+    </comp>
+    <comp ref="K300">
+      <value>K03</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59300973</tstamp>
+    </comp>
+    <comp ref="K400">
+      <value>K04</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593009C3</tstamp>
+    </comp>
+    <comp ref="K500">
+      <value>K05</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59300A13</tstamp>
+    </comp>
+    <comp ref="K600">
+      <value>K06</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59302751</tstamp>
+    </comp>
+    <comp ref="K700">
+      <value>K07</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593027A1</tstamp>
+    </comp>
+    <comp ref="K800">
+      <value>K08</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593027F1</tstamp>
+    </comp>
+    <comp ref="K900">
+      <value>K09</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59302841</tstamp>
+    </comp>
+    <comp ref="KA0">
+      <value>K0A</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59305CFF</tstamp>
+    </comp>
+    <comp ref="KB0">
+      <value>K0B</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5930751E</tstamp>
+    </comp>
+    <comp ref="KC0">
+      <value>K0C</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593075D5</tstamp>
+    </comp>
+    <comp ref="KD0">
+      <value>K0D</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59307625</tstamp>
+    </comp>
+    <comp ref="KD1">
+      <value>K0D</value>
+      <footprint>Footprint:Mx_200</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931051C</tstamp>
+    </comp>
+    <comp ref="K10">
+      <value>K10</value>
+      <footprint>Footprint:Mx_150</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B739</tstamp>
+    </comp>
+    <comp ref="K110">
+      <value>K11</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B740</tstamp>
+    </comp>
+    <comp ref="K210">
+      <value>K12</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B746</tstamp>
+    </comp>
+    <comp ref="K310">
+      <value>K13</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B74C</tstamp>
+    </comp>
+    <comp ref="K410">
+      <value>K14</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B752</tstamp>
+    </comp>
+    <comp ref="K510">
+      <value>K15</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B758</tstamp>
+    </comp>
+    <comp ref="K610">
+      <value>K16</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B75E</tstamp>
+    </comp>
+    <comp ref="K710">
+      <value>K17</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B764</tstamp>
+    </comp>
+    <comp ref="K810">
+      <value>K18</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B76A</tstamp>
+    </comp>
+    <comp ref="K910">
+      <value>K19</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B770</tstamp>
+    </comp>
+    <comp ref="KA10">
+      <value>K1A</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B776</tstamp>
+    </comp>
+    <comp ref="KB10">
+      <value>K1B</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B77C</tstamp>
+    </comp>
+    <comp ref="KC10">
+      <value>K1C</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B782</tstamp>
+    </comp>
+    <comp ref="KD10">
+      <value>K1D</value>
+      <footprint>Footprint:Mx_150</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B788</tstamp>
+    </comp>
+    <comp ref="K20">
+      <value>K20</value>
+      <footprint>Footprint:Mx_175</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346A83</tstamp>
+    </comp>
+    <comp ref="K120">
+      <value>K21</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346A8A</tstamp>
+    </comp>
+    <comp ref="K220">
+      <value>K22</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346A90</tstamp>
+    </comp>
+    <comp ref="K320">
+      <value>K23</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346A96</tstamp>
+    </comp>
+    <comp ref="K420">
+      <value>K24</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346A9C</tstamp>
+    </comp>
+    <comp ref="K520">
+      <value>K25</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346AA2</tstamp>
+    </comp>
+    <comp ref="K620">
+      <value>K26</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346AA8</tstamp>
+    </comp>
+    <comp ref="K720">
+      <value>K27</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346AAE</tstamp>
+    </comp>
+    <comp ref="K820">
+      <value>K28</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346AB4</tstamp>
+    </comp>
+    <comp ref="K920">
+      <value>K29</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346ABA</tstamp>
+    </comp>
+    <comp ref="KA20">
+      <value>K2A</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346AC0</tstamp>
+    </comp>
+    <comp ref="KB20">
+      <value>K2B</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346AC6</tstamp>
+    </comp>
+    <comp ref="KC20">
+      <value>K2C</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346ACC</tstamp>
+    </comp>
+    <comp ref="KD21">
+      <value>K2D</value>
+      <footprint>Footprint:Mx_225</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+        <field name="Comment">ANSI ENTER</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346AD2</tstamp>
+    </comp>
+    <comp ref="KD22">
+      <value>K2D</value>
+      <footprint>Footprint:Mx_200</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+        <field name="Comment">ISO Enter</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346AD9</tstamp>
+    </comp>
+    <comp ref="K21">
+      <value>K20</value>
+      <footprint>Footprint:Mx_175_STEPPED</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346EC0</tstamp>
+    </comp>
+    <comp ref="K30">
+      <value>K30</value>
+      <footprint>Footprint:Mx_225</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59357231</tstamp>
+    </comp>
+    <comp ref="K130">
+      <value>K31</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59357237</tstamp>
+    </comp>
+    <comp ref="K230">
+      <value>K32</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5935723D</tstamp>
+    </comp>
+    <comp ref="K330">
+      <value>K33</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59357243</tstamp>
+    </comp>
+    <comp ref="K430">
+      <value>K34</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59357249</tstamp>
+    </comp>
+    <comp ref="K530">
+      <value>K35</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5935724F</tstamp>
+    </comp>
+    <comp ref="K630">
+      <value>K36</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59357255</tstamp>
+    </comp>
+    <comp ref="K730">
+      <value>K37</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5935725B</tstamp>
+    </comp>
+    <comp ref="K830">
+      <value>K38</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59357261</tstamp>
+    </comp>
+    <comp ref="K930">
+      <value>K39</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59357267</tstamp>
+    </comp>
+    <comp ref="KA30">
+      <value>K3A</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5935726D</tstamp>
+    </comp>
+    <comp ref="KB30">
+      <value>K3B</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59357273</tstamp>
+    </comp>
+    <comp ref="KC30">
+      <value>K3C</value>
+      <footprint>Footprint:Mx_275</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59357279</tstamp>
+    </comp>
+    <comp ref="KD30">
+      <value>K3D</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5935727F</tstamp>
+    </comp>
+    <comp ref="KC32">
+      <value>K3C</value>
+      <footprint>Footprint:Mx_175</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59357286</tstamp>
+    </comp>
+    <comp ref="K31">
+      <value>K30</value>
+      <footprint>Footprint:Mx_125</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59357310</tstamp>
+    </comp>
+    <comp ref="K40">
+      <value>K40</value>
+      <footprint>Footprint:Mx_125</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59376C98</tstamp>
+    </comp>
+    <comp ref="K41">
+      <value>K40</value>
+      <footprint>Footprint:Mx_150</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59376D90</tstamp>
+    </comp>
+    <comp ref="K140">
+      <value>K41</value>
+      <footprint>Footprint:Mx_125</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5937DE9B</tstamp>
+    </comp>
+    <comp ref="K141">
+      <value>K41</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5937E2C8</tstamp>
+    </comp>
+    <comp ref="K240">
+      <value>K42</value>
+      <footprint>Footprint:Mx_125</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5937F0E0</tstamp>
+    </comp>
+    <comp ref="K640">
+      <value>K46</value>
+      <footprint>Footprint:Mx_600</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593861DC</tstamp>
+    </comp>
+    <comp ref="K641">
+      <value>K46</value>
+      <footprint>Footprint:Mx_625</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59386549</tstamp>
+    </comp>
+    <comp ref="K642">
+      <value>K46</value>
+      <footprint>Footprint:Mx_700</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59386653</tstamp>
+    </comp>
+    <comp ref="K940">
+      <value>K49</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5938DCEC</tstamp>
+    </comp>
+    <comp ref="KA40">
+      <value>K4A</value>
+      <footprint>Footprint:Mx_125</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5938E868</tstamp>
+    </comp>
+    <comp ref="KB40">
+      <value>K4B</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5939E5DA</tstamp>
+    </comp>
+    <comp ref="KB41">
+      <value>K4B</value>
+      <footprint>Footprint:Mx_125</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5939E859</tstamp>
+    </comp>
+    <comp ref="KB42">
+      <value>K4B</value>
+      <footprint>Footprint:Mx_150</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5939E96F</tstamp>
+    </comp>
+    <comp ref="KC40">
+      <value>K4C</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5939FBC5</tstamp>
+    </comp>
+    <comp ref="K4C1">
+      <value>K4C</value>
+      <footprint>Footprint:Mx_125</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5939FDEB</tstamp>
+    </comp>
+    <comp ref="KD40">
+      <value>K4D</value>
+      <footprint>Footprint:Mx_125</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593A0C81</tstamp>
+    </comp>
+    <comp ref="KD41">
+      <value>K4D</value>
+      <footprint>Footprint:Mx_150</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593A0EB4</tstamp>
+    </comp>
+    <comp ref="K241">
+      <value>K42</value>
+      <footprint>Footprint:Mx_150</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5937F3D0</tstamp>
+    </comp>
+    <comp ref="KD20">
+      <value>K2D</value>
+      <footprint>Footprint:Mx_125</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+        <field name="Comment">1.25 ENTER</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5934A273</tstamp>
+    </comp>
+    <comp ref="KD31">
+      <value>K3D</value>
+      <footprint>Footprint:Mx_175</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5934BA33</tstamp>
+    </comp>
+    <comp ref="KC31">
+      <value>K3C</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5934D411</tstamp>
+    </comp>
+    <comp ref="DKD0">
+      <value>DKD0</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59314342</tstamp>
+    </comp>
+    <comp ref="KDC0">
+      <value>D0C</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59315073</tstamp>
+    </comp>
+    <comp ref="DKB0">
+      <value>D0B</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593150EE</tstamp>
+    </comp>
+    <comp ref="DKA0">
+      <value>D0A</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931516C</tstamp>
+    </comp>
+    <comp ref="DK90">
+      <value>D09</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593151EB</tstamp>
+    </comp>
+    <comp ref="DK80">
+      <value>D08</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59315265</tstamp>
+    </comp>
+    <comp ref="DK70">
+      <value>D07</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593152E6</tstamp>
+    </comp>
+    <comp ref="DK40">
+      <value>D04</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59315370</tstamp>
+    </comp>
+    <comp ref="DK30">
+      <value>D03</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59315563</tstamp>
+    </comp>
+    <comp ref="DK50">
+      <value>D05</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593155F9</tstamp>
+    </comp>
+    <comp ref="DK6">
+      <value>D60</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593156A4</tstamp>
+    </comp>
+    <comp ref="DK20">
+      <value>D02</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59315732</tstamp>
+    </comp>
+    <comp ref="DK10">
+      <value>D01</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931581F</tstamp>
+    </comp>
+    <comp ref="DK0">
+      <value>D00</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593158B3</tstamp>
+    </comp>
+    <comp ref="DKD1">
+      <value>D1D</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B798</tstamp>
+    </comp>
+    <comp ref="DKC1">
+      <value>D1C</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B79E</tstamp>
+    </comp>
+    <comp ref="DKB1">
+      <value>D1B</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B7A4</tstamp>
+    </comp>
+    <comp ref="DKA1">
+      <value>DA1</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B7AA</tstamp>
+    </comp>
+    <comp ref="DK91">
+      <value>D19</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B7B0</tstamp>
+    </comp>
+    <comp ref="DK81">
+      <value>D18</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B7B6</tstamp>
+    </comp>
+    <comp ref="DK71">
+      <value>D17</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B7BC</tstamp>
+    </comp>
+    <comp ref="DK41">
+      <value>D14</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B7C2</tstamp>
+    </comp>
+    <comp ref="DK31">
+      <value>D13</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B7C8</tstamp>
+    </comp>
+    <comp ref="DK51">
+      <value>D15</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B7CE</tstamp>
+    </comp>
+    <comp ref="DK61">
+      <value>D16</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B7D4</tstamp>
+    </comp>
+    <comp ref="DK21">
+      <value>D12</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B7DA</tstamp>
+    </comp>
+    <comp ref="DK11">
+      <value>D11</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B7E0</tstamp>
+    </comp>
+    <comp ref="DK1">
+      <value>D10</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5931B7E6</tstamp>
+    </comp>
+    <comp ref="DKD2">
+      <value>D2D</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346AE2</tstamp>
+    </comp>
+    <comp ref="DKC2">
+      <value>D2C</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346AE8</tstamp>
+    </comp>
+    <comp ref="DKB2">
+      <value>D2B</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346AEE</tstamp>
+    </comp>
+    <comp ref="DKA2">
+      <value>D2A</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346AF4</tstamp>
+    </comp>
+    <comp ref="DK92">
+      <value>D29</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346AFA</tstamp>
+    </comp>
+    <comp ref="DK82">
+      <value>D28</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346B00</tstamp>
+    </comp>
+    <comp ref="DK72">
+      <value>D27</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346B06</tstamp>
+    </comp>
+    <comp ref="DK42">
+      <value>D24</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346B0C</tstamp>
+    </comp>
+    <comp ref="DK32">
+      <value>D23</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346B12</tstamp>
+    </comp>
+    <comp ref="DK52">
+      <value>D25</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346B18</tstamp>
+    </comp>
+    <comp ref="DK62">
+      <value>D26</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346B1E</tstamp>
+    </comp>
+    <comp ref="DK22">
+      <value>D22</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346B24</tstamp>
+    </comp>
+    <comp ref="DK12">
+      <value>D21</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346B2A</tstamp>
+    </comp>
+    <comp ref="DK2">
+      <value>D20</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59346B30</tstamp>
+    </comp>
+    <comp ref="DKD3">
+      <value>D3D</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5935728F</tstamp>
+    </comp>
+    <comp ref="DKC3">
+      <value>D3C</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59357295</tstamp>
+    </comp>
+    <comp ref="DKB3">
+      <value>D3B</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5935729B</tstamp>
+    </comp>
+    <comp ref="DKA3">
+      <value>D3A</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593572A1</tstamp>
+    </comp>
+    <comp ref="DK93">
+      <value>D39</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593572A7</tstamp>
+    </comp>
+    <comp ref="DK83">
+      <value>D38</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593572AD</tstamp>
+    </comp>
+    <comp ref="DK73">
+      <value>D37</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593572B3</tstamp>
+    </comp>
+    <comp ref="DK43">
+      <value>D34</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593572B9</tstamp>
+    </comp>
+    <comp ref="DK33">
+      <value>D33</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593572BF</tstamp>
+    </comp>
+    <comp ref="DK53">
+      <value>D35</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593572C5</tstamp>
+    </comp>
+    <comp ref="DK63">
+      <value>D36</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593572CB</tstamp>
+    </comp>
+    <comp ref="DK23">
+      <value>D32</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593572D1</tstamp>
+    </comp>
+    <comp ref="DK13">
+      <value>D31</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593572D7</tstamp>
+    </comp>
+    <comp ref="DK3">
+      <value>D30</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593572DD</tstamp>
+    </comp>
+    <comp ref="DK4">
+      <value>D40</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59377078</tstamp>
+    </comp>
+    <comp ref="DK14">
+      <value>D41</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5937E4BD</tstamp>
+    </comp>
+    <comp ref="DK64">
+      <value>D46</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5938675D</tstamp>
+    </comp>
+    <comp ref="DK94">
+      <value>D49</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5938E25B</tstamp>
+    </comp>
+    <comp ref="DKB4">
+      <value>D4B</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5938ECF3</tstamp>
+    </comp>
+    <comp ref="DKA4">
+      <value>D4A</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5938EE2D</tstamp>
+    </comp>
+    <comp ref="DKC4">
+      <value>D4C</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593A0621</tstamp>
+    </comp>
+    <comp ref="DKD4">
+      <value>D4D</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>593A16FD</tstamp>
+    </comp>
+    <comp ref="DK24">
+      <value>D42</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5937F703</tstamp>
+    </comp>
+    <comp ref="KA41">
+      <value>K4A</value>
+      <footprint>Footprint:Mx_150</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>5938EBE3</tstamp>
+    </comp>
+    <comp ref="K540">
+      <value>K45</value>
+      <footprint>Footprint:Mx_225</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59DE9804</tstamp>
+    </comp>
+    <comp ref="K740">
+      <value>K47</value>
+      <footprint>Footprint:Mx_275</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59DE980F</tstamp>
+    </comp>
+    <comp ref="DK74">
+      <value>D47</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59DE981E</tstamp>
+    </comp>
+    <comp ref="DK54">
+      <value>D45</value>
+      <footprint>Footprint:D_SOD123</footprint>
+      <libsource lib="kicad_parts" part="D"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59DE9829</tstamp>
+    </comp>
+    <comp ref="K643">
+      <value>K46</value>
+      <footprint>Footprint:Mx_100</footprint>
+      <datasheet>https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf</datasheet>
+      <fields>
+        <field name="manf#">MX1A-C1NW</field>
+      </fields>
+      <libsource lib="kicad_parts" part="KEYSW"/>
+      <sheetpath names="/MATRIX/" tstamps="/5935238D/"/>
+      <tstamp>59DE985B</tstamp>
+    </comp>
+    <comp ref="RGB0">
+      <value>WS2812B</value>
+      <footprint>Footprint:WS2812B</footprint>
+      <fields>
+        <field name="manf#">COM-13667</field>
+      </fields>
+      <libsource lib="kicad_parts" part="WS2812B"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>593558EF</tstamp>
+    </comp>
+    <comp ref="CRGB0">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>5935598D</tstamp>
+    </comp>
+    <comp ref="RGB1">
+      <value>WS2812B</value>
+      <footprint>Footprint:WS2812B</footprint>
+      <fields>
+        <field name="manf#">COM-13667</field>
+      </fields>
+      <libsource lib="kicad_parts" part="WS2812B"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>59355B4F</tstamp>
+    </comp>
+    <comp ref="RGB2">
+      <value>WS2812B</value>
+      <footprint>Footprint:WS2812B</footprint>
+      <fields>
+        <field name="manf#">COM-13667</field>
+      </fields>
+      <libsource lib="kicad_parts" part="WS2812B"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>59355BD6</tstamp>
+    </comp>
+    <comp ref="RGB3">
+      <value>WS2812B</value>
+      <footprint>Footprint:WS2812B</footprint>
+      <fields>
+        <field name="manf#">COM-13667</field>
+      </fields>
+      <libsource lib="kicad_parts" part="WS2812B"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>59355D9F</tstamp>
+    </comp>
+    <comp ref="RGB4">
+      <value>WS2812B</value>
+      <footprint>Footprint:WS2812B</footprint>
+      <fields>
+        <field name="manf#">COM-13667</field>
+      </fields>
+      <libsource lib="kicad_parts" part="WS2812B"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>59355E07</tstamp>
+    </comp>
+    <comp ref="CRGB1">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>59356319</tstamp>
+    </comp>
+    <comp ref="CRGB2">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>5935635E</tstamp>
+    </comp>
+    <comp ref="CRGB3">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>593563A8</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>RGB</value>
+      <footprint>Connectors_Molex:Molex_PicoBlade_53048-0310_03x1.25mm_Angled</footprint>
+      <datasheet>http://www.mouser.com/ds/2/276/0530480310_PCB_HEADERS-171011.pdf</datasheet>
+      <fields>
+        <field name="manf#">53048-0310</field>
+      </fields>
+      <libsource lib="kicad_parts" part="3PIN"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>593568B8</tstamp>
+    </comp>
+    <comp ref="CRGB4">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>5935745A</tstamp>
+    </comp>
+    <comp ref="RGB5">
+      <value>WS2812B</value>
+      <footprint>Footprint:WS2812B</footprint>
+      <fields>
+        <field name="manf#">COM-13667</field>
+      </fields>
+      <libsource lib="kicad_parts" part="WS2812B"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>59EC4E8D</tstamp>
+    </comp>
+    <comp ref="RGB6">
+      <value>WS2812B</value>
+      <footprint>Footprint:WS2812B</footprint>
+      <fields>
+        <field name="manf#">COM-13667</field>
+      </fields>
+      <libsource lib="kicad_parts" part="WS2812B"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>59EC64F1</tstamp>
+    </comp>
+    <comp ref="RGB7">
+      <value>WS2812B</value>
+      <footprint>Footprint:WS2812B</footprint>
+      <fields>
+        <field name="manf#">COM-13667</field>
+      </fields>
+      <libsource lib="kicad_parts" part="WS2812B"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>59EC6A64</tstamp>
+    </comp>
+    <comp ref="CRGB5">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>59EC8437</tstamp>
+    </comp>
+    <comp ref="CRGB6">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>59EC893A</tstamp>
+    </comp>
+    <comp ref="CRGB7">
+      <value>0.1u</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_8.pdf</datasheet>
+      <fields>
+        <field name="manf#">CC0805ZRY5V9BB104</field>
+      </fields>
+      <libsource lib="kicad_parts" part="C_Small"/>
+      <sheetpath names="/RGB Underglow/" tstamps="/593984AD/"/>
+      <tstamp>59EC8E72</tstamp>
+    </comp>
+    <comp ref="MH2">
+      <value>TOP_LEFT</value>
+      <footprint>Mounting_Holes:MountingHole_2.5mm_Pad</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>593987BD</tstamp>
+    </comp>
+    <comp ref="MH5">
+      <value>TOP_RIGHT</value>
+      <footprint>Footprint:Poker_oval_hole</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59398812</tstamp>
+    </comp>
+    <comp ref="MH3">
+      <value>CENTER</value>
+      <footprint>Footprint:Poker_oval_hole</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59398878</tstamp>
+    </comp>
+    <comp ref="MH4">
+      <value>BOTTOM_RIGHT</value>
+      <footprint>Footprint:Poker_oval_hole</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>593988C5</tstamp>
+    </comp>
+    <comp ref="MH1">
+      <value>MIDDLE_LEFT</value>
+      <footprint>Footprint:Poker_side_edge_long</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>593988FD</tstamp>
+    </comp>
+    <comp ref="MH6">
+      <value>MIDDLE_RIGHT</value>
+      <footprint>Footprint:Poker_side_edge_long</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59398942</tstamp>
+    </comp>
+    <comp ref="MH7">
+      <value>TRACKPOINT</value>
+      <footprint>Mounting_Holes:MountingHole_6mm</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>5939936E</tstamp>
+    </comp>
+    <comp ref="MH8">
+      <value>DARKOU-FRONT</value>
+      <footprint>Footprint:darkou</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59355090</tstamp>
+    </comp>
+    <comp ref="MH9">
+      <value>DARKOU-BACK</value>
+      <footprint>Footprint:darkou</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59355198</tstamp>
+    </comp>
+    <comp ref="MH10">
+      <value>OpenHardware</value>
+      <footprint>Footprint:OPEN-HARDWARE</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>5935520E</tstamp>
+    </comp>
+    <comp ref="MH11">
+      <value>MB_LEFT</value>
+      <footprint>Footprint:Poker_oval_hole</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>593CB643</tstamp>
+    </comp>
+    <comp ref="MH13">
+      <value>MB_RIGHT</value>
+      <footprint>Footprint:Poker_oval_hole</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>593CB6EE</tstamp>
+    </comp>
+    <comp ref="MH12">
+      <value>MB_CENTER</value>
+      <footprint>Footprint:Poker_oval_hole</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>593CB794</tstamp>
+    </comp>
+    <comp ref="BACKSPACE_1">
+      <value>BACKSPACE</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F193B9</tstamp>
+    </comp>
+    <comp ref="ENTER_ISO_0">
+      <value>ENTER_ISO</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F194E3</tstamp>
+    </comp>
+    <comp ref="ENTER_ANSI_0">
+      <value>ENTER_ANSI</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F19575</tstamp>
+    </comp>
+    <comp ref="L_SHIFT_0">
+      <value>L_SHIFT</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F1964D</tstamp>
+    </comp>
+    <comp ref="R_SHIFT_0">
+      <value>R_SHIFT</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F1973A</tstamp>
+    </comp>
+    <comp ref="BACKSPACE_0">
+      <value>BACKSPACE</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F19C51</tstamp>
+    </comp>
+    <comp ref="ENTER_ISO_1">
+      <value>ENTER_ISO</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F1A234</tstamp>
+    </comp>
+    <comp ref="ENTER_ANSI_1">
+      <value>ENTER_ANSI</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F1A326</tstamp>
+    </comp>
+    <comp ref="L_SHIFT_1">
+      <value>L_SHIFT</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F1AE1F</tstamp>
+    </comp>
+    <comp ref="R_SHIFT_1">
+      <value>R_SHIFT</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F1AF2D</tstamp>
+    </comp>
+    <comp ref="6.25U_0">
+      <value>6.25U</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F1B788</tstamp>
+    </comp>
+    <comp ref="6-7U_0">
+      <value>6U/7U</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F1B850</tstamp>
+    </comp>
+    <comp ref="6-6.25U_0">
+      <value>6U/6.25U</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F1B954</tstamp>
+    </comp>
+    <comp ref="7U_0">
+      <value>7U</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59F1B9E0</tstamp>
+    </comp>
+    <comp ref="SPC_275_0">
+      <value>SPC_275_0</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59DE9C95</tstamp>
+    </comp>
+    <comp ref="SPC_R_SPLIT_0">
+      <value>SPC_275_0</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59DE9D8E</tstamp>
+    </comp>
+    <comp ref="SPC_R_SPLIT_1">
+      <value>SPC_275_1</value>
+      <footprint>Footprint:MXST</footprint>
+      <libsource lib="kicad_parts" part="MOUNT_HOLE"/>
+      <sheetpath names="/Mounting Holes/" tstamps="/5939867D/"/>
+      <tstamp>59E6511D</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="kicad_parts" part="3PIN">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">3PIN</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+        <pin num="3" name="3" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="ATMEGA32U4-MU">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATMEGA32U4-MU</field>
+        <field name="Datasheet">http://www.atmel.com/Images/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf</field>
+        <field name="manf#">ATMEGA32U4-MU</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE6/AIN0" type="BiDi"/>
+        <pin num="2" name="UVcc" type="power_in"/>
+        <pin num="3" name="D-" type="BiDi"/>
+        <pin num="4" name="D+" type="BiDi"/>
+        <pin num="5" name="UGnd" type="power_in"/>
+        <pin num="6" name="UCap" type="input"/>
+        <pin num="7" name="VBus" type="input"/>
+        <pin num="8" name="PB0/SS" type="BiDi"/>
+        <pin num="9" name="PB1/SCK" type="BiDi"/>
+        <pin num="10" name="PB2/MOSI" type="BiDi"/>
+        <pin num="11" name="PB3/MISO" type="BiDi"/>
+        <pin num="12" name="PB7/~RTS" type="BiDi"/>
+        <pin num="13" name="~RESET" type="input"/>
+        <pin num="14" name="VCC" type="power_in"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="XTAL1" type="input"/>
+        <pin num="17" name="XTAL2" type="output"/>
+        <pin num="18" name="PD0/INT0" type="BiDi"/>
+        <pin num="19" name="PD1/INT1" type="BiDi"/>
+        <pin num="20" name="PD2/RXD1" type="BiDi"/>
+        <pin num="21" name="PD3/TXD1" type="BiDi"/>
+        <pin num="22" name="PD5/XCK1" type="BiDi"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="AVCC" type="power_in"/>
+        <pin num="25" name="ICP1/PD4" type="BiDi"/>
+        <pin num="26" name="T1/PD6" type="BiDi"/>
+        <pin num="27" name="T0/PD7" type="BiDi"/>
+        <pin num="28" name="PB4" type="BiDi"/>
+        <pin num="29" name="PB5" type="BiDi"/>
+        <pin num="30" name="PB6" type="BiDi"/>
+        <pin num="31" name="PC6" type="BiDi"/>
+        <pin num="32" name="PC7" type="BiDi"/>
+        <pin num="33" name="~HWB/PE2" type="BiDi"/>
+        <pin num="34" name="VCC" type="power_in"/>
+        <pin num="35" name="GND" type="power_in"/>
+        <pin num="36" name="PF7" type="BiDi"/>
+        <pin num="37" name="PF6" type="BiDi"/>
+        <pin num="38" name="PF5" type="BiDi"/>
+        <pin num="39" name="PF4" type="BiDi"/>
+        <pin num="40" name="PF1" type="BiDi"/>
+        <pin num="41" name="PF0" type="BiDi"/>
+        <pin num="42" name="AREF" type="input"/>
+        <pin num="43" name="GND" type="power_in"/>
+        <pin num="44" name="AVCC" type="power_in"/>
+        <pin num="45" name="GND" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="C">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="CONN_01X05">
+      <footprints>
+        <fp>Pin_Header_Straight_1X05</fp>
+        <fp>Pin_Header_Angled_1X05</fp>
+        <fp>Socket_Strip_Straight_1X05</fp>
+        <fp>Socket_Strip_Angled_1X05</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X05</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="CONN_02X05">
+      <footprints>
+        <fp>Pin_Header_Straight_2X05</fp>
+        <fp>Pin_Header_Angled_2X05</fp>
+        <fp>Socket_Strip_Straight_2X05</fp>
+        <fp>Socket_Strip_Angled_2X05</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_02X05</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="CRYSTAL">
+      <footprints>
+        <fp>Y*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">CRYSTAL</field>
+        <field name="Datasheet">http://www.abracon.com/Resonators/abm7.pdf</field>
+        <field name="manf#">ABM7-16.000MHZ-D2Y-T</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="C_Small">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="D">
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="INDUCTOR">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="KEYSW">
+      <fields>
+        <field name="Reference">K?</field>
+        <field name="Value">KEYSW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="LED">
+      <footprints>
+        <fp>LED*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="MISC">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">MISC</field>
+      </fields>
+    </libpart>
+    <libpart lib="kicad_parts" part="MOUNT_HOLE">
+      <fields>
+        <field name="Reference">MH</field>
+        <field name="Value">MOUNT_HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="PAM2804">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PAM2804</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="BiDi"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="SW" type="output"/>
+        <pin num="4" name="VIN" type="input"/>
+        <pin num="5" name="FB" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="R">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="SW_PUSH">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="USB_mini_micro_B">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_mini_micro_B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VUSB" type="power_out"/>
+        <pin num="2" name="D-" type="BiDi"/>
+        <pin num="3" name="D+" type="BiDi"/>
+        <pin num="4" name="ID" type="input"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="kicad_parts" part="WS2812B">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">WS2812B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="input"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="input"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="kicad_parts">
+      <uri>/home/dbroqua/Projects/dbroqua/kicad_parts/kicad_parts.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="DOUT">
+      <node ref="J2" pin="3"/>
+      <node ref="RGB7" pin="2"/>
+      <node ref="P1" pin="10"/>
+    </net>
+    <net code="2" name="RESET">
+      <node ref="R1" pin="2"/>
+      <node ref="SW1" pin="2"/>
+      <node ref="U0" pin="13"/>
+    </net>
+    <net code="3" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="4" name="Col3">
+      <node ref="DK32" pin="2"/>
+      <node ref="U0" pin="36"/>
+      <node ref="DK30" pin="2"/>
+      <node ref="DK31" pin="2"/>
+      <node ref="P1" pin="3"/>
+      <node ref="DK33" pin="2"/>
+    </net>
+    <net code="5" name="Col4">
+      <node ref="DK43" pin="2"/>
+      <node ref="P1" pin="4"/>
+      <node ref="DK40" pin="2"/>
+      <node ref="DK42" pin="2"/>
+      <node ref="U0" pin="37"/>
+      <node ref="DK41" pin="2"/>
+    </net>
+    <net code="6" name="Col8">
+      <node ref="DK80" pin="2"/>
+      <node ref="DK83" pin="2"/>
+      <node ref="DK82" pin="2"/>
+      <node ref="U0" pin="39"/>
+      <node ref="P1" pin="5"/>
+      <node ref="DK81" pin="2"/>
+    </net>
+    <net code="7" name="D5">
+      <node ref="P1" pin="6"/>
+      <node ref="U0" pin="22"/>
+    </net>
+    <net code="8" name="D2">
+      <node ref="U0" pin="20"/>
+      <node ref="P1" pin="7"/>
+    </net>
+    <net code="9" name="Row4">
+      <node ref="K140" pin="2"/>
+      <node ref="K940" pin="2"/>
+      <node ref="K642" pin="1"/>
+      <node ref="K641" pin="1"/>
+      <node ref="K141" pin="2"/>
+      <node ref="K240" pin="2"/>
+      <node ref="K4C1" pin="2"/>
+      <node ref="KA40" pin="2"/>
+      <node ref="K40" pin="2"/>
+      <node ref="K241" pin="2"/>
+      <node ref="K640" pin="2"/>
+      <node ref="KD41" pin="2"/>
+      <node ref="KB40" pin="2"/>
+      <node ref="KB41" pin="2"/>
+      <node ref="KD40" pin="2"/>
+      <node ref="KB42" pin="2"/>
+      <node ref="KC40" pin="2"/>
+      <node ref="K41" pin="2"/>
+      <node ref="K740" pin="2"/>
+      <node ref="P1" pin="8"/>
+      <node ref="KA41" pin="2"/>
+      <node ref="K643" pin="1"/>
+      <node ref="K540" pin="2"/>
+      <node ref="U0" pin="26"/>
+    </net>
+    <net code="10" name="Net-(P1-Pad9)">
+      <node ref="P1" pin="9"/>
+    </net>
+    <net code="11" name="XTAL1">
+      <node ref="Y1" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="U0" pin="16"/>
+    </net>
+    <net code="12" name="XTAL2">
+      <node ref="U0" pin="17"/>
+      <node ref="Y1" pin="2"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="13" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1"/>
+      <node ref="U0" pin="3"/>
+    </net>
+    <net code="14" name="Net-(J1-Pad3)">
+      <node ref="R4" pin="2"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="15" name="Net-(R4-Pad1)">
+      <node ref="U0" pin="4"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="16" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1"/>
+      <node ref="U0" pin="6"/>
+    </net>
+    <net code="17" name="Net-(R2-Pad2)">
+      <node ref="U0" pin="33"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="18" name="Col2">
+      <node ref="DK23" pin="2"/>
+      <node ref="DK24" pin="2"/>
+      <node ref="U0" pin="31"/>
+      <node ref="DK22" pin="2"/>
+      <node ref="DK20" pin="2"/>
+      <node ref="DK21" pin="2"/>
+    </net>
+    <net code="19" name="CAPS_LED">
+      <node ref="U0" pin="1"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="20" name="Col5">
+      <node ref="DK51" pin="2"/>
+      <node ref="DK54" pin="2"/>
+      <node ref="DK53" pin="2"/>
+      <node ref="U0" pin="8"/>
+      <node ref="DK50" pin="2"/>
+      <node ref="DK52" pin="2"/>
+    </net>
+    <net code="21" name="Row3">
+      <node ref="K130" pin="2"/>
+      <node ref="K930" pin="2"/>
+      <node ref="KB30" pin="2"/>
+      <node ref="KC30" pin="2"/>
+      <node ref="KC31" pin="2"/>
+      <node ref="K30" pin="2"/>
+      <node ref="KD31" pin="2"/>
+      <node ref="KA30" pin="2"/>
+      <node ref="K230" pin="2"/>
+      <node ref="K330" pin="2"/>
+      <node ref="K31" pin="2"/>
+      <node ref="KC32" pin="2"/>
+      <node ref="U0" pin="9"/>
+      <node ref="KD30" pin="1"/>
+      <node ref="K530" pin="2"/>
+      <node ref="K630" pin="2"/>
+      <node ref="K730" pin="2"/>
+      <node ref="K830" pin="2"/>
+      <node ref="K430" pin="2"/>
+    </net>
+    <net code="22" name="Col6">
+      <node ref="DK63" pin="2"/>
+      <node ref="DK64" pin="2"/>
+      <node ref="DK61" pin="2"/>
+      <node ref="DK6" pin="2"/>
+      <node ref="DK62" pin="2"/>
+      <node ref="U0" pin="10"/>
+    </net>
+    <net code="23" name="Row2">
+      <node ref="K420" pin="2"/>
+      <node ref="KD20" pin="2"/>
+      <node ref="K520" pin="2"/>
+      <node ref="K20" pin="2"/>
+      <node ref="U0" pin="30"/>
+      <node ref="K21" pin="1"/>
+      <node ref="KD22" pin="2"/>
+      <node ref="KD21" pin="2"/>
+      <node ref="KC20" pin="2"/>
+      <node ref="K220" pin="2"/>
+      <node ref="K120" pin="2"/>
+      <node ref="KB20" pin="2"/>
+      <node ref="KA20" pin="2"/>
+      <node ref="K920" pin="2"/>
+      <node ref="K820" pin="2"/>
+      <node ref="K320" pin="2"/>
+      <node ref="K720" pin="2"/>
+      <node ref="K620" pin="2"/>
+    </net>
+    <net code="24" name="Col9">
+      <node ref="DK93" pin="2"/>
+      <node ref="DK90" pin="2"/>
+      <node ref="DK91" pin="2"/>
+      <node ref="U0" pin="40"/>
+      <node ref="DK94" pin="2"/>
+      <node ref="DK92" pin="2"/>
+    </net>
+    <net code="25" name="Col7">
+      <node ref="DK73" pin="2"/>
+      <node ref="DK71" pin="2"/>
+      <node ref="DK74" pin="2"/>
+      <node ref="U0" pin="11"/>
+      <node ref="DK70" pin="2"/>
+      <node ref="DK72" pin="2"/>
+    </net>
+    <net code="26" name="ColA">
+      <node ref="U0" pin="21"/>
+      <node ref="DKA2" pin="2"/>
+      <node ref="DKA1" pin="2"/>
+      <node ref="DKA0" pin="2"/>
+      <node ref="DKA4" pin="2"/>
+      <node ref="DKA3" pin="2"/>
+    </net>
+    <net code="27" name="Net-(U0-Pad41)">
+      <node ref="U0" pin="41"/>
+    </net>
+    <net code="28" name="BACKLIT">
+      <node ref="U1" pin="1"/>
+      <node ref="U0" pin="12"/>
+    </net>
+    <net code="29" name="Row0">
+      <node ref="K600" pin="2"/>
+      <node ref="K500" pin="2"/>
+      <node ref="K400" pin="2"/>
+      <node ref="K300" pin="2"/>
+      <node ref="K200" pin="2"/>
+      <node ref="K100" pin="2"/>
+      <node ref="K0" pin="2"/>
+      <node ref="KD0" pin="2"/>
+      <node ref="U0" pin="32"/>
+      <node ref="KD1" pin="2"/>
+      <node ref="KC0" pin="2"/>
+      <node ref="KA0" pin="2"/>
+      <node ref="K900" pin="2"/>
+      <node ref="K800" pin="2"/>
+      <node ref="K700" pin="2"/>
+      <node ref="KB0" pin="2"/>
+    </net>
+    <net code="30" name="Net-(U0-Pad42)">
+      <node ref="U0" pin="42"/>
+    </net>
+    <net code="31" name="/TRACKPOINT/Col8">
+      <node ref="P2" pin="5"/>
+      <node ref="DK84" pin="2"/>
+    </net>
+    <net code="32" name="/TRACKPOINT/Col4">
+      <node ref="P2" pin="4"/>
+      <node ref="DK44" pin="2"/>
+    </net>
+    <net code="33" name="/TRACKPOINT/Col3">
+      <node ref="DK34" pin="2"/>
+      <node ref="P2" pin="3"/>
+    </net>
+    <net code="34" name="/TRACKPOINT/Row4">
+      <node ref="K841" pin="2"/>
+      <node ref="P2" pin="8"/>
+      <node ref="K340" pin="2"/>
+      <node ref="K440" pin="2"/>
+      <node ref="K840" pin="2"/>
+      <node ref="K341" pin="2"/>
+    </net>
+    <net code="35" name="/TRACKPOINT/D2">
+      <node ref="P2" pin="7"/>
+      <node ref="R8" pin="2"/>
+      <node ref="P3" pin="3"/>
+    </net>
+    <net code="36" name="/TRACKPOINT/D5">
+      <node ref="R7" pin="2"/>
+      <node ref="P2" pin="6"/>
+      <node ref="P3" pin="5"/>
+    </net>
+    <net code="37" name="GND">
+      <node ref="RGB8" pin="3"/>
+      <node ref="RGB10" pin="3"/>
+      <node ref="RGB9" pin="3"/>
+      <node ref="P2" pin="2"/>
+      <node ref="C10" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="R5" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="CRGB8" pin="2"/>
+      <node ref="CRGB9" pin="2"/>
+      <node ref="CRGB10" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="P3" pin="2"/>
+      <node ref="U0" pin="43"/>
+      <node ref="U0" pin="23"/>
+      <node ref="U0" pin="5"/>
+      <node ref="J2" pin="2"/>
+      <node ref="RGB0" pin="3"/>
+      <node ref="C1" pin="2"/>
+      <node ref="CRGB0" pin="2"/>
+      <node ref="RGB1" pin="3"/>
+      <node ref="C3" pin="2"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="CRGB1" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="CRGB2" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="U0" pin="15"/>
+      <node ref="RGB2" pin="3"/>
+      <node ref="P1" pin="2"/>
+      <node ref="RGB3" pin="3"/>
+      <node ref="RGB6" pin="3"/>
+      <node ref="C8" pin="2"/>
+      <node ref="RGB7" pin="3"/>
+      <node ref="J1" pin="6"/>
+      <node ref="J1" pin="5"/>
+      <node ref="RGB5" pin="3"/>
+      <node ref="CRGB6" pin="2"/>
+      <node ref="CRGB5" pin="2"/>
+      <node ref="CRGB7" pin="2"/>
+      <node ref="CRGB4" pin="2"/>
+      <node ref="CRGB3" pin="2"/>
+      <node ref="J3" pin="3"/>
+      <node ref="R2" pin="1"/>
+      <node ref="LD1" pin="1"/>
+      <node ref="U0" pin="45"/>
+      <node ref="U0" pin="35"/>
+      <node ref="RGB4" pin="3"/>
+    </net>
+    <net code="38" name="VCC">
+      <node ref="RGB5" pin="1"/>
+      <node ref="RGB6" pin="1"/>
+      <node ref="P2" pin="1"/>
+      <node ref="RGB1" pin="1"/>
+      <node ref="CRGB0" pin="1"/>
+      <node ref="RGB0" pin="1"/>
+      <node ref="J2" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="RGB7" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="CRGB3" pin="1"/>
+      <node ref="CRGB2" pin="1"/>
+      <node ref="CRGB1" pin="1"/>
+      <node ref="RGB4" pin="1"/>
+      <node ref="RGB3" pin="1"/>
+      <node ref="RGB2" pin="1"/>
+      <node ref="CRGB5" pin="1"/>
+      <node ref="CRGB8" pin="1"/>
+      <node ref="CRGB4" pin="1"/>
+      <node ref="CRGB9" pin="1"/>
+      <node ref="CRGB10" pin="1"/>
+      <node ref="CRGB6" pin="1"/>
+      <node ref="C9" pin="2"/>
+      <node ref="CRGB7" pin="1"/>
+      <node ref="P3" pin="1"/>
+      <node ref="J1" pin="1"/>
+      <node ref="U0" pin="2"/>
+      <node ref="P1" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="RGB8" pin="1"/>
+      <node ref="RGB9" pin="1"/>
+      <node ref="RGB10" pin="1"/>
+      <node ref="U0" pin="7"/>
+      <node ref="U0" pin="14"/>
+      <node ref="U0" pin="24"/>
+      <node ref="U0" pin="34"/>
+      <node ref="U0" pin="44"/>
+      <node ref="C6" pin="1"/>
+      <node ref="U1" pin="4"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C7" pin="1"/>
+    </net>
+    <net code="39" name="/TRACKPOINT/RGB">
+      <node ref="P2" pin="10"/>
+      <node ref="RGB8" pin="4"/>
+    </net>
+    <net code="40" name="ColD">
+      <node ref="DKD2" pin="2"/>
+      <node ref="DKD3" pin="2"/>
+      <node ref="DKD1" pin="2"/>
+      <node ref="DKD4" pin="2"/>
+      <node ref="U0" pin="25"/>
+      <node ref="DKD0" pin="2"/>
+    </net>
+    <net code="41" name="RGB">
+      <node ref="U0" pin="27"/>
+      <node ref="RGB0" pin="4"/>
+    </net>
+    <net code="42" name="ColC">
+      <node ref="KDC0" pin="2"/>
+      <node ref="DKC1" pin="2"/>
+      <node ref="DKC4" pin="2"/>
+      <node ref="DKC3" pin="2"/>
+      <node ref="DKC2" pin="2"/>
+      <node ref="U0" pin="18"/>
+    </net>
+    <net code="43" name="Col0">
+      <node ref="DK2" pin="2"/>
+      <node ref="U0" pin="28"/>
+      <node ref="DK4" pin="2"/>
+      <node ref="DK3" pin="2"/>
+      <node ref="DK1" pin="2"/>
+      <node ref="DK0" pin="2"/>
+    </net>
+    <net code="44" name="Row1">
+      <node ref="KD10" pin="2"/>
+      <node ref="K910" pin="2"/>
+      <node ref="KA10" pin="2"/>
+      <node ref="KB10" pin="2"/>
+      <node ref="KC10" pin="2"/>
+      <node ref="U0" pin="38"/>
+      <node ref="K410" pin="2"/>
+      <node ref="K10" pin="2"/>
+      <node ref="K510" pin="2"/>
+      <node ref="K610" pin="2"/>
+      <node ref="K110" pin="2"/>
+      <node ref="K210" pin="2"/>
+      <node ref="K310" pin="2"/>
+      <node ref="K710" pin="2"/>
+      <node ref="K810" pin="2"/>
+    </net>
+    <net code="45" name="ColB">
+      <node ref="DKB1" pin="2"/>
+      <node ref="DKB4" pin="2"/>
+      <node ref="DKB2" pin="2"/>
+      <node ref="DKB0" pin="2"/>
+      <node ref="DKB3" pin="2"/>
+      <node ref="U0" pin="19"/>
+    </net>
+    <net code="46" name="Col1">
+      <node ref="DK14" pin="2"/>
+      <node ref="DK12" pin="2"/>
+      <node ref="U0" pin="29"/>
+      <node ref="DK13" pin="2"/>
+      <node ref="DK10" pin="2"/>
+      <node ref="DK11" pin="2"/>
+    </net>
+    <net code="47" name="Net-(J1-Pad4)">
+      <node ref="J1" pin="4"/>
+    </net>
+    <net code="48" name="LED_CATH">
+      <node ref="BL740" pin="1"/>
+      <node ref="BL540" pin="1"/>
+      <node ref="BL641" pin="1"/>
+      <node ref="BL643" pin="1"/>
+      <node ref="BL830" pin="1"/>
+      <node ref="BLD1" pin="1"/>
+      <node ref="BL940" pin="1"/>
+      <node ref="BLC31" pin="1"/>
+      <node ref="BL10" pin="1"/>
+      <node ref="BL210" pin="1"/>
+      <node ref="BLB0" pin="1"/>
+      <node ref="U1" pin="5"/>
+      <node ref="BLC30" pin="1"/>
+      <node ref="BLB30" pin="1"/>
+      <node ref="BLA30" pin="1"/>
+      <node ref="BL930" pin="1"/>
+      <node ref="R5" pin="2"/>
+      <node ref="BL0" pin="1"/>
+      <node ref="BLD0" pin="1"/>
+      <node ref="BL100" pin="1"/>
+      <node ref="BL750" pin="1"/>
+      <node ref="BL300" pin="1"/>
+      <node ref="BL630" pin="1"/>
+      <node ref="BL120" pin="1"/>
+      <node ref="BL530" pin="1"/>
+      <node ref="BL320" pin="1"/>
+      <node ref="BL420" pin="1"/>
+      <node ref="BL520" pin="1"/>
+      <node ref="BL620" pin="1"/>
+      <node ref="BL430" pin="1"/>
+      <node ref="BL720" pin="1"/>
+      <node ref="BL820" pin="1"/>
+      <node ref="BL920" pin="1"/>
+      <node ref="BLA20" pin="1"/>
+      <node ref="BLC41" pin="1"/>
+      <node ref="BLC40" pin="1"/>
+      <node ref="BLD40" pin="1"/>
+      <node ref="BLD31" pin="1"/>
+      <node ref="BLD22" pin="1"/>
+      <node ref="BLD41" pin="1"/>
+      <node ref="BL31" pin="1"/>
+      <node ref="BL200" pin="1"/>
+      <node ref="BL400" pin="1"/>
+      <node ref="BL500" pin="1"/>
+      <node ref="BL600" pin="1"/>
+      <node ref="BL700" pin="1"/>
+      <node ref="BL800" pin="1"/>
+      <node ref="BL900" pin="1"/>
+      <node ref="BLA0" pin="1"/>
+      <node ref="BLC0" pin="1"/>
+      <node ref="BLC32" pin="1"/>
+      <node ref="BLB42" pin="1"/>
+      <node ref="BL510" pin="1"/>
+      <node ref="BLD30" pin="1"/>
+      <node ref="BL610" pin="1"/>
+      <node ref="BLB41" pin="1"/>
+      <node ref="BL710" pin="1"/>
+      <node ref="BL810" pin="1"/>
+      <node ref="BLB40" pin="1"/>
+      <node ref="BLA41" pin="1"/>
+      <node ref="BL220" pin="1"/>
+      <node ref="BLA40" pin="1"/>
+      <node ref="BLA10" pin="1"/>
+      <node ref="BL330" pin="1"/>
+      <node ref="BL642" pin="1"/>
+      <node ref="BLC10" pin="1"/>
+      <node ref="BLD10" pin="1"/>
+      <node ref="BLB10" pin="1"/>
+      <node ref="BL21" pin="1"/>
+      <node ref="BL640" pin="1"/>
+      <node ref="BL241" pin="1"/>
+      <node ref="BL20" pin="1"/>
+      <node ref="BL40" pin="1"/>
+      <node ref="BL140" pin="1"/>
+      <node ref="BL141" pin="1"/>
+      <node ref="BL910" pin="1"/>
+      <node ref="BL240" pin="1"/>
+      <node ref="BL41" pin="1"/>
+      <node ref="BLD21" pin="1"/>
+      <node ref="BL110" pin="1"/>
+      <node ref="BLD20" pin="1"/>
+      <node ref="BL130" pin="1"/>
+      <node ref="BL230" pin="1"/>
+      <node ref="BL30" pin="1"/>
+      <node ref="BL310" pin="1"/>
+      <node ref="BLC20" pin="1"/>
+      <node ref="BL410" pin="1"/>
+      <node ref="BLB20" pin="1"/>
+    </net>
+    <net code="49" name="Net-(L1-Pad1)">
+      <node ref="U1" pin="3"/>
+      <node ref="L1" pin="1"/>
+    </net>
+    <net code="50" name="LED_AN">
+      <node ref="BL40" pin="2"/>
+      <node ref="BL430" pin="2"/>
+      <node ref="BL241" pin="2"/>
+      <node ref="BL140" pin="2"/>
+      <node ref="BL240" pin="2"/>
+      <node ref="BLC40" pin="2"/>
+      <node ref="BLB42" pin="2"/>
+      <node ref="BL330" pin="2"/>
+      <node ref="BL130" pin="2"/>
+      <node ref="BL141" pin="2"/>
+      <node ref="BL41" pin="2"/>
+      <node ref="BL630" pin="2"/>
+      <node ref="BLC31" pin="2"/>
+      <node ref="BLA40" pin="2"/>
+      <node ref="BLB41" pin="2"/>
+      <node ref="BLA41" pin="2"/>
+      <node ref="BLC30" pin="2"/>
+      <node ref="BLB40" pin="2"/>
+      <node ref="BLB30" pin="2"/>
+      <node ref="BL30" pin="2"/>
+      <node ref="BLA30" pin="2"/>
+      <node ref="BL930" pin="2"/>
+      <node ref="BLD30" pin="2"/>
+      <node ref="BL830" pin="2"/>
+      <node ref="BL640" pin="2"/>
+      <node ref="BL530" pin="2"/>
+      <node ref="BL641" pin="2"/>
+      <node ref="BL230" pin="2"/>
+      <node ref="BL750" pin="2"/>
+      <node ref="BLC32" pin="2"/>
+      <node ref="BL642" pin="2"/>
+      <node ref="BL420" pin="2"/>
+      <node ref="BL410" pin="2"/>
+      <node ref="BL310" pin="2"/>
+      <node ref="BL110" pin="2"/>
+      <node ref="BL820" pin="2"/>
+      <node ref="BLD21" pin="2"/>
+      <node ref="BLD20" pin="2"/>
+      <node ref="BLC20" pin="2"/>
+      <node ref="BLB20" pin="2"/>
+      <node ref="BLA20" pin="2"/>
+      <node ref="BL920" pin="2"/>
+      <node ref="BL210" pin="2"/>
+      <node ref="BL720" pin="2"/>
+      <node ref="BL620" pin="2"/>
+      <node ref="BL520" pin="2"/>
+      <node ref="BL510" pin="2"/>
+      <node ref="BL320" pin="2"/>
+      <node ref="BL120" pin="2"/>
+      <node ref="BL220" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="BL100" pin="2"/>
+      <node ref="BL200" pin="2"/>
+      <node ref="BL0" pin="2"/>
+      <node ref="BL20" pin="2"/>
+      <node ref="BL21" pin="2"/>
+      <node ref="BLD10" pin="2"/>
+      <node ref="BLC10" pin="2"/>
+      <node ref="BLB10" pin="2"/>
+      <node ref="BLA10" pin="2"/>
+      <node ref="BL910" pin="2"/>
+      <node ref="BL810" pin="2"/>
+      <node ref="BL710" pin="2"/>
+      <node ref="BL610" pin="2"/>
+      <node ref="BL31" pin="2"/>
+      <node ref="BL643" pin="2"/>
+      <node ref="BL500" pin="2"/>
+      <node ref="BL540" pin="2"/>
+      <node ref="BL400" pin="2"/>
+      <node ref="BLD41" pin="2"/>
+      <node ref="BLD22" pin="2"/>
+      <node ref="BLD31" pin="2"/>
+      <node ref="BLD40" pin="2"/>
+      <node ref="BLC41" pin="2"/>
+      <node ref="BL740" pin="2"/>
+      <node ref="BL300" pin="2"/>
+      <node ref="L1" pin="2"/>
+      <node ref="BL10" pin="2"/>
+      <node ref="BL940" pin="2"/>
+      <node ref="BLD1" pin="2"/>
+      <node ref="BLD0" pin="2"/>
+      <node ref="BLC0" pin="2"/>
+      <node ref="BLB0" pin="2"/>
+      <node ref="BLA0" pin="2"/>
+      <node ref="BL900" pin="2"/>
+      <node ref="BL800" pin="2"/>
+      <node ref="BL700" pin="2"/>
+      <node ref="BL600" pin="2"/>
+    </net>
+    <net code="51" name="Net-(RGB10-Pad4)">
+      <node ref="RGB10" pin="4"/>
+      <node ref="RGB9" pin="2"/>
+    </net>
+    <net code="52" name="Net-(RGB8-Pad2)">
+      <node ref="RGB8" pin="2"/>
+      <node ref="RGB9" pin="4"/>
+    </net>
+    <net code="53" name="Net-(RGB10-Pad2)">
+      <node ref="RGB10" pin="2"/>
+    </net>
+    <net code="54" name="Net-(DK34-Pad1)">
+      <node ref="K340" pin="1"/>
+      <node ref="K341" pin="1"/>
+      <node ref="DK34" pin="1"/>
+    </net>
+    <net code="55" name="Net-(DK84-Pad1)">
+      <node ref="K841" pin="1"/>
+      <node ref="K840" pin="1"/>
+      <node ref="DK84" pin="1"/>
+    </net>
+    <net code="56" name="Net-(DK44-Pad1)">
+      <node ref="K440" pin="1"/>
+      <node ref="DK44" pin="1"/>
+    </net>
+    <net code="57" name="Net-(P2-Pad9)">
+      <node ref="P2" pin="9"/>
+    </net>
+    <net code="58" name="Net-(C9-Pad1)">
+      <node ref="R9" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="P3" pin="4"/>
+    </net>
+    <net code="59" name="Net-(DK13-Pad1)">
+      <node ref="DK13" pin="1"/>
+      <node ref="K130" pin="1"/>
+    </net>
+    <net code="60" name="Net-(DK3-Pad1)">
+      <node ref="DK3" pin="1"/>
+      <node ref="K30" pin="1"/>
+      <node ref="K31" pin="1"/>
+    </net>
+    <net code="61" name="Net-(DK4-Pad1)">
+      <node ref="K40" pin="1"/>
+      <node ref="DK4" pin="1"/>
+      <node ref="K41" pin="1"/>
+    </net>
+    <net code="62" name="Net-(DK14-Pad1)">
+      <node ref="K140" pin="1"/>
+      <node ref="K141" pin="1"/>
+      <node ref="DK14" pin="1"/>
+    </net>
+    <net code="63" name="Net-(DK23-Pad1)">
+      <node ref="DK23" pin="1"/>
+      <node ref="K230" pin="1"/>
+    </net>
+    <net code="64" name="Net-(DK94-Pad1)">
+      <node ref="DK94" pin="1"/>
+      <node ref="K940" pin="1"/>
+    </net>
+    <net code="65" name="Net-(DKA4-Pad1)">
+      <node ref="DKA4" pin="1"/>
+      <node ref="KA41" pin="1"/>
+      <node ref="KA40" pin="1"/>
+    </net>
+    <net code="66" name="Net-(DKC4-Pad1)">
+      <node ref="K4C1" pin="1"/>
+      <node ref="DKC4" pin="1"/>
+      <node ref="KC40" pin="1"/>
+    </net>
+    <net code="67" name="Net-(DKA3-Pad1)">
+      <node ref="KA30" pin="1"/>
+      <node ref="DKA3" pin="1"/>
+    </net>
+    <net code="68" name="Net-(DK93-Pad1)">
+      <node ref="K930" pin="1"/>
+      <node ref="DK93" pin="1"/>
+    </net>
+    <net code="69" name="Net-(DK83-Pad1)">
+      <node ref="DK83" pin="1"/>
+      <node ref="K830" pin="1"/>
+    </net>
+    <net code="70" name="Net-(DK73-Pad1)">
+      <node ref="DK73" pin="1"/>
+      <node ref="K730" pin="1"/>
+    </net>
+    <net code="71" name="Net-(DK43-Pad1)">
+      <node ref="DK43" pin="1"/>
+      <node ref="K430" pin="1"/>
+    </net>
+    <net code="72" name="Net-(DK33-Pad1)">
+      <node ref="DK33" pin="1"/>
+      <node ref="K330" pin="1"/>
+    </net>
+    <net code="73" name="Net-(DK53-Pad1)">
+      <node ref="DK53" pin="1"/>
+      <node ref="K530" pin="1"/>
+    </net>
+    <net code="74" name="Net-(DK63-Pad1)">
+      <node ref="DK63" pin="1"/>
+      <node ref="K630" pin="1"/>
+    </net>
+    <net code="75" name="Net-(DKD4-Pad1)">
+      <node ref="KD41" pin="1"/>
+      <node ref="KD40" pin="1"/>
+      <node ref="DKD4" pin="1"/>
+    </net>
+    <net code="76" name="Net-(DK24-Pad1)">
+      <node ref="K241" pin="1"/>
+      <node ref="DK24" pin="1"/>
+      <node ref="K240" pin="1"/>
+    </net>
+    <net code="77" name="Net-(DK74-Pad1)">
+      <node ref="K740" pin="1"/>
+      <node ref="DK74" pin="1"/>
+    </net>
+    <net code="78" name="Net-(DK54-Pad1)">
+      <node ref="DK54" pin="1"/>
+      <node ref="K540" pin="1"/>
+    </net>
+    <net code="80" name="Net-(DKD0-Pad1)">
+      <node ref="KD1" pin="1"/>
+      <node ref="KD0" pin="1"/>
+      <node ref="DKD0" pin="1"/>
+    </net>
+    <net code="81" name="Net-(DKD3-Pad1)">
+      <node ref="KD31" pin="1"/>
+      <node ref="DKD3" pin="1"/>
+      <node ref="KD30" pin="2"/>
+    </net>
+    <net code="82" name="Net-(DK2-Pad1)">
+      <node ref="DK2" pin="1"/>
+      <node ref="K21" pin="2"/>
+      <node ref="K20" pin="1"/>
+    </net>
+    <net code="83" name="Net-(DK82-Pad1)">
+      <node ref="DK82" pin="1"/>
+      <node ref="K820" pin="1"/>
+    </net>
+    <net code="84" name="Net-(DK42-Pad1)">
+      <node ref="DK42" pin="1"/>
+      <node ref="K420" pin="1"/>
+    </net>
+    <net code="85" name="Net-(DK52-Pad1)">
+      <node ref="K520" pin="1"/>
+      <node ref="DK52" pin="1"/>
+    </net>
+    <net code="86" name="Net-(DK62-Pad1)">
+      <node ref="K620" pin="1"/>
+      <node ref="DK62" pin="1"/>
+    </net>
+    <net code="87" name="Net-(DK72-Pad1)">
+      <node ref="DK72" pin="1"/>
+      <node ref="K720" pin="1"/>
+    </net>
+    <net code="88" name="Net-(DK92-Pad1)">
+      <node ref="DK92" pin="1"/>
+      <node ref="K920" pin="1"/>
+    </net>
+    <net code="89" name="Net-(DKA2-Pad1)">
+      <node ref="KA20" pin="1"/>
+      <node ref="DKA2" pin="1"/>
+    </net>
+    <net code="90" name="Net-(DKB2-Pad1)">
+      <node ref="KB20" pin="1"/>
+      <node ref="DKB2" pin="1"/>
+    </net>
+    <net code="91" name="Net-(DKA1-Pad1)">
+      <node ref="KA10" pin="1"/>
+      <node ref="DKA1" pin="1"/>
+    </net>
+    <net code="92" name="Net-(DKB1-Pad1)">
+      <node ref="DKB1" pin="1"/>
+      <node ref="KB10" pin="1"/>
+    </net>
+    <net code="93" name="Net-(DKC1-Pad1)">
+      <node ref="DKC1" pin="1"/>
+      <node ref="KC10" pin="1"/>
+    </net>
+    <net code="94" name="Net-(DKD1-Pad1)">
+      <node ref="DKD1" pin="1"/>
+      <node ref="KD10" pin="1"/>
+    </net>
+    <net code="95" name="Net-(DKC2-Pad1)">
+      <node ref="DKC2" pin="1"/>
+      <node ref="KC20" pin="1"/>
+    </net>
+    <net code="96" name="Net-(DK12-Pad1)">
+      <node ref="DK12" pin="1"/>
+      <node ref="K120" pin="1"/>
+    </net>
+    <net code="97" name="Net-(DK22-Pad1)">
+      <node ref="DK22" pin="1"/>
+      <node ref="K220" pin="1"/>
+    </net>
+    <net code="98" name="Net-(DK32-Pad1)">
+      <node ref="DK32" pin="1"/>
+      <node ref="K320" pin="1"/>
+    </net>
+    <net code="99" name="Net-(DKB3-Pad1)">
+      <node ref="KB30" pin="1"/>
+      <node ref="DKB3" pin="1"/>
+    </net>
+    <net code="100" name="Net-(DKD2-Pad1)">
+      <node ref="KD20" pin="1"/>
+      <node ref="KD21" pin="1"/>
+      <node ref="KD22" pin="1"/>
+      <node ref="DKD2" pin="1"/>
+    </net>
+    <net code="101" name="Net-(DK91-Pad1)">
+      <node ref="DK91" pin="1"/>
+      <node ref="K910" pin="1"/>
+    </net>
+    <net code="102" name="Net-(DK30-Pad1)">
+      <node ref="K300" pin="1"/>
+      <node ref="DK30" pin="1"/>
+    </net>
+    <net code="103" name="Net-(DK0-Pad1)">
+      <node ref="DK0" pin="1"/>
+      <node ref="K0" pin="1"/>
+    </net>
+    <net code="104" name="Net-(DK10-Pad1)">
+      <node ref="DK10" pin="1"/>
+      <node ref="K100" pin="1"/>
+    </net>
+    <net code="105" name="Net-(DK20-Pad1)">
+      <node ref="DK20" pin="1"/>
+      <node ref="K200" pin="1"/>
+    </net>
+    <net code="106" name="Net-(DK40-Pad1)">
+      <node ref="DK40" pin="1"/>
+      <node ref="K400" pin="1"/>
+    </net>
+    <net code="107" name="Net-(DK50-Pad1)">
+      <node ref="DK50" pin="1"/>
+      <node ref="K500" pin="1"/>
+    </net>
+    <net code="108" name="Net-(DK6-Pad1)">
+      <node ref="DK6" pin="1"/>
+      <node ref="K600" pin="1"/>
+    </net>
+    <net code="109" name="Net-(DK70-Pad1)">
+      <node ref="DK70" pin="1"/>
+      <node ref="K700" pin="1"/>
+    </net>
+    <net code="110" name="Net-(DK51-Pad1)">
+      <node ref="K510" pin="1"/>
+      <node ref="DK51" pin="1"/>
+    </net>
+    <net code="111" name="Net-(DK11-Pad1)">
+      <node ref="DK11" pin="1"/>
+      <node ref="K110" pin="1"/>
+    </net>
+    <net code="112" name="Net-(DK21-Pad1)">
+      <node ref="DK21" pin="1"/>
+      <node ref="K210" pin="1"/>
+    </net>
+    <net code="113" name="Net-(DK31-Pad1)">
+      <node ref="DK31" pin="1"/>
+      <node ref="K310" pin="1"/>
+    </net>
+    <net code="114" name="Net-(DK41-Pad1)">
+      <node ref="K410" pin="1"/>
+      <node ref="DK41" pin="1"/>
+    </net>
+    <net code="115" name="Net-(DK61-Pad1)">
+      <node ref="DK61" pin="1"/>
+      <node ref="K610" pin="1"/>
+    </net>
+    <net code="116" name="Net-(DK71-Pad1)">
+      <node ref="K710" pin="1"/>
+      <node ref="DK71" pin="1"/>
+    </net>
+    <net code="117" name="Net-(DK81-Pad1)">
+      <node ref="K810" pin="1"/>
+      <node ref="DK81" pin="1"/>
+    </net>
+    <net code="118" name="Net-(DK80-Pad1)">
+      <node ref="K800" pin="1"/>
+      <node ref="DK80" pin="1"/>
+    </net>
+    <net code="119" name="Net-(DK90-Pad1)">
+      <node ref="K900" pin="1"/>
+      <node ref="DK90" pin="1"/>
+    </net>
+    <net code="120" name="Net-(DKA0-Pad1)">
+      <node ref="KA0" pin="1"/>
+      <node ref="DKA0" pin="1"/>
+    </net>
+    <net code="121" name="Net-(DKB0-Pad1)">
+      <node ref="KB0" pin="1"/>
+      <node ref="DKB0" pin="1"/>
+    </net>
+    <net code="122" name="Net-(KC0-Pad1)">
+      <node ref="KC0" pin="1"/>
+      <node ref="KDC0" pin="1"/>
+    </net>
+    <net code="123" name="Net-(DK1-Pad1)">
+      <node ref="K10" pin="1"/>
+      <node ref="DK1" pin="1"/>
+    </net>
+    <net code="124" name="Net-(DK64-Pad1)">
+      <node ref="K641" pin="2"/>
+      <node ref="K642" pin="2"/>
+      <node ref="K643" pin="2"/>
+      <node ref="K640" pin="1"/>
+      <node ref="DK64" pin="1"/>
+    </net>
+    <net code="125" name="Net-(DKB4-Pad1)">
+      <node ref="KB40" pin="1"/>
+      <node ref="DKB4" pin="1"/>
+      <node ref="KB42" pin="1"/>
+      <node ref="KB41" pin="1"/>
+    </net>
+    <net code="126" name="Net-(DKC3-Pad1)">
+      <node ref="KC30" pin="1"/>
+      <node ref="KC31" pin="1"/>
+      <node ref="KC32" pin="1"/>
+      <node ref="DKC3" pin="1"/>
+    </net>
+    <net code="127" name="Net-(J3-Pad2)">
+      <node ref="J3" pin="2"/>
+      <node ref="LD1" pin="2"/>
+    </net>
+    <net code="128" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="129" name="Net-(RGB5-Pad2)">
+      <node ref="RGB5" pin="2"/>
+      <node ref="RGB6" pin="4"/>
+    </net>
+    <net code="130" name="Net-(RGB4-Pad2)">
+      <node ref="RGB5" pin="4"/>
+      <node ref="RGB4" pin="2"/>
+    </net>
+    <net code="131" name="Net-(RGB6-Pad2)">
+      <node ref="RGB7" pin="4"/>
+      <node ref="RGB6" pin="2"/>
+    </net>
+    <net code="132" name="Net-(RGB0-Pad2)">
+      <node ref="RGB1" pin="4"/>
+      <node ref="RGB0" pin="2"/>
+    </net>
+    <net code="133" name="Net-(RGB1-Pad2)">
+      <node ref="RGB2" pin="4"/>
+      <node ref="RGB1" pin="2"/>
+    </net>
+    <net code="134" name="Net-(RGB3-Pad2)">
+      <node ref="RGB3" pin="2"/>
+      <node ref="RGB4" pin="4"/>
+    </net>
+    <net code="135" name="Net-(RGB2-Pad2)">
+      <node ref="RGB3" pin="4"/>
+      <node ref="RGB2" pin="2"/>
+    </net>
+    <net code="136" name="Net-(ENTER_ANSI_0-Pad1)">
+      <node ref="ENTER_ANSI_0" pin="1"/>
+    </net>
+    <net code="137" name="Net-(L_SHIFT_0-Pad1)">
+      <node ref="L_SHIFT_0" pin="1"/>
+    </net>
+    <net code="138" name="Net-(R_SHIFT_0-Pad1)">
+      <node ref="R_SHIFT_0" pin="1"/>
+    </net>
+    <net code="139" name="Net-(BACKSPACE_0-Pad1)">
+      <node ref="BACKSPACE_0" pin="1"/>
+    </net>
+    <net code="140" name="Net-(ENTER_ISO_1-Pad1)">
+      <node ref="ENTER_ISO_1" pin="1"/>
+    </net>
+    <net code="141" name="Net-(ENTER_ANSI_1-Pad1)">
+      <node ref="ENTER_ANSI_1" pin="1"/>
+    </net>
+    <net code="142" name="Net-(L_SHIFT_1-Pad1)">
+      <node ref="L_SHIFT_1" pin="1"/>
+    </net>
+    <net code="143" name="Net-(R_SHIFT_1-Pad1)">
+      <node ref="R_SHIFT_1" pin="1"/>
+    </net>
+    <net code="144" name="Net-(6.25U_0-Pad1)">
+      <node ref="6.25U_0" pin="1"/>
+    </net>
+    <net code="145" name="Net-(6-7U_0-Pad1)">
+      <node ref="6-7U_0" pin="1"/>
+    </net>
+    <net code="146" name="Net-(6-6.25U_0-Pad1)">
+      <node ref="6-6.25U_0" pin="1"/>
+    </net>
+    <net code="147" name="Net-(7U_0-Pad1)">
+      <node ref="7U_0" pin="1"/>
+    </net>
+    <net code="148" name="Net-(SPC_275_0-Pad1)">
+      <node ref="SPC_275_0" pin="1"/>
+    </net>
+    <net code="149" name="Net-(SPC_R_SPLIT_0-Pad1)">
+      <node ref="SPC_R_SPLIT_0" pin="1"/>
+    </net>
+    <net code="150" name="Net-(SPC_R_SPLIT_1-Pad1)">
+      <node ref="SPC_R_SPLIT_1" pin="1"/>
+    </net>
+    <net code="151" name="Net-(ENTER_ISO_0-Pad1)">
+      <node ref="ENTER_ISO_0" pin="1"/>
+    </net>
+    <net code="152" name="Net-(BACKSPACE_1-Pad1)">
+      <node ref="BACKSPACE_1" pin="1"/>
+    </net>
+    <net code="153" name="Net-(MH12-Pad1)">
+      <node ref="MH12" pin="1"/>
+    </net>
+    <net code="154" name="Net-(MH13-Pad1)">
+      <node ref="MH13" pin="1"/>
+    </net>
+    <net code="155" name="Net-(MH11-Pad1)">
+      <node ref="MH11" pin="1"/>
+    </net>
+    <net code="156" name="Net-(MH10-Pad1)">
+      <node ref="MH10" pin="1"/>
+    </net>
+    <net code="157" name="Net-(MH9-Pad1)">
+      <node ref="MH9" pin="1"/>
+    </net>
+    <net code="158" name="Net-(MH8-Pad1)">
+      <node ref="MH8" pin="1"/>
+    </net>
+    <net code="159" name="Net-(MH7-Pad1)">
+      <node ref="MH7" pin="1"/>
+    </net>
+    <net code="160" name="Net-(MH6-Pad1)">
+      <node ref="MH6" pin="1"/>
+    </net>
+    <net code="161" name="Net-(MH1-Pad1)">
+      <node ref="MH1" pin="1"/>
+    </net>
+    <net code="162" name="Net-(MH4-Pad1)">
+      <node ref="MH4" pin="1"/>
+    </net>
+    <net code="163" name="Net-(MH3-Pad1)">
+      <node ref="MH3" pin="1"/>
+    </net>
+    <net code="164" name="Net-(MH5-Pad1)">
+      <node ref="MH5" pin="1"/>
+    </net>
+    <net code="165" name="Net-(MH2-Pad1)">
+      <node ref="MH2" pin="1"/>
+    </net>
+  </nets>
+</export>
