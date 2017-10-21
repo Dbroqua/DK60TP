@@ -1,5 +1,6 @@
 EESchema Schematic File Version 2
 LIBS:kicad_parts
+LIBS:DK60TP-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -499,6 +500,37 @@ F 3 "" H 5000 4100 50  0001 C CNN
 	1    5000 4100
 	1    0    0    -1  
 $EndComp
+Text Notes 750  4000 0    60   ~ 0
+Split PCB holes
+Text Notes 4900 3850 0    60   ~ 0
+Trackpoint connector
+Text Label 6800 2650 0    60   ~ 0
+RGB_TP
+Text Label 5600 4600 0    60   ~ 0
+RGB_TP
+$Comp
+L MISC M2
+U 1 1 59F15D36
+P 1300 4300
+F 0 "M2" H 1300 4450 60  0000 C CNN
+F 1 "MISC" H 1300 4150 60  0000 C CNN
+F 2 "Footprint:BreakHoles_small" H 1300 4300 60  0001 C CNN
+F 3 "" H 1300 4300 60  0000 C CNN
+	1    1300 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L CRYSTAL Y1
+U 1 1 59E2052B
+P 7200 4350
+F 0 "Y1" H 7200 4500 50  0000 C CNN
+F 1 "Crystal" H 7200 4200 50  0000 C CNN
+F 2 "Crystals:Crystal_SMD_0603-2pin_6.0x3.5mm" H 7200 4350 50  0001 C CNN
+F 3 "http://www.abracon.com/Resonators/abm7.pdf" H 7200 4350 50  0001 C CNN
+F 4 "ABM7-16.000MHZ-D2Y-T" H 7200 4350 60  0001 C CNN "manf#"
+	1    7200 4350
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
 	1900 4150 1900 4300
 Wire Wire Line
@@ -647,8 +679,6 @@ Wire Wire Line
 	5600 4200 6250 4200
 Wire Wire Line
 	6250 4200 6250 4500
-Text Notes 750  4000 0    60   ~ 0
-Split PCB holes
 Wire Notes Line
 	600  3700 1650 3700
 Wire Notes Line
@@ -657,8 +687,6 @@ Wire Notes Line
 	600  5100 1650 5100
 Wire Notes Line
 	1650 5100 1650 3700
-Text Notes 4900 3850 0    60   ~ 0
-Trackpoint connector
 Wire Notes Line
 	4750 3700 6450 3700
 Wire Notes Line
@@ -690,21 +718,6 @@ Wire Notes Line
 	7850 3250 7850 550 
 Wire Notes Line
 	7850 550  5500 550 
-Text Label 6800 2650 0    60   ~ 0
-RGB_TP
-Text Label 5600 4600 0    60   ~ 0
-RGB_TP
-$Comp
-L MISC M2
-U 1 1 59F15D36
-P 1300 4300
-F 0 "M2" H 1300 4450 60  0000 C CNN
-F 1 "MISC" H 1300 4150 60  0000 C CNN
-F 2 "Footprint:BreakHoles_small" H 1300 4300 60  0001 C CNN
-F 3 "" H 1300 4300 60  0000 C CNN
-	1    1300 4300
-	1    0    0    -1  
-$EndComp
 Wire Notes Line
 	600  3600 5400 3600
 Wire Wire Line
@@ -713,18 +726,6 @@ Connection ~ 2800 3350
 Wire Wire Line
 	3800 3250 3800 3350
 Connection ~ 3800 3350
-$Comp
-L CRYSTAL Y1
-U 1 1 59E2052B
-P 7200 4350
-F 0 "Y1" H 7200 4500 50  0000 C CNN
-F 1 "Crystal" H 7200 4200 50  0000 C CNN
-F 2 "Crystals:Crystal_SMD_0603-2pin_6.0x3.5mm" H 7200 4350 50  0001 C CNN
-F 3 "http://www.abracon.com/Resonators/abm7.pdf" H 7200 4350 50  0001 C CNN
-F 4 "ABM7-16.000MHZ-D2Y-T" H 7200 4350 60  0001 C CNN "manf#"
-	1    7200 4350
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	7200 4750 7200 4800
 $EndSCHEMATC
