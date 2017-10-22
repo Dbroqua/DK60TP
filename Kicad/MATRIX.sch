@@ -1,6 +1,5 @@
 EESchema Schematic File Version 2
 LIBS:kicad_parts
-LIBS:DK60TP-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -2153,7 +2152,7 @@ Wire Wire Line
 Wire Wire Line
 	2050 5550 2050 6400
 Wire Wire Line
-	1950 5550 1950 5850
+	1950 5550 1950 6150
 Wire Wire Line
 	1350 5550 1350 6400
 Wire Wire Line
@@ -2243,4 +2242,18 @@ Connection ~ 5550 6400
 Connection ~ 4850 5700
 Connection ~ 5450 5700
 NoConn ~ -200 1000
+$Comp
+L KEYSW K142
+U 1 1 59EC7A8F
+P 1650 6150
+F 0 "K142" H 1600 6150 60  0001 C CNN
+F 1 "K41" H 1650 6050 60  0001 C CNN
+F 2 "Footprint:Mx_150" H 1650 6150 60  0001 C CNN
+F 3 "https://search.kemet.com/component-edge/download/datasheet/C0805C220J5GACTU.pdf" H 1650 6150 60  0001 C CNN
+F 4 "MX1A-C1NW" H 1650 1200 60  0001 C CNN "manf#"
+	1    1650 6150
+	-1   0    0    1   
+$EndComp
+Connection ~ 1950 5850
+Connection ~ 1350 6150
 $EndSCHEMATC
