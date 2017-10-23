@@ -1,5 +1,6 @@
 EESchema Schematic File Version 2
 LIBS:kicad_parts
+LIBS:DK60TP-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -334,7 +335,7 @@ Text GLabel 4650 1550 2    60   Input ~ 0
 Col4
 Text GLabel 4650 1650 2    60   Input ~ 0
 Col3
-Text GLabel 4650 2650 2    60   Input ~ 0
+Text GLabel 4650 2550 2    60   Input ~ 0
 Row4
 Text GLabel 4650 2450 2    60   Input ~ 0
 Col0
@@ -440,7 +441,7 @@ U 5939867D
 F0 "Mounting Holes" 60
 F1 "HOLES.sch" 60
 $EndSheet
-Text GLabel 4650 2550 2    60   Input ~ 0
+Text GLabel 4650 2650 2    60   Input ~ 0
 RGB
 $Comp
 L CONN_02X05 P1
