@@ -728,4 +728,26 @@ Wire Wire Line
 Connection ~ 3800 3350
 Wire Wire Line
 	7200 4750 7200 4800
+$Comp
+L MISC M3
+U 1 1 59F5B977
+P 900 4750
+F 0 "M3" H 900 4900 60  0000 C CNN
+F 1 "MISC" H 900 4600 60  0000 C CNN
+F 2 "Footprint:BreakHoles_small" H 900 4750 60  0001 C CNN
+F 3 "" H 900 4750 60  0000 C CNN
+	1    900  4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L MISC M4
+U 1 1 59F5BA24
+P 1300 4750
+F 0 "M4" H 1300 4900 60  0000 C CNN
+F 1 "MISC" H 1300 4600 60  0000 C CNN
+F 2 "Footprint:BreakHoles_small" H 1300 4750 60  0001 C CNN
+F 3 "" H 1300 4750 60  0000 C CNN
+	1    1300 4750
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
